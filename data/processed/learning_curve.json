@@ -1,0 +1,55 @@
+{
+  "learning_curve": [
+    {
+      "train_fraction": 0.1,
+      "n_samples": 22,
+      "auroc": 0.5
+    },
+    {
+      "train_fraction": 0.2,
+      "n_samples": 45,
+      "auroc": 0.515
+    },
+    {
+      "train_fraction": 0.3,
+      "n_samples": 68,
+      "auroc": 0.592
+    },
+    {
+      "train_fraction": 0.4,
+      "n_samples": 91,
+      "auroc": 0.646
+    },
+    {
+      "train_fraction": 0.5,
+      "n_samples": 114,
+      "auroc": 0.636
+    },
+    {
+      "train_fraction": 0.6,
+      "n_samples": 137,
+      "auroc": 0.655
+    },
+    {
+      "train_fraction": 0.7,
+      "n_samples": 160,
+      "auroc": 0.705
+    },
+    {
+      "train_fraction": 0.8,
+      "n_samples": 183,
+      "auroc": 0.701
+    },
+    {
+      "train_fraction": 0.9,
+      "n_samples": 206,
+      "auroc": 0.685
+    },
+    {
+      "train_fraction": 1.0,
+      "n_samples": 229,
+      "auroc": 0.714
+    }
+  ],
+  "data_efficiency_50pct": 89.07563025210085
+}

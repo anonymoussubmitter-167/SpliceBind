@@ -1,0 +1,433 @@
+gene,cancer_type,cancer_name,condition,isoform,tpm,fold_change
+PIM1,BRCA,Breast invasive carcinoma,normal,canonical,6.23,1.0
+PIM1,BRCA,Breast invasive carcinoma,normal,alternative,1.7,1.0
+PIM1,BRCA,Breast invasive carcinoma,tumor,canonical,20.87,2.5
+PIM1,BRCA,Breast invasive carcinoma,tumor,alternative,6.95,3.75
+PIM1,LUAD,Lung adenocarcinoma,normal,canonical,5.35,1.0
+PIM1,LUAD,Lung adenocarcinoma,normal,alternative,1.26,1.0
+PIM1,LUAD,Lung adenocarcinoma,tumor,canonical,13.77,3.0
+PIM1,LUAD,Lung adenocarcinoma,tumor,alternative,6.69,5.4
+PIM1,COAD,Colon adenocarcinoma,normal,canonical,10.88,1.0
+PIM1,COAD,Colon adenocarcinoma,normal,alternative,3.73,1.0
+PIM1,COAD,Colon adenocarcinoma,tumor,canonical,15.9,1.02
+PIM1,COAD,Colon adenocarcinoma,tumor,alternative,4.26,1.1
+PIM1,PRAD,Prostate adenocarcinoma,normal,canonical,11.59,1.0
+PIM1,PRAD,Prostate adenocarcinoma,normal,alternative,3.2,1.0
+PIM1,PRAD,Prostate adenocarcinoma,tumor,canonical,15.98,1.27
+PIM1,PRAD,Prostate adenocarcinoma,tumor,alternative,2.28,0.64
+PIM1,LIHC,Liver hepatocellular carcinoma,normal,canonical,17.29,1.0
+PIM1,LIHC,Liver hepatocellular carcinoma,normal,alternative,4.22,1.0
+PIM1,LIHC,Liver hepatocellular carcinoma,tumor,canonical,18.26,1.25
+PIM1,LIHC,Liver hepatocellular carcinoma,tumor,alternative,2.59,0.82
+PIM1,KIRC,Kidney renal clear cell carcinoma,normal,canonical,27.57,1.0
+PIM1,KIRC,Kidney renal clear cell carcinoma,normal,alternative,6.33,1.0
+PIM1,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,23.84,1.09
+PIM1,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,10.66,2.01
+PIM2,BRCA,Breast invasive carcinoma,normal,canonical,14.32,1.0
+PIM2,BRCA,Breast invasive carcinoma,normal,alternative,3.35,1.0
+PIM2,BRCA,Breast invasive carcinoma,tumor,canonical,18.88,1.5
+PIM2,BRCA,Breast invasive carcinoma,tumor,alternative,7.47,2.38
+PIM2,LUAD,Lung adenocarcinoma,normal,canonical,19.21,1.0
+PIM2,LUAD,Lung adenocarcinoma,normal,alternative,4.06,1.0
+PIM2,LUAD,Lung adenocarcinoma,tumor,canonical,20.94,1.29
+PIM2,LUAD,Lung adenocarcinoma,tumor,alternative,9.23,2.19
+PIM2,COAD,Colon adenocarcinoma,normal,canonical,15.54,1.0
+PIM2,COAD,Colon adenocarcinoma,normal,alternative,4.19,1.0
+PIM2,COAD,Colon adenocarcinoma,tumor,canonical,16.42,1.01
+PIM2,COAD,Colon adenocarcinoma,tumor,alternative,5.68,1.4
+PIM2,PRAD,Prostate adenocarcinoma,normal,canonical,21.51,1.0
+PIM2,PRAD,Prostate adenocarcinoma,normal,alternative,5.87,1.0
+PIM2,PRAD,Prostate adenocarcinoma,tumor,canonical,26.06,1.3
+PIM2,PRAD,Prostate adenocarcinoma,tumor,alternative,10.58,2.41
+PIM2,LIHC,Liver hepatocellular carcinoma,normal,canonical,20.26,1.0
+PIM2,LIHC,Liver hepatocellular carcinoma,normal,alternative,4.19,1.0
+PIM2,LIHC,Liver hepatocellular carcinoma,tumor,canonical,30.96,2.0
+PIM2,LIHC,Liver hepatocellular carcinoma,tumor,alternative,5.17,1.19
+PIM2,KIRC,Kidney renal clear cell carcinoma,normal,canonical,5.86,1.0
+PIM2,KIRC,Kidney renal clear cell carcinoma,normal,alternative,1.51,1.0
+PIM2,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,6.87,1.23
+PIM2,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,1.19,0.95
+PIM3,BRCA,Breast invasive carcinoma,normal,canonical,22.2,1.0
+PIM3,BRCA,Breast invasive carcinoma,normal,alternative,4.78,1.0
+PIM3,BRCA,Breast invasive carcinoma,tumor,canonical,22.14,0.98
+PIM3,BRCA,Breast invasive carcinoma,tumor,alternative,2.91,0.55
+PIM3,LUAD,Lung adenocarcinoma,normal,canonical,23.58,1.0
+PIM3,LUAD,Lung adenocarcinoma,normal,alternative,4.44,1.0
+PIM3,LUAD,Lung adenocarcinoma,tumor,canonical,30.29,1.3
+PIM3,LUAD,Lung adenocarcinoma,tumor,alternative,9.85,1.73
+PIM3,COAD,Colon adenocarcinoma,normal,canonical,22.46,1.0
+PIM3,COAD,Colon adenocarcinoma,normal,alternative,5.7,1.0
+PIM3,COAD,Colon adenocarcinoma,tumor,canonical,34.88,1.38
+PIM3,COAD,Colon adenocarcinoma,tumor,alternative,8.45,1.69
+PIM3,PRAD,Prostate adenocarcinoma,normal,canonical,19.64,1.0
+PIM3,PRAD,Prostate adenocarcinoma,normal,alternative,3.59,1.0
+PIM3,PRAD,Prostate adenocarcinoma,tumor,canonical,15.76,0.94
+PIM3,PRAD,Prostate adenocarcinoma,tumor,alternative,8.9,1.84
+PIM3,LIHC,Liver hepatocellular carcinoma,normal,canonical,10.94,1.0
+PIM3,LIHC,Liver hepatocellular carcinoma,normal,alternative,3.86,1.0
+PIM3,LIHC,Liver hepatocellular carcinoma,tumor,canonical,9.47,0.88
+PIM3,LIHC,Liver hepatocellular carcinoma,tumor,alternative,4.41,1.22
+PIM3,KIRC,Kidney renal clear cell carcinoma,normal,canonical,12.21,1.0
+PIM3,KIRC,Kidney renal clear cell carcinoma,normal,alternative,2.58,1.0
+PIM3,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,10.51,1.17
+PIM3,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,3.84,1.43
+AKT1,BRCA,Breast invasive carcinoma,normal,canonical,8.66,1.0
+AKT1,BRCA,Breast invasive carcinoma,normal,alternative,1.91,1.0
+AKT1,BRCA,Breast invasive carcinoma,tumor,canonical,13.02,1.8
+AKT1,BRCA,Breast invasive carcinoma,tumor,alternative,6.43,3.16
+AKT1,LUAD,Lung adenocarcinoma,normal,canonical,17.25,1.0
+AKT1,LUAD,Lung adenocarcinoma,normal,alternative,5.76,1.0
+AKT1,LUAD,Lung adenocarcinoma,tumor,canonical,21.11,0.82
+AKT1,LUAD,Lung adenocarcinoma,tumor,alternative,4.64,1.0
+AKT1,COAD,Colon adenocarcinoma,normal,canonical,22.79,1.0
+AKT1,COAD,Colon adenocarcinoma,normal,alternative,5.01,1.0
+AKT1,COAD,Colon adenocarcinoma,tumor,canonical,21.63,0.92
+AKT1,COAD,Colon adenocarcinoma,tumor,alternative,9.36,1.68
+AKT1,PRAD,Prostate adenocarcinoma,normal,canonical,24.12,1.0
+AKT1,PRAD,Prostate adenocarcinoma,normal,alternative,7.21,1.0
+AKT1,PRAD,Prostate adenocarcinoma,tumor,canonical,43.58,1.5
+AKT1,PRAD,Prostate adenocarcinoma,tumor,alternative,8.68,1.75
+AKT1,LIHC,Liver hepatocellular carcinoma,normal,canonical,14.64,1.0
+AKT1,LIHC,Liver hepatocellular carcinoma,normal,alternative,4.14,1.0
+AKT1,LIHC,Liver hepatocellular carcinoma,tumor,canonical,19.26,1.3
+AKT1,LIHC,Liver hepatocellular carcinoma,tumor,alternative,2.98,0.83
+AKT1,KIRC,Kidney renal clear cell carcinoma,normal,canonical,8.68,1.0
+AKT1,KIRC,Kidney renal clear cell carcinoma,normal,alternative,2.5,1.0
+AKT1,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,10.88,1.36
+AKT1,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,3.79,1.9
+AKT2,BRCA,Breast invasive carcinoma,normal,canonical,21.93,1.0
+AKT2,BRCA,Breast invasive carcinoma,normal,alternative,6.39,1.0
+AKT2,BRCA,Breast invasive carcinoma,tumor,canonical,20.71,1.03
+AKT2,BRCA,Breast invasive carcinoma,tumor,alternative,4.17,0.65
+AKT2,LUAD,Lung adenocarcinoma,normal,canonical,28.26,1.0
+AKT2,LUAD,Lung adenocarcinoma,normal,alternative,6.12,1.0
+AKT2,LUAD,Lung adenocarcinoma,tumor,canonical,36.62,1.44
+AKT2,LUAD,Lung adenocarcinoma,tumor,alternative,6.85,0.95
+AKT2,COAD,Colon adenocarcinoma,normal,canonical,18.64,1.0
+AKT2,COAD,Colon adenocarcinoma,normal,alternative,3.76,1.0
+AKT2,COAD,Colon adenocarcinoma,tumor,canonical,31.16,2.2
+AKT2,COAD,Colon adenocarcinoma,tumor,alternative,8.88,2.18
+AKT2,PRAD,Prostate adenocarcinoma,normal,canonical,12.17,1.0
+AKT2,PRAD,Prostate adenocarcinoma,normal,alternative,3.21,1.0
+AKT2,PRAD,Prostate adenocarcinoma,tumor,canonical,19.52,1.26
+AKT2,PRAD,Prostate adenocarcinoma,tumor,alternative,6.74,1.72
+AKT2,LIHC,Liver hepatocellular carcinoma,normal,canonical,7.62,1.0
+AKT2,LIHC,Liver hepatocellular carcinoma,normal,alternative,2.69,1.0
+AKT2,LIHC,Liver hepatocellular carcinoma,tumor,canonical,7.74,0.82
+AKT2,LIHC,Liver hepatocellular carcinoma,tumor,alternative,2.5,1.05
+AKT2,KIRC,Kidney renal clear cell carcinoma,normal,canonical,14.78,1.0
+AKT2,KIRC,Kidney renal clear cell carcinoma,normal,alternative,4.34,1.0
+AKT2,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,22.59,1.42
+AKT2,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,4.82,1.13
+AKT3,BRCA,Breast invasive carcinoma,normal,canonical,5.27,1.0
+AKT3,BRCA,Breast invasive carcinoma,normal,alternative,1.16,1.0
+AKT3,BRCA,Breast invasive carcinoma,tumor,canonical,3.5,0.84
+AKT3,BRCA,Breast invasive carcinoma,tumor,alternative,2.02,1.54
+AKT3,LUAD,Lung adenocarcinoma,normal,canonical,5.92,1.0
+AKT3,LUAD,Lung adenocarcinoma,normal,alternative,1.34,1.0
+AKT3,LUAD,Lung adenocarcinoma,tumor,canonical,6.37,1.2
+AKT3,LUAD,Lung adenocarcinoma,tumor,alternative,1.77,1.1
+AKT3,COAD,Colon adenocarcinoma,normal,canonical,24.18,1.0
+AKT3,COAD,Colon adenocarcinoma,normal,alternative,5.07,1.0
+AKT3,COAD,Colon adenocarcinoma,tumor,canonical,32.6,1.49
+AKT3,COAD,Colon adenocarcinoma,tumor,alternative,6.23,1.47
+AKT3,PRAD,Prostate adenocarcinoma,normal,canonical,8.41,1.0
+AKT3,PRAD,Prostate adenocarcinoma,normal,alternative,2.1,1.0
+AKT3,PRAD,Prostate adenocarcinoma,tumor,canonical,10.52,1.19
+AKT3,PRAD,Prostate adenocarcinoma,tumor,alternative,2.14,1.08
+AKT3,LIHC,Liver hepatocellular carcinoma,normal,canonical,5.63,1.0
+AKT3,LIHC,Liver hepatocellular carcinoma,normal,alternative,1.79,1.0
+AKT3,LIHC,Liver hepatocellular carcinoma,tumor,canonical,6.09,1.11
+AKT3,LIHC,Liver hepatocellular carcinoma,tumor,alternative,2.86,2.04
+AKT3,KIRC,Kidney renal clear cell carcinoma,normal,canonical,17.05,1.0
+AKT3,KIRC,Kidney renal clear cell carcinoma,normal,alternative,5.96,1.0
+AKT3,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,35.13,1.41
+AKT3,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,11.48,1.94
+PIK3CA,BRCA,Breast invasive carcinoma,normal,canonical,13.5,1.0
+PIK3CA,BRCA,Breast invasive carcinoma,normal,alternative,4.0,1.0
+PIK3CA,BRCA,Breast invasive carcinoma,tumor,canonical,34.45,2.5
+PIK3CA,BRCA,Breast invasive carcinoma,tumor,alternative,12.87,2.89
+PIK3CA,LUAD,Lung adenocarcinoma,normal,canonical,7.98,1.0
+PIK3CA,LUAD,Lung adenocarcinoma,normal,alternative,1.82,1.0
+PIK3CA,LUAD,Lung adenocarcinoma,tumor,canonical,7.25,1.08
+PIK3CA,LUAD,Lung adenocarcinoma,tumor,alternative,2.32,1.4
+PIK3CA,COAD,Colon adenocarcinoma,normal,canonical,7.8,1.0
+PIK3CA,COAD,Colon adenocarcinoma,normal,alternative,1.77,1.0
+PIK3CA,COAD,Colon adenocarcinoma,tumor,canonical,9.02,1.43
+PIK3CA,COAD,Colon adenocarcinoma,tumor,alternative,4.29,2.35
+PIK3CA,PRAD,Prostate adenocarcinoma,normal,canonical,13.37,1.0
+PIK3CA,PRAD,Prostate adenocarcinoma,normal,alternative,3.04,1.0
+PIK3CA,PRAD,Prostate adenocarcinoma,tumor,canonical,9.83,0.83
+PIK3CA,PRAD,Prostate adenocarcinoma,tumor,alternative,1.14,0.5
+PIK3CA,LIHC,Liver hepatocellular carcinoma,normal,canonical,17.63,1.0
+PIK3CA,LIHC,Liver hepatocellular carcinoma,normal,alternative,3.1,1.0
+PIK3CA,LIHC,Liver hepatocellular carcinoma,tumor,canonical,18.97,1.36
+PIK3CA,LIHC,Liver hepatocellular carcinoma,tumor,alternative,10.26,2.61
+PIK3CA,KIRC,Kidney renal clear cell carcinoma,normal,canonical,15.06,1.0
+PIK3CA,KIRC,Kidney renal clear cell carcinoma,normal,alternative,2.93,1.0
+PIK3CA,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,21.39,1.47
+PIK3CA,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,11.15,2.9
+PIK3CB,BRCA,Breast invasive carcinoma,normal,canonical,16.72,1.0
+PIK3CB,BRCA,Breast invasive carcinoma,normal,alternative,5.04,1.0
+PIK3CB,BRCA,Breast invasive carcinoma,tumor,canonical,22.65,1.34
+PIK3CB,BRCA,Breast invasive carcinoma,tumor,alternative,3.4,0.78
+PIK3CB,LUAD,Lung adenocarcinoma,normal,canonical,20.82,1.0
+PIK3CB,LUAD,Lung adenocarcinoma,normal,alternative,6.1,1.0
+PIK3CB,LUAD,Lung adenocarcinoma,tumor,canonical,16.99,0.83
+PIK3CB,LUAD,Lung adenocarcinoma,tumor,alternative,5.38,1.03
+PIK3CB,COAD,Colon adenocarcinoma,normal,canonical,19.89,1.0
+PIK3CB,COAD,Colon adenocarcinoma,normal,alternative,4.83,1.0
+PIK3CB,COAD,Colon adenocarcinoma,tumor,canonical,27.15,1.31
+PIK3CB,COAD,Colon adenocarcinoma,tumor,alternative,7.44,1.36
+PIK3CB,PRAD,Prostate adenocarcinoma,normal,canonical,26.63,1.0
+PIK3CB,PRAD,Prostate adenocarcinoma,normal,alternative,6.68,1.0
+PIK3CB,PRAD,Prostate adenocarcinoma,tumor,canonical,17.92,0.84
+PIK3CB,PRAD,Prostate adenocarcinoma,tumor,alternative,2.17,0.44
+PIK3CB,LIHC,Liver hepatocellular carcinoma,normal,canonical,5.75,1.0
+PIK3CB,LIHC,Liver hepatocellular carcinoma,normal,alternative,1.76,1.0
+PIK3CB,LIHC,Liver hepatocellular carcinoma,tumor,canonical,4.93,0.92
+PIK3CB,LIHC,Liver hepatocellular carcinoma,tumor,alternative,2.39,1.24
+PIK3CB,KIRC,Kidney renal clear cell carcinoma,normal,canonical,14.16,1.0
+PIK3CB,KIRC,Kidney renal clear cell carcinoma,normal,alternative,3.93,1.0
+PIK3CB,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,16.69,1.1
+PIK3CB,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,2.81,0.74
+PIK3CG,BRCA,Breast invasive carcinoma,normal,canonical,7.35,1.0
+PIK3CG,BRCA,Breast invasive carcinoma,normal,alternative,2.37,1.0
+PIK3CG,BRCA,Breast invasive carcinoma,tumor,canonical,9.65,1.04
+PIK3CG,BRCA,Breast invasive carcinoma,tumor,alternative,2.22,1.18
+PIK3CG,LUAD,Lung adenocarcinoma,normal,canonical,17.96,1.0
+PIK3CG,LUAD,Lung adenocarcinoma,normal,alternative,3.89,1.0
+PIK3CG,LUAD,Lung adenocarcinoma,tumor,canonical,20.38,1.43
+PIK3CG,LUAD,Lung adenocarcinoma,tumor,alternative,5.3,1.08
+PIK3CG,COAD,Colon adenocarcinoma,normal,canonical,9.2,1.0
+PIK3CG,COAD,Colon adenocarcinoma,normal,alternative,2.41,1.0
+PIK3CG,COAD,Colon adenocarcinoma,tumor,canonical,13.42,1.39
+PIK3CG,COAD,Colon adenocarcinoma,tumor,alternative,4.42,2.47
+PIK3CG,PRAD,Prostate adenocarcinoma,normal,canonical,11.09,1.0
+PIK3CG,PRAD,Prostate adenocarcinoma,normal,alternative,3.3,1.0
+PIK3CG,PRAD,Prostate adenocarcinoma,tumor,canonical,12.12,1.14
+PIK3CG,PRAD,Prostate adenocarcinoma,tumor,alternative,3.58,1.11
+PIK3CG,LIHC,Liver hepatocellular carcinoma,normal,canonical,10.0,1.0
+PIK3CG,LIHC,Liver hepatocellular carcinoma,normal,alternative,2.79,1.0
+PIK3CG,LIHC,Liver hepatocellular carcinoma,tumor,canonical,14.67,1.37
+PIK3CG,LIHC,Liver hepatocellular carcinoma,tumor,alternative,5.18,1.9
+PIK3CG,KIRC,Kidney renal clear cell carcinoma,normal,canonical,20.69,1.0
+PIK3CG,KIRC,Kidney renal clear cell carcinoma,normal,alternative,5.24,1.0
+PIK3CG,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,27.78,1.3
+PIK3CG,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,7.45,1.76
+PIK3CD,BRCA,Breast invasive carcinoma,normal,canonical,24.82,1.0
+PIK3CD,BRCA,Breast invasive carcinoma,normal,alternative,6.86,1.0
+PIK3CD,BRCA,Breast invasive carcinoma,tumor,canonical,30.29,1.36
+PIK3CD,BRCA,Breast invasive carcinoma,tumor,alternative,5.66,0.93
+PIK3CD,LUAD,Lung adenocarcinoma,normal,canonical,13.42,1.0
+PIK3CD,LUAD,Lung adenocarcinoma,normal,alternative,3.48,1.0
+PIK3CD,LUAD,Lung adenocarcinoma,tumor,canonical,13.35,0.94
+PIK3CD,LUAD,Lung adenocarcinoma,tumor,alternative,4.65,1.18
+PIK3CD,COAD,Colon adenocarcinoma,normal,canonical,5.14,1.0
+PIK3CD,COAD,Colon adenocarcinoma,normal,alternative,1.8,1.0
+PIK3CD,COAD,Colon adenocarcinoma,tumor,canonical,10.2,1.47
+PIK3CD,COAD,Colon adenocarcinoma,tumor,alternative,5.18,2.85
+PIK3CD,PRAD,Prostate adenocarcinoma,normal,canonical,15.1,1.0
+PIK3CD,PRAD,Prostate adenocarcinoma,normal,alternative,4.69,1.0
+PIK3CD,PRAD,Prostate adenocarcinoma,tumor,canonical,21.26,1.18
+PIK3CD,PRAD,Prostate adenocarcinoma,tumor,alternative,4.59,0.95
+PIK3CD,LIHC,Liver hepatocellular carcinoma,normal,canonical,15.38,1.0
+PIK3CD,LIHC,Liver hepatocellular carcinoma,normal,alternative,4.0,1.0
+PIK3CD,LIHC,Liver hepatocellular carcinoma,tumor,canonical,16.24,0.94
+PIK3CD,LIHC,Liver hepatocellular carcinoma,tumor,alternative,3.17,0.81
+PIK3CD,KIRC,Kidney renal clear cell carcinoma,normal,canonical,7.76,1.0
+PIK3CD,KIRC,Kidney renal clear cell carcinoma,normal,alternative,2.17,1.0
+PIK3CD,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,12.15,1.5
+PIK3CD,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,3.48,2.04
+CLK1,BRCA,Breast invasive carcinoma,normal,canonical,24.4,1.0
+CLK1,BRCA,Breast invasive carcinoma,normal,alternative,5.89,1.0
+CLK1,BRCA,Breast invasive carcinoma,tumor,canonical,34.87,2.0
+CLK1,BRCA,Breast invasive carcinoma,tumor,alternative,22.64,3.94
+CLK1,LUAD,Lung adenocarcinoma,normal,canonical,16.21,1.0
+CLK1,LUAD,Lung adenocarcinoma,normal,alternative,4.01,1.0
+CLK1,LUAD,Lung adenocarcinoma,tumor,canonical,21.49,1.07
+CLK1,LUAD,Lung adenocarcinoma,tumor,alternative,8.66,1.79
+CLK1,COAD,Colon adenocarcinoma,normal,canonical,12.19,1.0
+CLK1,COAD,Colon adenocarcinoma,normal,alternative,4.15,1.0
+CLK1,COAD,Colon adenocarcinoma,tumor,canonical,18.7,1.5
+CLK1,COAD,Colon adenocarcinoma,tumor,alternative,9.1,2.66
+CLK1,PRAD,Prostate adenocarcinoma,normal,canonical,12.18,1.0
+CLK1,PRAD,Prostate adenocarcinoma,normal,alternative,3.4,1.0
+CLK1,PRAD,Prostate adenocarcinoma,tumor,canonical,14.16,1.14
+CLK1,PRAD,Prostate adenocarcinoma,tumor,alternative,6.57,2.27
+CLK1,LIHC,Liver hepatocellular carcinoma,normal,canonical,19.21,1.0
+CLK1,LIHC,Liver hepatocellular carcinoma,normal,alternative,3.87,1.0
+CLK1,LIHC,Liver hepatocellular carcinoma,tumor,canonical,27.01,1.38
+CLK1,LIHC,Liver hepatocellular carcinoma,tumor,alternative,10.03,2.39
+CLK1,KIRC,Kidney renal clear cell carcinoma,normal,canonical,7.83,1.0
+CLK1,KIRC,Kidney renal clear cell carcinoma,normal,alternative,1.99,1.0
+CLK1,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,9.97,1.22
+CLK1,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,2.01,0.98
+CLK2,BRCA,Breast invasive carcinoma,normal,canonical,17.75,1.0
+CLK2,BRCA,Breast invasive carcinoma,normal,alternative,4.14,1.0
+CLK2,BRCA,Breast invasive carcinoma,tumor,canonical,18.06,0.94
+CLK2,BRCA,Breast invasive carcinoma,tumor,alternative,7.43,1.62
+CLK2,LUAD,Lung adenocarcinoma,normal,canonical,7.36,1.0
+CLK2,LUAD,Lung adenocarcinoma,normal,alternative,1.5,1.0
+CLK2,LUAD,Lung adenocarcinoma,tumor,canonical,7.53,1.07
+CLK2,LUAD,Lung adenocarcinoma,tumor,alternative,1.2,0.74
+CLK2,COAD,Colon adenocarcinoma,normal,canonical,18.62,1.0
+CLK2,COAD,Colon adenocarcinoma,normal,alternative,5.47,1.0
+CLK2,COAD,Colon adenocarcinoma,tumor,canonical,26.76,1.11
+CLK2,COAD,Colon adenocarcinoma,tumor,alternative,11.33,2.21
+CLK2,PRAD,Prostate adenocarcinoma,normal,canonical,19.75,1.0
+CLK2,PRAD,Prostate adenocarcinoma,normal,alternative,3.7,1.0
+CLK2,PRAD,Prostate adenocarcinoma,tumor,canonical,14.58,0.82
+CLK2,PRAD,Prostate adenocarcinoma,tumor,alternative,5.9,1.32
+CLK2,LIHC,Liver hepatocellular carcinoma,normal,canonical,15.7,1.0
+CLK2,LIHC,Liver hepatocellular carcinoma,normal,alternative,4.35,1.0
+CLK2,LIHC,Liver hepatocellular carcinoma,tumor,canonical,20.42,1.14
+CLK2,LIHC,Liver hepatocellular carcinoma,tumor,alternative,5.94,1.69
+CLK2,KIRC,Kidney renal clear cell carcinoma,normal,canonical,19.92,1.0
+CLK2,KIRC,Kidney renal clear cell carcinoma,normal,alternative,5.47,1.0
+CLK2,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,24.21,1.02
+CLK2,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,9.98,1.69
+CLK3,BRCA,Breast invasive carcinoma,normal,canonical,6.39,1.0
+CLK3,BRCA,Breast invasive carcinoma,normal,alternative,1.74,1.0
+CLK3,BRCA,Breast invasive carcinoma,tumor,canonical,6.61,1.05
+CLK3,BRCA,Breast invasive carcinoma,tumor,alternative,2.67,1.98
+CLK3,LUAD,Lung adenocarcinoma,normal,canonical,21.99,1.0
+CLK3,LUAD,Lung adenocarcinoma,normal,alternative,5.45,1.0
+CLK3,LUAD,Lung adenocarcinoma,tumor,canonical,20.77,0.9
+CLK3,LUAD,Lung adenocarcinoma,tumor,alternative,6.1,1.11
+CLK3,COAD,Colon adenocarcinoma,normal,canonical,12.35,1.0
+CLK3,COAD,Colon adenocarcinoma,normal,alternative,2.24,1.0
+CLK3,COAD,Colon adenocarcinoma,tumor,canonical,10.2,1.14
+CLK3,COAD,Colon adenocarcinoma,tumor,alternative,4.17,1.36
+CLK3,PRAD,Prostate adenocarcinoma,normal,canonical,16.57,1.0
+CLK3,PRAD,Prostate adenocarcinoma,normal,alternative,4.44,1.0
+CLK3,PRAD,Prostate adenocarcinoma,tumor,canonical,19.19,1.22
+CLK3,PRAD,Prostate adenocarcinoma,tumor,alternative,3.01,0.75
+CLK3,LIHC,Liver hepatocellular carcinoma,normal,canonical,7.01,1.0
+CLK3,LIHC,Liver hepatocellular carcinoma,normal,alternative,1.56,1.0
+CLK3,LIHC,Liver hepatocellular carcinoma,tumor,canonical,10.97,1.32
+CLK3,LIHC,Liver hepatocellular carcinoma,tumor,alternative,1.47,0.77
+CLK3,KIRC,Kidney renal clear cell carcinoma,normal,canonical,17.64,1.0
+CLK3,KIRC,Kidney renal clear cell carcinoma,normal,alternative,4.19,1.0
+CLK3,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,25.43,1.48
+CLK3,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,12.01,2.52
+CLK4,BRCA,Breast invasive carcinoma,normal,canonical,5.32,1.0
+CLK4,BRCA,Breast invasive carcinoma,normal,alternative,1.15,1.0
+CLK4,BRCA,Breast invasive carcinoma,tumor,canonical,5.08,1.19
+CLK4,BRCA,Breast invasive carcinoma,tumor,alternative,1.52,1.16
+CLK4,LUAD,Lung adenocarcinoma,normal,canonical,19.0,1.0
+CLK4,LUAD,Lung adenocarcinoma,normal,alternative,4.11,1.0
+CLK4,LUAD,Lung adenocarcinoma,tumor,canonical,16.81,0.95
+CLK4,LUAD,Lung adenocarcinoma,tumor,alternative,8.01,1.65
+CLK4,COAD,Colon adenocarcinoma,normal,canonical,20.66,1.0
+CLK4,COAD,Colon adenocarcinoma,normal,alternative,5.15,1.0
+CLK4,COAD,Colon adenocarcinoma,tumor,canonical,19.92,1.08
+CLK4,COAD,Colon adenocarcinoma,tumor,alternative,7.21,1.69
+CLK4,PRAD,Prostate adenocarcinoma,normal,canonical,14.48,1.0
+CLK4,PRAD,Prostate adenocarcinoma,normal,alternative,3.19,1.0
+CLK4,PRAD,Prostate adenocarcinoma,tumor,canonical,19.05,1.24
+CLK4,PRAD,Prostate adenocarcinoma,tumor,alternative,2.96,0.8
+CLK4,LIHC,Liver hepatocellular carcinoma,normal,canonical,28.29,1.0
+CLK4,LIHC,Liver hepatocellular carcinoma,normal,alternative,5.82,1.0
+CLK4,LIHC,Liver hepatocellular carcinoma,tumor,canonical,20.48,0.89
+CLK4,LIHC,Liver hepatocellular carcinoma,tumor,alternative,8.94,1.61
+CLK4,KIRC,Kidney renal clear cell carcinoma,normal,canonical,11.45,1.0
+CLK4,KIRC,Kidney renal clear cell carcinoma,normal,alternative,3.7,1.0
+CLK4,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,15.14,1.3
+CLK4,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,7.5,2.31
+JAK1,BRCA,Breast invasive carcinoma,normal,canonical,25.33,1.0
+JAK1,BRCA,Breast invasive carcinoma,normal,alternative,6.42,1.0
+JAK1,BRCA,Breast invasive carcinoma,tumor,canonical,21.43,1.06
+JAK1,BRCA,Breast invasive carcinoma,tumor,alternative,7.93,1.15
+JAK1,LUAD,Lung adenocarcinoma,normal,canonical,12.28,1.0
+JAK1,LUAD,Lung adenocarcinoma,normal,alternative,2.7,1.0
+JAK1,LUAD,Lung adenocarcinoma,tumor,canonical,18.2,1.5
+JAK1,LUAD,Lung adenocarcinoma,tumor,alternative,2.76,1.14
+JAK1,COAD,Colon adenocarcinoma,normal,canonical,25.22,1.0
+JAK1,COAD,Colon adenocarcinoma,normal,alternative,6.58,1.0
+JAK1,COAD,Colon adenocarcinoma,tumor,canonical,28.13,1.26
+JAK1,COAD,Colon adenocarcinoma,tumor,alternative,8.87,1.46
+JAK1,PRAD,Prostate adenocarcinoma,normal,canonical,17.44,1.0
+JAK1,PRAD,Prostate adenocarcinoma,normal,alternative,5.73,1.0
+JAK1,PRAD,Prostate adenocarcinoma,tumor,canonical,21.34,1.23
+JAK1,PRAD,Prostate adenocarcinoma,tumor,alternative,11.29,2.0
+JAK1,LIHC,Liver hepatocellular carcinoma,normal,canonical,18.86,1.0
+JAK1,LIHC,Liver hepatocellular carcinoma,normal,alternative,4.72,1.0
+JAK1,LIHC,Liver hepatocellular carcinoma,tumor,canonical,21.94,0.93
+JAK1,LIHC,Liver hepatocellular carcinoma,tumor,alternative,9.17,1.53
+JAK1,KIRC,Kidney renal clear cell carcinoma,normal,canonical,10.66,1.0
+JAK1,KIRC,Kidney renal clear cell carcinoma,normal,alternative,3.38,1.0
+JAK1,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,12.41,1.17
+JAK1,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,1.86,0.65
+JAK2,BRCA,Breast invasive carcinoma,normal,canonical,13.7,1.0
+JAK2,BRCA,Breast invasive carcinoma,normal,alternative,3.17,1.0
+JAK2,BRCA,Breast invasive carcinoma,tumor,canonical,11.49,0.91
+JAK2,BRCA,Breast invasive carcinoma,tumor,alternative,2.7,0.87
+JAK2,LUAD,Lung adenocarcinoma,normal,canonical,14.89,1.0
+JAK2,LUAD,Lung adenocarcinoma,normal,alternative,3.78,1.0
+JAK2,LUAD,Lung adenocarcinoma,tumor,canonical,24.61,1.8
+JAK2,LUAD,Lung adenocarcinoma,tumor,alternative,8.7,2.04
+JAK2,COAD,Colon adenocarcinoma,normal,canonical,17.24,1.0
+JAK2,COAD,Colon adenocarcinoma,normal,alternative,5.19,1.0
+JAK2,COAD,Colon adenocarcinoma,tumor,canonical,22.63,1.07
+JAK2,COAD,Colon adenocarcinoma,tumor,alternative,7.03,1.41
+JAK2,PRAD,Prostate adenocarcinoma,normal,canonical,21.02,1.0
+JAK2,PRAD,Prostate adenocarcinoma,normal,alternative,5.93,1.0
+JAK2,PRAD,Prostate adenocarcinoma,tumor,canonical,25.69,1.44
+JAK2,PRAD,Prostate adenocarcinoma,tumor,alternative,10.79,1.82
+JAK2,LIHC,Liver hepatocellular carcinoma,normal,canonical,22.34,1.0
+JAK2,LIHC,Liver hepatocellular carcinoma,normal,alternative,5.06,1.0
+JAK2,LIHC,Liver hepatocellular carcinoma,tumor,canonical,21.51,1.04
+JAK2,LIHC,Liver hepatocellular carcinoma,tumor,alternative,12.16,1.7
+JAK2,KIRC,Kidney renal clear cell carcinoma,normal,canonical,25.42,1.0
+JAK2,KIRC,Kidney renal clear cell carcinoma,normal,alternative,5.73,1.0
+JAK2,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,27.53,1.18
+JAK2,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,13.26,2.18
+JAK3,BRCA,Breast invasive carcinoma,normal,canonical,21.02,1.0
+JAK3,BRCA,Breast invasive carcinoma,normal,alternative,5.03,1.0
+JAK3,BRCA,Breast invasive carcinoma,tumor,canonical,22.17,1.22
+JAK3,BRCA,Breast invasive carcinoma,tumor,alternative,4.07,0.64
+JAK3,LUAD,Lung adenocarcinoma,normal,canonical,12.0,1.0
+JAK3,LUAD,Lung adenocarcinoma,normal,alternative,2.68,1.0
+JAK3,LUAD,Lung adenocarcinoma,tumor,canonical,14.07,1.24
+JAK3,LUAD,Lung adenocarcinoma,tumor,alternative,5.08,1.51
+JAK3,COAD,Colon adenocarcinoma,normal,canonical,11.92,1.0
+JAK3,COAD,Colon adenocarcinoma,normal,alternative,2.74,1.0
+JAK3,COAD,Colon adenocarcinoma,tumor,canonical,6.97,0.86
+JAK3,COAD,Colon adenocarcinoma,tumor,alternative,2.66,1.28
+JAK3,PRAD,Prostate adenocarcinoma,normal,canonical,11.99,1.0
+JAK3,PRAD,Prostate adenocarcinoma,normal,alternative,3.69,1.0
+JAK3,PRAD,Prostate adenocarcinoma,tumor,canonical,13.22,1.15
+JAK3,PRAD,Prostate adenocarcinoma,tumor,alternative,3.58,0.95
+JAK3,LIHC,Liver hepatocellular carcinoma,normal,canonical,15.52,1.0
+JAK3,LIHC,Liver hepatocellular carcinoma,normal,alternative,3.23,1.0
+JAK3,LIHC,Liver hepatocellular carcinoma,tumor,canonical,18.97,1.24
+JAK3,LIHC,Liver hepatocellular carcinoma,tumor,alternative,8.01,2.08
+JAK3,KIRC,Kidney renal clear cell carcinoma,normal,canonical,24.16,1.0
+JAK3,KIRC,Kidney renal clear cell carcinoma,normal,alternative,5.13,1.0
+JAK3,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,27.53,1.37
+JAK3,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,6.29,1.2
+TYK2,BRCA,Breast invasive carcinoma,normal,canonical,12.46,1.0
+TYK2,BRCA,Breast invasive carcinoma,normal,alternative,3.64,1.0
+TYK2,BRCA,Breast invasive carcinoma,tumor,canonical,14.79,1.34
+TYK2,BRCA,Breast invasive carcinoma,tumor,alternative,3.11,1.01
+TYK2,LUAD,Lung adenocarcinoma,normal,canonical,22.35,1.0
+TYK2,LUAD,Lung adenocarcinoma,normal,alternative,4.34,1.0
+TYK2,LUAD,Lung adenocarcinoma,tumor,canonical,32.13,1.44
+TYK2,LUAD,Lung adenocarcinoma,tumor,alternative,9.35,2.07
+TYK2,COAD,Colon adenocarcinoma,normal,canonical,7.55,1.0
+TYK2,COAD,Colon adenocarcinoma,normal,alternative,1.78,1.0
+TYK2,COAD,Colon adenocarcinoma,tumor,canonical,7.75,1.17
+TYK2,COAD,Colon adenocarcinoma,tumor,alternative,1.32,0.74
+TYK2,PRAD,Prostate adenocarcinoma,normal,canonical,11.37,1.0
+TYK2,PRAD,Prostate adenocarcinoma,normal,alternative,3.29,1.0
+TYK2,PRAD,Prostate adenocarcinoma,tumor,canonical,13.3,1.13
+TYK2,PRAD,Prostate adenocarcinoma,tumor,alternative,4.29,1.92
+TYK2,LIHC,Liver hepatocellular carcinoma,normal,canonical,9.82,1.0
+TYK2,LIHC,Liver hepatocellular carcinoma,normal,alternative,2.94,1.0
+TYK2,LIHC,Liver hepatocellular carcinoma,tumor,canonical,16.37,1.21
+TYK2,LIHC,Liver hepatocellular carcinoma,tumor,alternative,7.47,2.35
+TYK2,KIRC,Kidney renal clear cell carcinoma,normal,canonical,5.68,1.0
+TYK2,KIRC,Kidney renal clear cell carcinoma,normal,alternative,1.5,1.0
+TYK2,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,5.92,0.89
+TYK2,KIRC,Kidney renal clear cell carcinoma,tumor,alternative,1.26,0.74

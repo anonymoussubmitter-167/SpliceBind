@@ -1,0 +1,27 @@
+{
+  "Overlapping (0-2\u00c5)": {
+    "auroc": 0.892,
+    "n": 42,
+    "precision": 0.95
+  },
+  "Adjacent (2-5\u00c5)": {
+    "auroc": 0.784,
+    "n": 67,
+    "precision": 0.88
+  },
+  "Nearby (5-10\u00c5)": {
+    "auroc": 0.651,
+    "n": 58,
+    "precision": 0.72
+  },
+  "Distant (10-15\u00c5)": {
+    "auroc": 0.523,
+    "n": 38,
+    "precision": 0.58
+  },
+  "Remote (>15\u00c5)": {
+    "auroc": 0.489,
+    "n": 24,
+    "precision": 0.51
+  }
+}

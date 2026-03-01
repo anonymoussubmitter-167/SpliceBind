@@ -1,0 +1,44 @@
+{
+  "method": "hold-out family validation",
+  "holdout_families": [
+    "JAK",
+    "PIK3",
+    "AKT2",
+    "AKT3",
+    "AKT1"
+  ],
+  "mean_auroc": 0.7607375899230273,
+  "std_auroc": 0.12534161595989987,
+  "results": [
+    {
+      "holdout_family": "JAK",
+      "auroc": 0.6591787439613526,
+      "n_samples": 136,
+      "n_positive": 90
+    },
+    {
+      "holdout_family": "PIK3",
+      "auroc": 0.6024096385542168,
+      "n_samples": 115,
+      "n_positive": 83
+    },
+    {
+      "holdout_family": "AKT2",
+      "auroc": 0.9242424242424243,
+      "n_samples": 17,
+      "n_positive": 11
+    },
+    {
+      "holdout_family": "AKT3",
+      "auroc": 0.8857142857142856,
+      "n_samples": 17,
+      "n_positive": 7
+    },
+    {
+      "holdout_family": "AKT1",
+      "auroc": 0.7321428571428571,
+      "n_samples": 15,
+      "n_positive": 8
+    }
+  ]
+}

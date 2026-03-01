@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large data files (re-downloadable)
+data/structures/*.pdb
+data/embeddings/
+
+# Model checkpoints (regenerable)
+*.pt
+*.pth
+
+# TensorBoard events (large binary)
+events.out.tfevents.*
+
+# Training metrics logs
+metrics.jsonl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+tools/p2rank_2.4.2.tar.gz
+tools/p2rank_2.4.2/
+logs/
+
+# P2Rank outputs (regenerable)
+data/p2rank_output/

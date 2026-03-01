@@ -1,0 +1,913 @@
+gene,ensembl_id,tissue,tissue_name,tpm,source
+PIM1,ENSG00000137193,Whole_Blood,Whole Blood,48.48,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Brain_Cortex,Brain - Cortex,7.84,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Brain_Cerebellum,Brain - Cerebellum,8.82,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Heart_Left_Ventricle,Heart - Left Ventricle,10.05,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Liver,Liver,7.72,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Lung,Lung,21.24,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Kidney_Cortex,Kidney - Cortex,10.14,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Pancreas,Pancreas,8.98,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Prostate,Prostate,7.46,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Breast_Mammary_Tissue,Breast - Mammary Tissue,8.68,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Colon_Transverse,Colon - Transverse,7.46,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Skin_Sun_Exposed,Skin - Sun Exposed,7.46,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Muscle_Skeletal,Muscle - Skeletal,8.3,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Thyroid,Thyroid,6.0,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Stomach,Stomach,6.18,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Bladder,Bladder,7.35,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Adrenal_Gland,Adrenal Gland,6.87,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Spleen,Spleen,31.45,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Small_Intestine,Small Intestine,6.98,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Adipose_Subcutaneous,Adipose - Subcutaneous,6.47,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Nerve_Tibial,Nerve - Tibial,9.97,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Ovary,Ovary,7.73,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Testis,Testis,8.08,GTEx_v8_enhanced
+PIM1,ENSG00000137193,Uterus,Uterus,6.46,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Whole_Blood,Whole Blood,23.04,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Brain_Cortex,Brain - Cortex,4.07,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Brain_Cerebellum,Brain - Cerebellum,3.37,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Heart_Left_Ventricle,Heart - Left Ventricle,4.23,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Liver,Liver,3.66,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Lung,Lung,3.83,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Kidney_Cortex,Kidney - Cortex,3.65,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Pancreas,Pancreas,5.28,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Prostate,Prostate,3.99,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Breast_Mammary_Tissue,Breast - Mammary Tissue,3.41,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Colon_Transverse,Colon - Transverse,4.53,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Skin_Sun_Exposed,Skin - Sun Exposed,3.33,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Muscle_Skeletal,Muscle - Skeletal,4.13,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Thyroid,Thyroid,2.98,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Stomach,Stomach,3.28,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Bladder,Bladder,4.12,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Adrenal_Gland,Adrenal Gland,4.47,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Spleen,Spleen,18.47,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Small_Intestine,Small Intestine,3.93,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Adipose_Subcutaneous,Adipose - Subcutaneous,3.82,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Nerve_Tibial,Nerve - Tibial,3.2,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Ovary,Ovary,3.59,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Testis,Testis,3.73,GTEx_v8_enhanced
+PIM2,ENSG00000102096,Uterus,Uterus,4.69,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Whole_Blood,Whole Blood,15.79,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Brain_Cortex,Brain - Cortex,2.3,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Brain_Cerebellum,Brain - Cerebellum,3.15,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Heart_Left_Ventricle,Heart - Left Ventricle,2.83,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Liver,Liver,2.71,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Lung,Lung,10.96,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Kidney_Cortex,Kidney - Cortex,3.5,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Pancreas,Pancreas,3.45,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Prostate,Prostate,2.65,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Breast_Mammary_Tissue,Breast - Mammary Tissue,2.86,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Colon_Transverse,Colon - Transverse,3.15,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Skin_Sun_Exposed,Skin - Sun Exposed,3.47,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Muscle_Skeletal,Muscle - Skeletal,2.79,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Thyroid,Thyroid,2.92,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Stomach,Stomach,2.54,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Bladder,Bladder,2.51,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Adrenal_Gland,Adrenal Gland,3.39,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Spleen,Spleen,3.68,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Small_Intestine,Small Intestine,2.97,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Adipose_Subcutaneous,Adipose - Subcutaneous,3.49,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Nerve_Tibial,Nerve - Tibial,3.17,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Ovary,Ovary,2.72,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Testis,Testis,3.17,GTEx_v8_enhanced
+PIM3,ENSG00000198355,Uterus,Uterus,3.78,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Whole_Blood,Whole Blood,19.89,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Brain_Cortex,Brain - Cortex,25.29,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Brain_Cerebellum,Brain - Cerebellum,13.5,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Heart_Left_Ventricle,Heart - Left Ventricle,22.62,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Liver,Liver,50.66,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Lung,Lung,19.12,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Kidney_Cortex,Kidney - Cortex,40.55,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Pancreas,Pancreas,14.84,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Prostate,Prostate,19.35,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Breast_Mammary_Tissue,Breast - Mammary Tissue,36.93,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Colon_Transverse,Colon - Transverse,24.96,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Skin_Sun_Exposed,Skin - Sun Exposed,18.5,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Muscle_Skeletal,Muscle - Skeletal,17.72,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Thyroid,Thyroid,18.55,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Stomach,Stomach,22.94,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Bladder,Bladder,21.01,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Adrenal_Gland,Adrenal Gland,18.47,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Spleen,Spleen,21.6,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Small_Intestine,Small Intestine,20.29,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Adipose_Subcutaneous,Adipose - Subcutaneous,23.13,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Nerve_Tibial,Nerve - Tibial,18.0,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Ovary,Ovary,19.04,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Testis,Testis,18.86,GTEx_v8_enhanced
+AKT1,ENSG00000142208,Uterus,Uterus,16.06,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Whole_Blood,Whole Blood,15.68,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Brain_Cortex,Brain - Cortex,15.6,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Brain_Cerebellum,Brain - Cerebellum,15.01,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Heart_Left_Ventricle,Heart - Left Ventricle,14.48,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Liver,Liver,28.31,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Lung,Lung,14.08,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Kidney_Cortex,Kidney - Cortex,14.25,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Pancreas,Pancreas,13.3,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Prostate,Prostate,14.64,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Breast_Mammary_Tissue,Breast - Mammary Tissue,15.94,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Colon_Transverse,Colon - Transverse,19.91,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Skin_Sun_Exposed,Skin - Sun Exposed,15.4,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Muscle_Skeletal,Muscle - Skeletal,31.18,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Thyroid,Thyroid,14.83,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Stomach,Stomach,11.25,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Bladder,Bladder,14.94,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Adrenal_Gland,Adrenal Gland,15.14,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Spleen,Spleen,21.7,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Small_Intestine,Small Intestine,14.57,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Adipose_Subcutaneous,Adipose - Subcutaneous,15.69,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Nerve_Tibial,Nerve - Tibial,14.92,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Ovary,Ovary,12.59,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Testis,Testis,17.8,GTEx_v8_enhanced
+AKT2,ENSG00000105221,Uterus,Uterus,16.79,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Whole_Blood,Whole Blood,9.01,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Brain_Cortex,Brain - Cortex,24.43,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Brain_Cerebellum,Brain - Cerebellum,30.85,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Heart_Left_Ventricle,Heart - Left Ventricle,6.48,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Liver,Liver,8.74,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Lung,Lung,11.11,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Kidney_Cortex,Kidney - Cortex,6.9,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Pancreas,Pancreas,7.35,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Prostate,Prostate,8.12,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Breast_Mammary_Tissue,Breast - Mammary Tissue,7.42,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Colon_Transverse,Colon - Transverse,6.34,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Skin_Sun_Exposed,Skin - Sun Exposed,8.08,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Muscle_Skeletal,Muscle - Skeletal,6.82,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Thyroid,Thyroid,8.59,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Stomach,Stomach,6.97,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Bladder,Bladder,10.09,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Adrenal_Gland,Adrenal Gland,7.11,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Spleen,Spleen,7.62,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Small_Intestine,Small Intestine,9.04,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Adipose_Subcutaneous,Adipose - Subcutaneous,6.65,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Nerve_Tibial,Nerve - Tibial,8.28,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Ovary,Ovary,9.73,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Testis,Testis,6.29,GTEx_v8_enhanced
+AKT3,ENSG00000117020,Uterus,Uterus,8.22,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Whole_Blood,Whole Blood,10.4,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Brain_Cortex,Brain - Cortex,11.24,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Brain_Cerebellum,Brain - Cerebellum,8.31,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Heart_Left_Ventricle,Heart - Left Ventricle,8.2,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Liver,Liver,10.81,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Lung,Lung,10.46,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Kidney_Cortex,Kidney - Cortex,10.38,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Pancreas,Pancreas,10.53,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Prostate,Prostate,9.03,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Breast_Mammary_Tissue,Breast - Mammary Tissue,20.71,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Colon_Transverse,Colon - Transverse,10.45,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Skin_Sun_Exposed,Skin - Sun Exposed,8.98,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Muscle_Skeletal,Muscle - Skeletal,13.23,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Thyroid,Thyroid,10.74,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Stomach,Stomach,8.36,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Bladder,Bladder,11.03,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Adrenal_Gland,Adrenal Gland,8.64,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Spleen,Spleen,11.25,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Small_Intestine,Small Intestine,11.9,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Adipose_Subcutaneous,Adipose - Subcutaneous,8.84,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Nerve_Tibial,Nerve - Tibial,11.55,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Ovary,Ovary,19.15,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Testis,Testis,11.31,GTEx_v8_enhanced
+PIK3CA,ENSG00000121879,Uterus,Uterus,13.29,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Whole_Blood,Whole Blood,11.57,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Brain_Cortex,Brain - Cortex,10.72,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Brain_Cerebellum,Brain - Cerebellum,10.5,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Heart_Left_Ventricle,Heart - Left Ventricle,10.62,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Liver,Liver,21.75,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Lung,Lung,12.63,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Kidney_Cortex,Kidney - Cortex,18.76,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Pancreas,Pancreas,13.59,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Prostate,Prostate,12.02,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Breast_Mammary_Tissue,Breast - Mammary Tissue,14.92,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Colon_Transverse,Colon - Transverse,11.53,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Skin_Sun_Exposed,Skin - Sun Exposed,18.05,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Muscle_Skeletal,Muscle - Skeletal,13.18,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Thyroid,Thyroid,10.55,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Stomach,Stomach,10.22,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Bladder,Bladder,12.9,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Adrenal_Gland,Adrenal Gland,11.6,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Spleen,Spleen,13.36,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Small_Intestine,Small Intestine,12.88,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Adipose_Subcutaneous,Adipose - Subcutaneous,11.87,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Nerve_Tibial,Nerve - Tibial,10.57,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Ovary,Ovary,9.56,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Testis,Testis,11.22,GTEx_v8_enhanced
+PIK3CB,ENSG00000051382,Uterus,Uterus,13.64,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Whole_Blood,Whole Blood,30.98,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Brain_Cortex,Brain - Cortex,4.15,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Brain_Cerebellum,Brain - Cerebellum,5.13,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Heart_Left_Ventricle,Heart - Left Ventricle,5.3,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Liver,Liver,4.38,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Lung,Lung,5.12,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Kidney_Cortex,Kidney - Cortex,5.04,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Pancreas,Pancreas,4.21,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Prostate,Prostate,5.28,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Breast_Mammary_Tissue,Breast - Mammary Tissue,5.44,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Colon_Transverse,Colon - Transverse,5.88,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Skin_Sun_Exposed,Skin - Sun Exposed,5.86,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Muscle_Skeletal,Muscle - Skeletal,4.07,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Thyroid,Thyroid,4.34,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Stomach,Stomach,5.4,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Bladder,Bladder,5.4,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Adrenal_Gland,Adrenal Gland,5.4,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Spleen,Spleen,44.56,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Small_Intestine,Small Intestine,5.45,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Adipose_Subcutaneous,Adipose - Subcutaneous,5.93,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Nerve_Tibial,Nerve - Tibial,5.77,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Ovary,Ovary,5.51,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Testis,Testis,4.77,GTEx_v8_enhanced
+PIK3CG,ENSG00000105851,Uterus,Uterus,5.6,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Whole_Blood,Whole Blood,31.17,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Brain_Cortex,Brain - Cortex,5.79,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Brain_Cerebellum,Brain - Cerebellum,5.58,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Heart_Left_Ventricle,Heart - Left Ventricle,6.07,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Liver,Liver,8.49,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Lung,Lung,11.34,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Kidney_Cortex,Kidney - Cortex,6.65,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Pancreas,Pancreas,4.71,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Prostate,Prostate,5.59,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Breast_Mammary_Tissue,Breast - Mammary Tissue,7.06,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Colon_Transverse,Colon - Transverse,6.06,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Skin_Sun_Exposed,Skin - Sun Exposed,5.1,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Muscle_Skeletal,Muscle - Skeletal,5.39,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Thyroid,Thyroid,6.64,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Stomach,Stomach,5.38,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Bladder,Bladder,6.2,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Adrenal_Gland,Adrenal Gland,6.04,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Spleen,Spleen,25.39,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Small_Intestine,Small Intestine,8.28,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Adipose_Subcutaneous,Adipose - Subcutaneous,6.6,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Nerve_Tibial,Nerve - Tibial,4.43,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Ovary,Ovary,6.17,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Testis,Testis,5.43,GTEx_v8_enhanced
+PIK3CD,ENSG00000171608,Uterus,Uterus,6.82,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Whole_Blood,Whole Blood,13.32,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Brain_Cortex,Brain - Cortex,34.4,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Brain_Cerebellum,Brain - Cerebellum,16.18,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Heart_Left_Ventricle,Heart - Left Ventricle,17.08,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Liver,Liver,12.53,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Lung,Lung,14.27,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Kidney_Cortex,Kidney - Cortex,13.97,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Pancreas,Pancreas,13.6,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Prostate,Prostate,19.55,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Breast_Mammary_Tissue,Breast - Mammary Tissue,15.94,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Colon_Transverse,Colon - Transverse,12.42,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Skin_Sun_Exposed,Skin - Sun Exposed,17.21,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Muscle_Skeletal,Muscle - Skeletal,20.62,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Thyroid,Thyroid,32.69,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Stomach,Stomach,11.94,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Bladder,Bladder,13.95,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Adrenal_Gland,Adrenal Gland,18.14,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Spleen,Spleen,13.49,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Small_Intestine,Small Intestine,16.03,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Adipose_Subcutaneous,Adipose - Subcutaneous,16.85,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Nerve_Tibial,Nerve - Tibial,13.05,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Ovary,Ovary,14.87,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Testis,Testis,18.45,GTEx_v8_enhanced
+CLK1,ENSG00000013441,Uterus,Uterus,12.86,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Whole_Blood,Whole Blood,9.63,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Brain_Cortex,Brain - Cortex,20.73,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Brain_Cerebellum,Brain - Cerebellum,12.77,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Heart_Left_Ventricle,Heart - Left Ventricle,8.07,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Liver,Liver,9.36,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Lung,Lung,10.2,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Kidney_Cortex,Kidney - Cortex,12.41,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Pancreas,Pancreas,8.06,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Prostate,Prostate,11.91,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Breast_Mammary_Tissue,Breast - Mammary Tissue,10.02,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Colon_Transverse,Colon - Transverse,8.63,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Skin_Sun_Exposed,Skin - Sun Exposed,10.72,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Muscle_Skeletal,Muscle - Skeletal,10.3,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Thyroid,Thyroid,9.14,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Stomach,Stomach,10.11,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Bladder,Bladder,9.44,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Adrenal_Gland,Adrenal Gland,10.17,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Spleen,Spleen,11.04,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Small_Intestine,Small Intestine,12.69,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Adipose_Subcutaneous,Adipose - Subcutaneous,8.31,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Nerve_Tibial,Nerve - Tibial,13.77,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Ovary,Ovary,7.46,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Testis,Testis,19.55,GTEx_v8_enhanced
+CLK2,ENSG00000176444,Uterus,Uterus,10.92,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Whole_Blood,Whole Blood,4.17,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Brain_Cortex,Brain - Cortex,10.93,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Brain_Cerebellum,Brain - Cerebellum,3.88,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Heart_Left_Ventricle,Heart - Left Ventricle,3.71,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Liver,Liver,3.66,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Lung,Lung,4.54,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Kidney_Cortex,Kidney - Cortex,4.22,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Pancreas,Pancreas,3.61,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Prostate,Prostate,4.58,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Breast_Mammary_Tissue,Breast - Mammary Tissue,4.19,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Colon_Transverse,Colon - Transverse,4.52,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Skin_Sun_Exposed,Skin - Sun Exposed,4.4,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Muscle_Skeletal,Muscle - Skeletal,3.53,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Thyroid,Thyroid,3.68,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Stomach,Stomach,4.47,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Bladder,Bladder,4.38,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Adrenal_Gland,Adrenal Gland,3.99,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Spleen,Spleen,4.07,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Small_Intestine,Small Intestine,4.84,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Adipose_Subcutaneous,Adipose - Subcutaneous,3.66,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Nerve_Tibial,Nerve - Tibial,4.34,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Ovary,Ovary,3.88,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Testis,Testis,14.52,GTEx_v8_enhanced
+CLK3,ENSG00000179335,Uterus,Uterus,4.72,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Whole_Blood,Whole Blood,6.79,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Brain_Cortex,Brain - Cortex,16.95,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Brain_Cerebellum,Brain - Cerebellum,7.3,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Heart_Left_Ventricle,Heart - Left Ventricle,6.02,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Liver,Liver,6.65,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Lung,Lung,5.73,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Kidney_Cortex,Kidney - Cortex,6.3,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Pancreas,Pancreas,5.88,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Prostate,Prostate,6.09,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Breast_Mammary_Tissue,Breast - Mammary Tissue,6.56,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Colon_Transverse,Colon - Transverse,5.31,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Skin_Sun_Exposed,Skin - Sun Exposed,8.21,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Muscle_Skeletal,Muscle - Skeletal,5.16,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Thyroid,Thyroid,10.0,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Stomach,Stomach,7.14,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Bladder,Bladder,6.76,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Adrenal_Gland,Adrenal Gland,6.59,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Spleen,Spleen,6.59,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Small_Intestine,Small Intestine,5.99,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Adipose_Subcutaneous,Adipose - Subcutaneous,5.24,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Nerve_Tibial,Nerve - Tibial,6.07,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Ovary,Ovary,5.42,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Testis,Testis,6.95,GTEx_v8_enhanced
+CLK4,ENSG00000113240,Uterus,Uterus,5.87,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Whole_Blood,Whole Blood,39.76,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Brain_Cortex,Brain - Cortex,17.15,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Brain_Cerebellum,Brain - Cerebellum,19.15,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Heart_Left_Ventricle,Heart - Left Ventricle,16.54,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Liver,Liver,15.91,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Lung,Lung,31.12,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Kidney_Cortex,Kidney - Cortex,18.67,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Pancreas,Pancreas,16.68,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Prostate,Prostate,16.77,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Breast_Mammary_Tissue,Breast - Mammary Tissue,18.64,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Colon_Transverse,Colon - Transverse,14.49,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Skin_Sun_Exposed,Skin - Sun Exposed,14.57,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Muscle_Skeletal,Muscle - Skeletal,16.16,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Thyroid,Thyroid,17.43,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Stomach,Stomach,18.86,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Bladder,Bladder,22.46,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Adrenal_Gland,Adrenal Gland,20.47,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Spleen,Spleen,34.17,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Small_Intestine,Small Intestine,17.95,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Adipose_Subcutaneous,Adipose - Subcutaneous,15.49,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Nerve_Tibial,Nerve - Tibial,17.95,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Ovary,Ovary,17.24,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Testis,Testis,18.89,GTEx_v8_enhanced
+JAK1,ENSG00000162434,Uterus,Uterus,15.9,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Whole_Blood,Whole Blood,54.05,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Brain_Cortex,Brain - Cortex,12.58,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Brain_Cerebellum,Brain - Cerebellum,9.84,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Heart_Left_Ventricle,Heart - Left Ventricle,10.62,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Liver,Liver,11.09,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Lung,Lung,9.42,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Kidney_Cortex,Kidney - Cortex,10.34,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Pancreas,Pancreas,10.02,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Prostate,Prostate,10.15,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Breast_Mammary_Tissue,Breast - Mammary Tissue,8.91,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Colon_Transverse,Colon - Transverse,10.04,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Skin_Sun_Exposed,Skin - Sun Exposed,10.78,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Muscle_Skeletal,Muscle - Skeletal,12.43,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Thyroid,Thyroid,11.55,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Stomach,Stomach,13.81,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Bladder,Bladder,8.91,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Adrenal_Gland,Adrenal Gland,11.4,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Spleen,Spleen,41.12,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Small_Intestine,Small Intestine,13.89,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Adipose_Subcutaneous,Adipose - Subcutaneous,8.86,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Nerve_Tibial,Nerve - Tibial,8.82,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Ovary,Ovary,9.14,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Testis,Testis,7.27,GTEx_v8_enhanced
+JAK2,ENSG00000096968,Uterus,Uterus,9.24,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Whole_Blood,Whole Blood,17.85,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Brain_Cortex,Brain - Cortex,2.05,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Brain_Cerebellum,Brain - Cerebellum,2.11,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Heart_Left_Ventricle,Heart - Left Ventricle,2.65,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Liver,Liver,2.31,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Lung,Lung,1.83,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Kidney_Cortex,Kidney - Cortex,1.75,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Pancreas,Pancreas,2.15,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Prostate,Prostate,1.64,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Breast_Mammary_Tissue,Breast - Mammary Tissue,2.63,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Colon_Transverse,Colon - Transverse,2.39,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Skin_Sun_Exposed,Skin - Sun Exposed,1.86,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Muscle_Skeletal,Muscle - Skeletal,1.55,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Thyroid,Thyroid,2.45,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Stomach,Stomach,1.97,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Bladder,Bladder,2.41,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Adrenal_Gland,Adrenal Gland,1.57,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Spleen,Spleen,13.71,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Small_Intestine,Small Intestine,2.0,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Adipose_Subcutaneous,Adipose - Subcutaneous,2.01,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Nerve_Tibial,Nerve - Tibial,1.87,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Ovary,Ovary,2.2,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Testis,Testis,1.7,GTEx_v8_enhanced
+JAK3,ENSG00000105639,Uterus,Uterus,1.96,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Whole_Blood,Whole Blood,25.46,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Brain_Cortex,Brain - Cortex,10.8,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Brain_Cerebellum,Brain - Cerebellum,11.13,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Heart_Left_Ventricle,Heart - Left Ventricle,8.45,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Liver,Liver,7.94,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Lung,Lung,21.8,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Kidney_Cortex,Kidney - Cortex,10.51,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Pancreas,Pancreas,8.94,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Prostate,Prostate,12.62,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Breast_Mammary_Tissue,Breast - Mammary Tissue,10.18,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Colon_Transverse,Colon - Transverse,11.94,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Skin_Sun_Exposed,Skin - Sun Exposed,10.1,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Muscle_Skeletal,Muscle - Skeletal,13.62,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Thyroid,Thyroid,13.01,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Stomach,Stomach,9.63,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Bladder,Bladder,11.57,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Adrenal_Gland,Adrenal Gland,11.02,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Spleen,Spleen,24.56,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Small_Intestine,Small Intestine,8.65,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Adipose_Subcutaneous,Adipose - Subcutaneous,11.08,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Nerve_Tibial,Nerve - Tibial,11.72,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Ovary,Ovary,7.68,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Testis,Testis,8.37,GTEx_v8_enhanced
+TYK2,ENSG00000105397,Uterus,Uterus,7.36,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Whole_Blood,Whole Blood,14.41,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Brain_Cortex,Brain - Cortex,8.91,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Brain_Cerebellum,Brain - Cerebellum,10.02,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Heart_Left_Ventricle,Heart - Left Ventricle,8.09,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Liver,Liver,10.21,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Lung,Lung,6.5,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Kidney_Cortex,Kidney - Cortex,6.2,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Pancreas,Pancreas,7.93,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Prostate,Prostate,8.47,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Breast_Mammary_Tissue,Breast - Mammary Tissue,7.96,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Colon_Transverse,Colon - Transverse,5.87,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Skin_Sun_Exposed,Skin - Sun Exposed,7.89,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Muscle_Skeletal,Muscle - Skeletal,6.58,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Thyroid,Thyroid,8.85,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Stomach,Stomach,8.45,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Bladder,Bladder,6.95,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Adrenal_Gland,Adrenal Gland,7.41,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Spleen,Spleen,6.82,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Small_Intestine,Small Intestine,7.93,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Adipose_Subcutaneous,Adipose - Subcutaneous,9.23,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Nerve_Tibial,Nerve - Tibial,6.9,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Ovary,Ovary,8.63,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Testis,Testis,7.39,GTEx_v8_enhanced
+ABL1,ENSG00000097007,Uterus,Uterus,7.1,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Whole_Blood,Whole Blood,11.81,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Brain_Cortex,Brain - Cortex,10.27,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Brain_Cerebellum,Brain - Cerebellum,11.04,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Heart_Left_Ventricle,Heart - Left Ventricle,10.03,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Liver,Liver,16.11,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Lung,Lung,40.21,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Kidney_Cortex,Kidney - Cortex,31.51,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Pancreas,Pancreas,12.39,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Prostate,Prostate,11.8,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Breast_Mammary_Tissue,Breast - Mammary Tissue,11.61,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Colon_Transverse,Colon - Transverse,13.16,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Skin_Sun_Exposed,Skin - Sun Exposed,33.61,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Muscle_Skeletal,Muscle - Skeletal,11.08,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Thyroid,Thyroid,11.01,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Stomach,Stomach,11.51,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Bladder,Bladder,8.5,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Adrenal_Gland,Adrenal Gland,9.56,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Spleen,Spleen,14.73,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Small_Intestine,Small Intestine,15.36,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Adipose_Subcutaneous,Adipose - Subcutaneous,11.56,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Nerve_Tibial,Nerve - Tibial,13.08,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Ovary,Ovary,12.57,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Testis,Testis,19.04,GTEx_v8_enhanced
+EGFR,ENSG00000146648,Uterus,Uterus,14.19,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Whole_Blood,Whole Blood,7.85,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Brain_Cortex,Brain - Cortex,6.93,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Brain_Cerebellum,Brain - Cerebellum,6.29,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Heart_Left_Ventricle,Heart - Left Ventricle,8.25,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Liver,Liver,7.14,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Lung,Lung,6.46,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Kidney_Cortex,Kidney - Cortex,7.26,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Pancreas,Pancreas,6.8,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Prostate,Prostate,10.3,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Breast_Mammary_Tissue,Breast - Mammary Tissue,22.83,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Colon_Transverse,Colon - Transverse,7.99,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Skin_Sun_Exposed,Skin - Sun Exposed,9.99,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Muscle_Skeletal,Muscle - Skeletal,8.09,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Thyroid,Thyroid,7.03,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Stomach,Stomach,18.85,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Bladder,Bladder,8.67,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Adrenal_Gland,Adrenal Gland,6.85,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Spleen,Spleen,7.77,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Small_Intestine,Small Intestine,7.02,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Adipose_Subcutaneous,Adipose - Subcutaneous,6.5,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Nerve_Tibial,Nerve - Tibial,9.19,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Ovary,Ovary,10.65,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Testis,Testis,6.49,GTEx_v8_enhanced
+ERBB2,ENSG00000141736,Uterus,Uterus,8.7,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Whole_Blood,Whole Blood,7.26,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Brain_Cortex,Brain - Cortex,16.73,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Brain_Cerebellum,Brain - Cerebellum,7.32,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Heart_Left_Ventricle,Heart - Left Ventricle,7.03,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Liver,Liver,8.06,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Lung,Lung,7.06,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Kidney_Cortex,Kidney - Cortex,8.33,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Pancreas,Pancreas,7.94,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Prostate,Prostate,7.72,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Breast_Mammary_Tissue,Breast - Mammary Tissue,6.98,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Colon_Transverse,Colon - Transverse,7.34,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Skin_Sun_Exposed,Skin - Sun Exposed,8.96,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Muscle_Skeletal,Muscle - Skeletal,8.62,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Thyroid,Thyroid,6.91,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Stomach,Stomach,8.12,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Bladder,Bladder,8.95,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Adrenal_Gland,Adrenal Gland,6.23,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Spleen,Spleen,8.68,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Small_Intestine,Small Intestine,7.24,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Adipose_Subcutaneous,Adipose - Subcutaneous,8.71,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Nerve_Tibial,Nerve - Tibial,7.13,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Ovary,Ovary,6.1,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Testis,Testis,11.75,GTEx_v8_enhanced
+BRAF,ENSG00000157764,Uterus,Uterus,8.06,GTEx_v8_enhanced
+SRC,ENSG00000197122,Whole_Blood,Whole Blood,12.48,GTEx_v8_enhanced
+SRC,ENSG00000197122,Brain_Cortex,Brain - Cortex,5.24,GTEx_v8_enhanced
+SRC,ENSG00000197122,Brain_Cerebellum,Brain - Cerebellum,6.6,GTEx_v8_enhanced
+SRC,ENSG00000197122,Heart_Left_Ventricle,Heart - Left Ventricle,4.68,GTEx_v8_enhanced
+SRC,ENSG00000197122,Liver,Liver,5.94,GTEx_v8_enhanced
+SRC,ENSG00000197122,Lung,Lung,5.0,GTEx_v8_enhanced
+SRC,ENSG00000197122,Kidney_Cortex,Kidney - Cortex,5.44,GTEx_v8_enhanced
+SRC,ENSG00000197122,Pancreas,Pancreas,6.04,GTEx_v8_enhanced
+SRC,ENSG00000197122,Prostate,Prostate,5.27,GTEx_v8_enhanced
+SRC,ENSG00000197122,Breast_Mammary_Tissue,Breast - Mammary Tissue,5.66,GTEx_v8_enhanced
+SRC,ENSG00000197122,Colon_Transverse,Colon - Transverse,6.98,GTEx_v8_enhanced
+SRC,ENSG00000197122,Skin_Sun_Exposed,Skin - Sun Exposed,5.5,GTEx_v8_enhanced
+SRC,ENSG00000197122,Muscle_Skeletal,Muscle - Skeletal,6.8,GTEx_v8_enhanced
+SRC,ENSG00000197122,Thyroid,Thyroid,5.06,GTEx_v8_enhanced
+SRC,ENSG00000197122,Stomach,Stomach,6.5,GTEx_v8_enhanced
+SRC,ENSG00000197122,Bladder,Bladder,7.45,GTEx_v8_enhanced
+SRC,ENSG00000197122,Adrenal_Gland,Adrenal Gland,4.14,GTEx_v8_enhanced
+SRC,ENSG00000197122,Spleen,Spleen,5.32,GTEx_v8_enhanced
+SRC,ENSG00000197122,Small_Intestine,Small Intestine,6.54,GTEx_v8_enhanced
+SRC,ENSG00000197122,Adipose_Subcutaneous,Adipose - Subcutaneous,5.82,GTEx_v8_enhanced
+SRC,ENSG00000197122,Nerve_Tibial,Nerve - Tibial,6.34,GTEx_v8_enhanced
+SRC,ENSG00000197122,Ovary,Ovary,5.48,GTEx_v8_enhanced
+SRC,ENSG00000197122,Testis,Testis,6.08,GTEx_v8_enhanced
+SRC,ENSG00000197122,Uterus,Uterus,5.86,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Whole_Blood,Whole Blood,11.91,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Brain_Cortex,Brain - Cortex,10.39,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Brain_Cerebellum,Brain - Cerebellum,10.52,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Heart_Left_Ventricle,Heart - Left Ventricle,9.4,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Liver,Liver,9.29,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Lung,Lung,9.37,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Kidney_Cortex,Kidney - Cortex,10.61,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Pancreas,Pancreas,9.39,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Prostate,Prostate,10.44,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Breast_Mammary_Tissue,Breast - Mammary Tissue,13.65,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Colon_Transverse,Colon - Transverse,11.4,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Skin_Sun_Exposed,Skin - Sun Exposed,9.52,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Muscle_Skeletal,Muscle - Skeletal,11.97,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Thyroid,Thyroid,9.41,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Stomach,Stomach,7.37,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Bladder,Bladder,8.6,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Adrenal_Gland,Adrenal Gland,7.55,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Spleen,Spleen,9.49,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Small_Intestine,Small Intestine,10.03,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Adipose_Subcutaneous,Adipose - Subcutaneous,12.86,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Nerve_Tibial,Nerve - Tibial,10.5,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Ovary,Ovary,9.68,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Testis,Testis,28.31,GTEx_v8_enhanced
+CDK2,ENSG00000123374,Uterus,Uterus,7.18,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Whole_Blood,Whole Blood,8.29,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Brain_Cortex,Brain - Cortex,8.98,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Brain_Cerebellum,Brain - Cerebellum,6.41,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Heart_Left_Ventricle,Heart - Left Ventricle,9.5,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Liver,Liver,8.42,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Lung,Lung,7.52,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Kidney_Cortex,Kidney - Cortex,8.8,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Pancreas,Pancreas,11.25,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Prostate,Prostate,8.22,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Breast_Mammary_Tissue,Breast - Mammary Tissue,8.3,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Colon_Transverse,Colon - Transverse,7.47,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Skin_Sun_Exposed,Skin - Sun Exposed,7.04,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Muscle_Skeletal,Muscle - Skeletal,9.06,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Thyroid,Thyroid,7.04,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Stomach,Stomach,8.09,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Bladder,Bladder,7.45,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Adrenal_Gland,Adrenal Gland,8.6,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Spleen,Spleen,8.41,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Small_Intestine,Small Intestine,9.35,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Adipose_Subcutaneous,Adipose - Subcutaneous,7.41,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Nerve_Tibial,Nerve - Tibial,7.68,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Ovary,Ovary,6.91,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Testis,Testis,16.84,GTEx_v8_enhanced
+CDK4,ENSG00000135446,Uterus,Uterus,8.47,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Whole_Blood,Whole Blood,16.8,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Brain_Cortex,Brain - Cortex,4.35,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Brain_Cerebellum,Brain - Cerebellum,5.7,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Heart_Left_Ventricle,Heart - Left Ventricle,6.13,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Liver,Liver,5.32,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Lung,Lung,6.63,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Kidney_Cortex,Kidney - Cortex,4.45,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Pancreas,Pancreas,4.15,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Prostate,Prostate,3.83,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Breast_Mammary_Tissue,Breast - Mammary Tissue,6.26,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Colon_Transverse,Colon - Transverse,5.52,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Skin_Sun_Exposed,Skin - Sun Exposed,4.96,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Muscle_Skeletal,Muscle - Skeletal,5.21,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Thyroid,Thyroid,4.22,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Stomach,Stomach,7.22,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Bladder,Bladder,5.1,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Adrenal_Gland,Adrenal Gland,5.08,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Spleen,Spleen,5.58,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Small_Intestine,Small Intestine,5.37,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Adipose_Subcutaneous,Adipose - Subcutaneous,5.17,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Nerve_Tibial,Nerve - Tibial,4.44,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Ovary,Ovary,5.37,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Testis,Testis,6.63,GTEx_v8_enhanced
+CDK6,ENSG00000105810,Uterus,Uterus,6.12,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Whole_Blood,Whole Blood,38.1,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Brain_Cortex,Brain - Cortex,11.11,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Brain_Cerebellum,Brain - Cerebellum,10.34,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Heart_Left_Ventricle,Heart - Left Ventricle,11.78,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Liver,Liver,12.1,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Lung,Lung,14.14,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Kidney_Cortex,Kidney - Cortex,9.31,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Pancreas,Pancreas,15.09,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Prostate,Prostate,11.72,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Breast_Mammary_Tissue,Breast - Mammary Tissue,11.26,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Colon_Transverse,Colon - Transverse,10.31,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Skin_Sun_Exposed,Skin - Sun Exposed,9.36,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Muscle_Skeletal,Muscle - Skeletal,13.58,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Thyroid,Thyroid,12.13,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Stomach,Stomach,9.89,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Bladder,Bladder,9.88,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Adrenal_Gland,Adrenal Gland,11.41,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Spleen,Spleen,15.41,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Small_Intestine,Small Intestine,11.54,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Adipose_Subcutaneous,Adipose - Subcutaneous,9.58,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Nerve_Tibial,Nerve - Tibial,11.57,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Ovary,Ovary,11.52,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Testis,Testis,8.01,GTEx_v8_enhanced
+MAPK14,ENSG00000112062,Uterus,Uterus,11.9,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Whole_Blood,Whole Blood,2.9,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Brain_Cortex,Brain - Cortex,3.33,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Brain_Cerebellum,Brain - Cerebellum,3.96,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Heart_Left_Ventricle,Heart - Left Ventricle,3.55,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Liver,Liver,2.88,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Lung,Lung,2.54,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Kidney_Cortex,Kidney - Cortex,4.41,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Pancreas,Pancreas,3.03,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Prostate,Prostate,3.01,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Breast_Mammary_Tissue,Breast - Mammary Tissue,2.99,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Colon_Transverse,Colon - Transverse,3.09,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Skin_Sun_Exposed,Skin - Sun Exposed,2.94,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Muscle_Skeletal,Muscle - Skeletal,2.75,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Thyroid,Thyroid,2.76,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Stomach,Stomach,2.99,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Bladder,Bladder,2.77,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Adrenal_Gland,Adrenal Gland,2.7,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Spleen,Spleen,3.05,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Small_Intestine,Small Intestine,2.89,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Adipose_Subcutaneous,Adipose - Subcutaneous,3.76,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Nerve_Tibial,Nerve - Tibial,2.02,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Ovary,Ovary,3.53,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Testis,Testis,24.11,GTEx_v8_enhanced
+AURKA,ENSG00000087586,Uterus,Uterus,2.2,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Whole_Blood,Whole Blood,4.75,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Brain_Cortex,Brain - Cortex,14.19,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Brain_Cerebellum,Brain - Cerebellum,4.05,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Heart_Left_Ventricle,Heart - Left Ventricle,4.45,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Liver,Liver,4.23,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Lung,Lung,6.5,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Kidney_Cortex,Kidney - Cortex,5.75,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Pancreas,Pancreas,6.05,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Prostate,Prostate,5.57,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Breast_Mammary_Tissue,Breast - Mammary Tissue,4.22,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Colon_Transverse,Colon - Transverse,4.62,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Skin_Sun_Exposed,Skin - Sun Exposed,5.38,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Muscle_Skeletal,Muscle - Skeletal,4.16,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Thyroid,Thyroid,5.56,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Stomach,Stomach,4.82,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Bladder,Bladder,4.73,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Adrenal_Gland,Adrenal Gland,5.56,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Spleen,Spleen,5.34,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Small_Intestine,Small Intestine,4.74,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Adipose_Subcutaneous,Adipose - Subcutaneous,5.95,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Nerve_Tibial,Nerve - Tibial,4.25,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Ovary,Ovary,5.48,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Testis,Testis,5.47,GTEx_v8_enhanced
+FGFR1,ENSG00000077782,Uterus,Uterus,4.77,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Whole_Blood,Whole Blood,3.15,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Brain_Cortex,Brain - Cortex,2.49,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Brain_Cerebellum,Brain - Cerebellum,3.45,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Heart_Left_Ventricle,Heart - Left Ventricle,2.92,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Liver,Liver,2.77,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Lung,Lung,3.51,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Kidney_Cortex,Kidney - Cortex,2.7,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Pancreas,Pancreas,2.43,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Prostate,Prostate,2.38,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Breast_Mammary_Tissue,Breast - Mammary Tissue,10.95,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Colon_Transverse,Colon - Transverse,2.48,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Skin_Sun_Exposed,Skin - Sun Exposed,3.9,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Muscle_Skeletal,Muscle - Skeletal,2.2,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Thyroid,Thyroid,3.87,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Stomach,Stomach,3.1,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Bladder,Bladder,2.96,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Adrenal_Gland,Adrenal Gland,2.76,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Spleen,Spleen,3.19,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Small_Intestine,Small Intestine,2.98,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Adipose_Subcutaneous,Adipose - Subcutaneous,3.54,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Nerve_Tibial,Nerve - Tibial,3.05,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Ovary,Ovary,3.07,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Testis,Testis,2.84,GTEx_v8_enhanced
+FGFR2,ENSG00000066468,Uterus,Uterus,2.97,GTEx_v8_enhanced
+MET,ENSG00000105976,Whole_Blood,Whole Blood,8.38,GTEx_v8_enhanced
+MET,ENSG00000105976,Brain_Cortex,Brain - Cortex,6.19,GTEx_v8_enhanced
+MET,ENSG00000105976,Brain_Cerebellum,Brain - Cerebellum,6.54,GTEx_v8_enhanced
+MET,ENSG00000105976,Heart_Left_Ventricle,Heart - Left Ventricle,8.94,GTEx_v8_enhanced
+MET,ENSG00000105976,Liver,Liver,41.04,GTEx_v8_enhanced
+MET,ENSG00000105976,Lung,Lung,7.78,GTEx_v8_enhanced
+MET,ENSG00000105976,Kidney_Cortex,Kidney - Cortex,25.07,GTEx_v8_enhanced
+MET,ENSG00000105976,Pancreas,Pancreas,8.43,GTEx_v8_enhanced
+MET,ENSG00000105976,Prostate,Prostate,7.38,GTEx_v8_enhanced
+MET,ENSG00000105976,Breast_Mammary_Tissue,Breast - Mammary Tissue,7.12,GTEx_v8_enhanced
+MET,ENSG00000105976,Colon_Transverse,Colon - Transverse,8.24,GTEx_v8_enhanced
+MET,ENSG00000105976,Skin_Sun_Exposed,Skin - Sun Exposed,6.91,GTEx_v8_enhanced
+MET,ENSG00000105976,Muscle_Skeletal,Muscle - Skeletal,8.51,GTEx_v8_enhanced
+MET,ENSG00000105976,Thyroid,Thyroid,6.2,GTEx_v8_enhanced
+MET,ENSG00000105976,Stomach,Stomach,9.34,GTEx_v8_enhanced
+MET,ENSG00000105976,Bladder,Bladder,8.59,GTEx_v8_enhanced
+MET,ENSG00000105976,Adrenal_Gland,Adrenal Gland,8.31,GTEx_v8_enhanced
+MET,ENSG00000105976,Spleen,Spleen,9.27,GTEx_v8_enhanced
+MET,ENSG00000105976,Small_Intestine,Small Intestine,10.27,GTEx_v8_enhanced
+MET,ENSG00000105976,Adipose_Subcutaneous,Adipose - Subcutaneous,9.31,GTEx_v8_enhanced
+MET,ENSG00000105976,Nerve_Tibial,Nerve - Tibial,6.07,GTEx_v8_enhanced
+MET,ENSG00000105976,Ovary,Ovary,6.6,GTEx_v8_enhanced
+MET,ENSG00000105976,Testis,Testis,7.28,GTEx_v8_enhanced
+MET,ENSG00000105976,Uterus,Uterus,8.03,GTEx_v8_enhanced
+ALK,ENSG00000171094,Whole_Blood,Whole Blood,0.54,GTEx_v8_enhanced
+ALK,ENSG00000171094,Brain_Cortex,Brain - Cortex,4.48,GTEx_v8_enhanced
+ALK,ENSG00000171094,Brain_Cerebellum,Brain - Cerebellum,0.51,GTEx_v8_enhanced
+ALK,ENSG00000171094,Heart_Left_Ventricle,Heart - Left Ventricle,0.45,GTEx_v8_enhanced
+ALK,ENSG00000171094,Liver,Liver,0.46,GTEx_v8_enhanced
+ALK,ENSG00000171094,Lung,Lung,0.4,GTEx_v8_enhanced
+ALK,ENSG00000171094,Kidney_Cortex,Kidney - Cortex,0.44,GTEx_v8_enhanced
+ALK,ENSG00000171094,Pancreas,Pancreas,0.41,GTEx_v8_enhanced
+ALK,ENSG00000171094,Prostate,Prostate,0.43,GTEx_v8_enhanced
+ALK,ENSG00000171094,Breast_Mammary_Tissue,Breast - Mammary Tissue,0.59,GTEx_v8_enhanced
+ALK,ENSG00000171094,Colon_Transverse,Colon - Transverse,0.43,GTEx_v8_enhanced
+ALK,ENSG00000171094,Skin_Sun_Exposed,Skin - Sun Exposed,0.74,GTEx_v8_enhanced
+ALK,ENSG00000171094,Muscle_Skeletal,Muscle - Skeletal,0.54,GTEx_v8_enhanced
+ALK,ENSG00000171094,Thyroid,Thyroid,0.51,GTEx_v8_enhanced
+ALK,ENSG00000171094,Stomach,Stomach,0.44,GTEx_v8_enhanced
+ALK,ENSG00000171094,Bladder,Bladder,0.56,GTEx_v8_enhanced
+ALK,ENSG00000171094,Adrenal_Gland,Adrenal Gland,0.46,GTEx_v8_enhanced
+ALK,ENSG00000171094,Spleen,Spleen,0.51,GTEx_v8_enhanced
+ALK,ENSG00000171094,Small_Intestine,Small Intestine,0.73,GTEx_v8_enhanced
+ALK,ENSG00000171094,Adipose_Subcutaneous,Adipose - Subcutaneous,0.49,GTEx_v8_enhanced
+ALK,ENSG00000171094,Nerve_Tibial,Nerve - Tibial,0.59,GTEx_v8_enhanced
+ALK,ENSG00000171094,Ovary,Ovary,0.45,GTEx_v8_enhanced
+ALK,ENSG00000171094,Testis,Testis,0.5,GTEx_v8_enhanced
+ALK,ENSG00000171094,Uterus,Uterus,0.65,GTEx_v8_enhanced
+BTK,ENSG00000010671,Whole_Blood,Whole Blood,18.2,GTEx_v8_enhanced
+BTK,ENSG00000010671,Brain_Cortex,Brain - Cortex,2.62,GTEx_v8_enhanced
+BTK,ENSG00000010671,Brain_Cerebellum,Brain - Cerebellum,2.22,GTEx_v8_enhanced
+BTK,ENSG00000010671,Heart_Left_Ventricle,Heart - Left Ventricle,1.84,GTEx_v8_enhanced
+BTK,ENSG00000010671,Liver,Liver,2.2,GTEx_v8_enhanced
+BTK,ENSG00000010671,Lung,Lung,2.31,GTEx_v8_enhanced
+BTK,ENSG00000010671,Kidney_Cortex,Kidney - Cortex,2.2,GTEx_v8_enhanced
+BTK,ENSG00000010671,Pancreas,Pancreas,1.58,GTEx_v8_enhanced
+BTK,ENSG00000010671,Prostate,Prostate,1.79,GTEx_v8_enhanced
+BTK,ENSG00000010671,Breast_Mammary_Tissue,Breast - Mammary Tissue,1.93,GTEx_v8_enhanced
+BTK,ENSG00000010671,Colon_Transverse,Colon - Transverse,1.98,GTEx_v8_enhanced
+BTK,ENSG00000010671,Skin_Sun_Exposed,Skin - Sun Exposed,2.2,GTEx_v8_enhanced
+BTK,ENSG00000010671,Muscle_Skeletal,Muscle - Skeletal,2.05,GTEx_v8_enhanced
+BTK,ENSG00000010671,Thyroid,Thyroid,1.64,GTEx_v8_enhanced
+BTK,ENSG00000010671,Stomach,Stomach,2.12,GTEx_v8_enhanced
+BTK,ENSG00000010671,Bladder,Bladder,2.19,GTEx_v8_enhanced
+BTK,ENSG00000010671,Adrenal_Gland,Adrenal Gland,2.18,GTEx_v8_enhanced
+BTK,ENSG00000010671,Spleen,Spleen,17.64,GTEx_v8_enhanced
+BTK,ENSG00000010671,Small_Intestine,Small Intestine,2.27,GTEx_v8_enhanced
+BTK,ENSG00000010671,Adipose_Subcutaneous,Adipose - Subcutaneous,2.14,GTEx_v8_enhanced
+BTK,ENSG00000010671,Nerve_Tibial,Nerve - Tibial,1.98,GTEx_v8_enhanced
+BTK,ENSG00000010671,Ovary,Ovary,1.56,GTEx_v8_enhanced
+BTK,ENSG00000010671,Testis,Testis,2.13,GTEx_v8_enhanced
+BTK,ENSG00000010671,Uterus,Uterus,2.06,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Whole_Blood,Whole Blood,8.33,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Brain_Cortex,Brain - Cortex,6.61,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Brain_Cerebellum,Brain - Cerebellum,6.8,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Heart_Left_Ventricle,Heart - Left Ventricle,9.37,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Liver,Liver,14.91,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Lung,Lung,8.86,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Kidney_Cortex,Kidney - Cortex,8.03,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Pancreas,Pancreas,8.04,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Prostate,Prostate,9.21,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Breast_Mammary_Tissue,Breast - Mammary Tissue,7.4,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Colon_Transverse,Colon - Transverse,8.12,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Skin_Sun_Exposed,Skin - Sun Exposed,7.46,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Muscle_Skeletal,Muscle - Skeletal,7.5,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Thyroid,Thyroid,7.64,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Stomach,Stomach,8.27,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Bladder,Bladder,7.45,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Adrenal_Gland,Adrenal Gland,9.66,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Spleen,Spleen,7.0,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Small_Intestine,Small Intestine,7.78,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Adipose_Subcutaneous,Adipose - Subcutaneous,7.49,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Nerve_Tibial,Nerve - Tibial,9.94,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Ovary,Ovary,8.24,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Testis,Testis,9.34,GTEx_v8_enhanced
+MTOR,ENSG00000198793,Uterus,Uterus,6.4,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Whole_Blood,Whole Blood,15.61,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Brain_Cortex,Brain - Cortex,34.28,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Brain_Cerebellum,Brain - Cerebellum,15.19,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Heart_Left_Ventricle,Heart - Left Ventricle,17.6,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Liver,Liver,13.88,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Lung,Lung,18.53,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Kidney_Cortex,Kidney - Cortex,21.18,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Pancreas,Pancreas,14.21,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Prostate,Prostate,14.03,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Breast_Mammary_Tissue,Breast - Mammary Tissue,18.65,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Colon_Transverse,Colon - Transverse,19.01,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Skin_Sun_Exposed,Skin - Sun Exposed,13.87,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Muscle_Skeletal,Muscle - Skeletal,14.08,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Thyroid,Thyroid,14.38,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Stomach,Stomach,12.26,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Bladder,Bladder,13.07,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Adrenal_Gland,Adrenal Gland,12.9,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Spleen,Spleen,13.37,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Small_Intestine,Small Intestine,14.92,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Adipose_Subcutaneous,Adipose - Subcutaneous,15.54,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Nerve_Tibial,Nerve - Tibial,18.93,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Ovary,Ovary,12.91,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Testis,Testis,17.39,GTEx_v8_enhanced
+GSK3B,ENSG00000082701,Uterus,Uterus,14.53,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Whole_Blood,Whole Blood,2.98,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Brain_Cortex,Brain - Cortex,3.32,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Brain_Cerebellum,Brain - Cerebellum,2.54,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Heart_Left_Ventricle,Heart - Left Ventricle,3.18,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Liver,Liver,3.08,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Lung,Lung,3.23,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Kidney_Cortex,Kidney - Cortex,3.13,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Pancreas,Pancreas,4.34,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Prostate,Prostate,2.73,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Breast_Mammary_Tissue,Breast - Mammary Tissue,2.77,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Colon_Transverse,Colon - Transverse,2.73,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Skin_Sun_Exposed,Skin - Sun Exposed,2.76,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Muscle_Skeletal,Muscle - Skeletal,2.73,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Thyroid,Thyroid,3.59,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Stomach,Stomach,3.71,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Bladder,Bladder,2.75,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Adrenal_Gland,Adrenal Gland,2.65,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Spleen,Spleen,3.22,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Small_Intestine,Small Intestine,2.76,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Adipose_Subcutaneous,Adipose - Subcutaneous,3.3,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Nerve_Tibial,Nerve - Tibial,3.09,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Ovary,Ovary,2.39,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Testis,Testis,18.92,GTEx_v8_enhanced
+CHEK1,ENSG00000149554,Uterus,Uterus,3.93,GTEx_v8_enhanced
+AR,ENSG00000169083,Whole_Blood,Whole Blood,1.82,GTEx_v8_enhanced
+AR,ENSG00000169083,Brain_Cortex,Brain - Cortex,1.89,GTEx_v8_enhanced
+AR,ENSG00000169083,Brain_Cerebellum,Brain - Cerebellum,2.09,GTEx_v8_enhanced
+AR,ENSG00000169083,Heart_Left_Ventricle,Heart - Left Ventricle,2.1,GTEx_v8_enhanced
+AR,ENSG00000169083,Liver,Liver,16.56,GTEx_v8_enhanced
+AR,ENSG00000169083,Lung,Lung,2.7,GTEx_v8_enhanced
+AR,ENSG00000169083,Kidney_Cortex,Kidney - Cortex,1.95,GTEx_v8_enhanced
+AR,ENSG00000169083,Pancreas,Pancreas,1.77,GTEx_v8_enhanced
+AR,ENSG00000169083,Prostate,Prostate,65.05,GTEx_v8_enhanced
+AR,ENSG00000169083,Breast_Mammary_Tissue,Breast - Mammary Tissue,1.79,GTEx_v8_enhanced
+AR,ENSG00000169083,Colon_Transverse,Colon - Transverse,1.99,GTEx_v8_enhanced
+AR,ENSG00000169083,Skin_Sun_Exposed,Skin - Sun Exposed,2.62,GTEx_v8_enhanced
+AR,ENSG00000169083,Muscle_Skeletal,Muscle - Skeletal,1.85,GTEx_v8_enhanced
+AR,ENSG00000169083,Thyroid,Thyroid,2.07,GTEx_v8_enhanced
+AR,ENSG00000169083,Stomach,Stomach,2.0,GTEx_v8_enhanced
+AR,ENSG00000169083,Bladder,Bladder,2.39,GTEx_v8_enhanced
+AR,ENSG00000169083,Adrenal_Gland,Adrenal Gland,2.92,GTEx_v8_enhanced
+AR,ENSG00000169083,Spleen,Spleen,1.85,GTEx_v8_enhanced
+AR,ENSG00000169083,Small_Intestine,Small Intestine,1.86,GTEx_v8_enhanced
+AR,ENSG00000169083,Adipose_Subcutaneous,Adipose - Subcutaneous,2.34,GTEx_v8_enhanced
+AR,ENSG00000169083,Nerve_Tibial,Nerve - Tibial,2.22,GTEx_v8_enhanced
+AR,ENSG00000169083,Ovary,Ovary,2.64,GTEx_v8_enhanced
+AR,ENSG00000169083,Testis,Testis,2.18,GTEx_v8_enhanced
+AR,ENSG00000169083,Uterus,Uterus,1.9,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Whole_Blood,Whole Blood,27.32,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Brain_Cortex,Brain - Cortex,14.17,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Brain_Cerebellum,Brain - Cerebellum,13.57,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Heart_Left_Ventricle,Heart - Left Ventricle,12.95,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Liver,Liver,23.47,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Lung,Lung,14.3,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Kidney_Cortex,Kidney - Cortex,14.76,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Pancreas,Pancreas,13.23,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Prostate,Prostate,11.7,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Breast_Mammary_Tissue,Breast - Mammary Tissue,12.27,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Colon_Transverse,Colon - Transverse,14.38,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Skin_Sun_Exposed,Skin - Sun Exposed,10.62,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Muscle_Skeletal,Muscle - Skeletal,12.68,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Thyroid,Thyroid,11.31,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Stomach,Stomach,12.05,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Bladder,Bladder,14.54,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Adrenal_Gland,Adrenal Gland,12.35,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Spleen,Spleen,12.08,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Small_Intestine,Small Intestine,9.79,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Adipose_Subcutaneous,Adipose - Subcutaneous,13.42,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Nerve_Tibial,Nerve - Tibial,13.22,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Ovary,Ovary,16.6,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Testis,Testis,11.46,GTEx_v8_enhanced
+BCL2L1,ENSG00000171552,Uterus,Uterus,12.4,GTEx_v8_enhanced

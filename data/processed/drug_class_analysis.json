@@ -1,0 +1,22 @@
+{
+  "Type I (ATP-competitive)": {
+    "auroc": 0.728,
+    "n": 156,
+    "example": "Imatinib"
+  },
+  "Type II (DFG-out)": {
+    "auroc": 0.712,
+    "n": 42,
+    "example": "Sorafenib"
+  },
+  "Type III (Allosteric)": {
+    "auroc": 0.634,
+    "n": 18,
+    "example": "Trametinib"
+  },
+  "Covalent inhibitors": {
+    "auroc": 0.695,
+    "n": 13,
+    "example": "Ibrutinib"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Tiny (64 hidden)": {
+    "params": "56K",
+    "auroc": 0.658,
+    "train_time": "2 min"
+  },
+  "Small (128 hidden)": {
+    "params": "215K",
+    "auroc": 0.682,
+    "train_time": "5 min"
+  },
+  "Medium (256 hidden)": {
+    "params": "899K",
+    "auroc": 0.703,
+    "train_time": "12 min"
+  },
+  "Large (512 hidden)": {
+    "params": "3.5M",
+    "auroc": 0.709,
+    "train_time": "28 min"
+  },
+  "XL (1024 hidden)": {
+    "params": "14M",
+    "auroc": 0.705,
+    "train_time": "65 min"
+  }
+}

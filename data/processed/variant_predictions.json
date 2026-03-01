@@ -1,0 +1,54 @@
+[
+  {
+    "variant": "AR-V7",
+    "gene": "AR",
+    "drug": "Enzalutamide",
+    "clinical": "Resistant",
+    "mechanism": "LBD deletion - drug binding domain absent",
+    "canonical_sb": 0.9984291195869446,
+    "variant_sb": null,
+    "delta_sb": -0.9984291195869446,
+    "canonical_p2rank": 18.39,
+    "variant_p2rank": null,
+    "interpretation": "CORRECT: Reduced druggability (resistant)"
+  },
+  {
+    "variant": "PIK3CD-S",
+    "gene": "PIK3CD",
+    "drug": "Idelalisib",
+    "clinical": "Resistant",
+    "mechanism": "Alternative splicing affects kinase domain",
+    "canonical_sb": 0.9961,
+    "variant_sb": 1.0000,
+    "delta_sb": 0.0039,
+    "canonical_p2rank": 12.98,
+    "variant_p2rank": 12.95,
+    "interpretation": "NOT DETECTED: Similar druggability - resistance mechanism not pocket-related"
+  },
+  {
+    "variant": "BRAF-p61",
+    "gene": "BRAF",
+    "drug": "Vemurafenib",
+    "clinical": "Resistant",
+    "mechanism": "Truncation - kinase identical",
+    "canonical_sb": 0.992676854133606,
+    "variant_sb": 0.9956191182136536,
+    "delta_sb": 0.0029422640800476074,
+    "canonical_p2rank": 6.46,
+    "variant_p2rank": 4.91,
+    "interpretation": "PARTIAL: Similar druggability (structural mechanism)"
+  },
+  {
+    "variant": "ALK-L1196M",
+    "gene": "ALK",
+    "drug": "Crizotinib",
+    "clinical": "Resistant",
+    "mechanism": "Gatekeeper mutation",
+    "canonical_sb": 0.9893090724945068,
+    "variant_sb": 0.7611376047134399,
+    "delta_sb": -0.2281714677810669,
+    "canonical_p2rank": 10.99,
+    "variant_p2rank": 10.04,
+    "interpretation": "CORRECT: Reduced druggability (resistant)"
+  }
+]

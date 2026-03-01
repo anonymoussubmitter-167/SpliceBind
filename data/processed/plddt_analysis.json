@@ -1,0 +1,25 @@
+{
+  "plddt_analysis": {
+    "Low (<70)": {
+      "auroc": 0.612,
+      "n": 28,
+      "avg_plddt": 63.2
+    },
+    "Medium (70-85)": {
+      "auroc": 0.698,
+      "n": 89,
+      "avg_plddt": 77.8
+    },
+    "High (85-92)": {
+      "auroc": 0.724,
+      "n": 78,
+      "avg_plddt": 88.4
+    },
+    "Very High (>92)": {
+      "auroc": 0.741,
+      "n": 34,
+      "avg_plddt": 94.1
+    }
+  },
+  "correlation": 0.978503017772395
+}

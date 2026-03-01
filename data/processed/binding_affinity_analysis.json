@@ -1,0 +1,280 @@
+{
+  "n_entries": 32,
+  "n_genes": 14,
+  "pearson_r": -0.054367957652294074,
+  "pearson_p": 0.7675859956404301,
+  "spearman_r": 0.13336428187372026,
+  "spearman_p": 0.466817366903593,
+  "by_affinity": {
+    "strong": {
+      "n": 25,
+      "mean_score": 0.9728827667236328
+    },
+    "moderate": {
+      "n": 6,
+      "mean_score": 0.9927338163057963
+    },
+    "weak": {
+      "n": 1,
+      "mean_score": 0.9920597076416016
+    }
+  },
+  "data": [
+    {
+      "gene": "JAK2",
+      "drug": "Ruxolitinib",
+      "kd_nM": 3.3,
+      "pKd": 8.481486060122112,
+      "splicebind_score": 0.9987927675247192,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "ABL1",
+      "drug": "Imatinib",
+      "kd_nM": 25,
+      "pKd": 7.6020599913279625,
+      "splicebind_score": 0.9988586902618408,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "ABL1",
+      "drug": "Nilotinib",
+      "kd_nM": 5,
+      "pKd": 8.301029995663981,
+      "splicebind_score": 0.9988586902618408,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "ABL1",
+      "drug": "Dasatinib",
+      "kd_nM": 0.5,
+      "pKd": 9.301029995663981,
+      "splicebind_score": 0.9988586902618408,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "ABL1",
+      "drug": "Ponatinib",
+      "kd_nM": 0.4,
+      "pKd": 9.397940008672037,
+      "splicebind_score": 0.9988586902618408,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "EGFR",
+      "drug": "Gefitinib",
+      "kd_nM": 2,
+      "pKd": 8.698970004336019,
+      "splicebind_score": 0.9812675714492798,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "EGFR",
+      "drug": "Erlotinib",
+      "kd_nM": 0.7,
+      "pKd": 9.154901959985743,
+      "splicebind_score": 0.9812675714492798,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "EGFR",
+      "drug": "Osimertinib",
+      "kd_nM": 0.5,
+      "pKd": 9.301029995663981,
+      "splicebind_score": 0.9812675714492798,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "EGFR",
+      "drug": "Afatinib",
+      "kd_nM": 0.5,
+      "pKd": 9.301029995663981,
+      "splicebind_score": 0.9812675714492798,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "BRAF",
+      "drug": "Vemurafenib",
+      "kd_nM": 31,
+      "pKd": 7.508638306165727,
+      "splicebind_score": 0.992676854133606,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "BRAF",
+      "drug": "Dabrafenib",
+      "kd_nM": 0.8,
+      "pKd": 9.096910013008056,
+      "splicebind_score": 0.992676854133606,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "BTK",
+      "drug": "Ibrutinib",
+      "kd_nM": 0.5,
+      "pKd": 9.301029995663981,
+      "splicebind_score": 0.727348804473877,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "BTK",
+      "drug": "Acalabrutinib",
+      "kd_nM": 3,
+      "pKd": 8.522878745280337,
+      "splicebind_score": 0.727348804473877,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "ALK",
+      "drug": "Crizotinib",
+      "kd_nM": 24,
+      "pKd": 7.619788758288394,
+      "splicebind_score": 0.9893090724945068,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "ALK",
+      "drug": "Ceritinib",
+      "kd_nM": 0.2,
+      "pKd": 9.698970004336019,
+      "splicebind_score": 0.9893090724945068,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "ALK",
+      "drug": "Alectinib",
+      "kd_nM": 1.9,
+      "pKd": 8.721246399047171,
+      "splicebind_score": 0.9893090724945068,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "ALK",
+      "drug": "Lorlatinib",
+      "kd_nM": 0.7,
+      "pKd": 9.154901959985743,
+      "splicebind_score": 0.9893090724945068,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "KIT",
+      "drug": "Imatinib",
+      "kd_nM": 100,
+      "pKd": 7.0,
+      "splicebind_score": 0.9920597076416016,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "KIT",
+      "drug": "Sunitinib",
+      "kd_nM": 10,
+      "pKd": 8.0,
+      "splicebind_score": 0.9920597076416016,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "FLT3",
+      "drug": "Midostaurin",
+      "kd_nM": 10,
+      "pKd": 8.0,
+      "splicebind_score": 0.9976627826690674,
+      "source": "ChEMBL"
+    },
+    {
+      "gene": "FLT3",
+      "drug": "Gilteritinib",
+      "kd_nM": 0.3,
+      "pKd": 9.522878745280337,
+      "splicebind_score": 0.9976627826690674,
+      "source": "ChEMBL"
+    },
+    {
+      "gene": "FLT3",
+      "drug": "Quizartinib",
+      "kd_nM": 1.1,
+      "pKd": 8.958607314841775,
+      "splicebind_score": 0.9976627826690674,
+      "source": "ChEMBL"
+    },
+    {
+      "gene": "MET",
+      "drug": "Crizotinib",
+      "kd_nM": 8,
+      "pKd": 8.096910013008056,
+      "splicebind_score": 0.9985585808753967,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "MET",
+      "drug": "Capmatinib",
+      "kd_nM": 0.1,
+      "pKd": 10.0,
+      "splicebind_score": 0.9985585808753967,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "RET",
+      "drug": "Selpercatinib",
+      "kd_nM": 0.4,
+      "pKd": 9.397940008672037,
+      "splicebind_score": 0.9999990463256836,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "RET",
+      "drug": "Pralsetinib",
+      "kd_nM": 0.4,
+      "pKd": 9.397940008672037,
+      "splicebind_score": 0.9999990463256836,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "CDK6",
+      "drug": "Palbociclib",
+      "kd_nM": 16,
+      "pKd": 7.795880017344075,
+      "splicebind_score": 0.9858357906341553,
+      "source": "ChEMBL"
+    },
+    {
+      "gene": "PIK3CA",
+      "drug": "Alpelisib",
+      "kd_nM": 5,
+      "pKd": 8.301029995663981,
+      "splicebind_score": 0.9998961687088013,
+      "source": "ChEMBL"
+    },
+    {
+      "gene": "NTRK1",
+      "drug": "Larotrectinib",
+      "kd_nM": 5,
+      "pKd": 8.301029995663981,
+      "splicebind_score": 0.9971377849578857,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "NTRK1",
+      "drug": "Entrectinib",
+      "kd_nM": 1,
+      "pKd": 9.0,
+      "splicebind_score": 0.9971377849578857,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "ROS1",
+      "drug": "Crizotinib",
+      "kd_nM": 1.7,
+      "pKd": 8.769551078621726,
+      "splicebind_score": 0.9998579025268555,
+      "source": "BindingDB"
+    },
+    {
+      "gene": "ROS1",
+      "drug": "Entrectinib",
+      "kd_nM": 0.1,
+      "pKd": 10.0,
+      "splicebind_score": 0.9998579025268555,
+      "source": "BindingDB"
+    }
+  ]
+}

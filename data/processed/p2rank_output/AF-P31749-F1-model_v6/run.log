@@ -1,0 +1,40 @@
+[INFO] Console - predicting pockets for proteins from dataset [AF-P31749-F1-model_v6.pdb]
+[INFO] PredictPocketsRoutine - outdir: /home/bcheng/splicebind/data/processed/p2rank_output/AF-P31749-F1-model_v6
+[INFO] FeatureSetup - enabledFeatures: [chem, volsite, protrusion, bfactor, atom_table]
+[INFO] Dataset - processing dataset [AF-P31749-F1-model_v6.pdb] using 1 thread
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [AF-P31749-F1-model_v6.pdb] (1/1)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [AF-P31749-F1-model_v6.pdb] (1/1)
+[INFO] Protein - loading protein [/home/bcheng/splicebind/data/structures/AF-P31749-F1-model_v6.pdb]
+[INFO] PdbUtils - loading file [/home/bcheng/splicebind/data/structures/AF-P31749-F1-model_v6.pdb]
+[INFO] Struct - all groups in chain A: 480
+[INFO] Struct - all groups in chain A: 480
+[INFO] Struct - 480 groups in chain A
+[INFO] Protein - structure atoms: 3919
+[INFO] Protein - protein   atoms: 3834
+[INFO] Protein - ignoring ligands
+[INFO] FeatureSetup - enabledFeatures: [chem, volsite, protrusion, bfactor, atom_table]
+[INFO] Protein - SAS points: 8977
+[INFO] Protein - exposed protein atoms: 2642 of 3834
+[INFO] InstancePredictor - Creating WekaInstancePredictor
+[INFO] SLinkClusterer - clustering [63] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:17( 30 ), id:30( 2 ), id:34( 1 ), id:36( 3 ), id:51( 16 ), id:52( 3 ), id:59( 7 )]
+[INFO] SLinkClusterer - clusters together: 63 / 63
+[INFO] PocketPredictor - PREDICTING POCKETS.... ====================================
+[INFO] PocketPredictor - SAS POINTS: 8977
+[INFO] PocketPredictor - LIGANDABLE POINTS: 63
+[INFO] PocketPredictor - CLUSTERS: 8
+[INFO] PocketPredictor - FILTERED CLUSTERS: 5
+[INFO] PocketPredictor - pocket 1 -  surf_atoms:  46   points:  30   score:   12.1
+[INFO] PocketPredictor - pocket 2 -  surf_atoms:  26   points:  16   score:    5.4
+[INFO] PocketPredictor - pocket 3 -  surf_atoms:  28   points:   7   score:    2.0
+[INFO] PocketPredictor - pocket 4 -  surf_atoms:  15   points:   3   score:    1.6
+[INFO] PocketPredictor - pocket 5 -  surf_atoms:  13   points:   3   score:    1.0
+[INFO] OldPymolRenderer - copying [/home/bcheng/splicebind/data/structures/AF-P31749-F1-model_v6.pdb] to [/home/bcheng/splicebind/data/processed/p2rank_output/AF-P31749-F1-model_v6/visualizations/data/AF-P31749-F1-model_v6.pdb]
+[INFO] Console - predicting pockets finished in 0 hours 0 minutes 23.452 seconds
+[INFO] Console - results saved to directory [/home/bcheng/splicebind/data/processed/p2rank_output/AF-P31749-F1-model_v6]
+[INFO] Console - 
+[INFO] Console - Finished successfully in 0 hours 0 minutes 27.362 seconds.

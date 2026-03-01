@@ -1,0 +1,50 @@
+{
+  "ASP": {
+    "importance": 0.142,
+    "freq_pos": 0.089,
+    "freq_neg": 0.052,
+    "role": "Catalytic"
+  },
+  "GLY": {
+    "importance": 0.128,
+    "freq_pos": 0.112,
+    "freq_neg": 0.078,
+    "role": "Flexibility"
+  },
+  "LYS": {
+    "importance": 0.115,
+    "freq_pos": 0.078,
+    "freq_neg": 0.045,
+    "role": "ATP binding"
+  },
+  "LEU": {
+    "importance": 0.098,
+    "freq_pos": 0.095,
+    "freq_neg": 0.082,
+    "role": "Hydrophobic"
+  },
+  "VAL": {
+    "importance": 0.087,
+    "freq_pos": 0.088,
+    "freq_neg": 0.075,
+    "role": "Hydrophobic"
+  },
+  "PHE": {
+    "importance": 0.082,
+    "freq_pos": 0.062,
+    "freq_neg": 0.041,
+    "role": "Gatekeeper"
+  },
+  "THR": {
+    "importance": 0.075,
+    "freq_pos": 0.071,
+    "freq_neg": 0.058,
+    "role": "Gatekeeper"
+  },
+  "ALA": {
+    "importance": 0.068,
+    "freq_pos": 0.082,
+    "freq_neg": 0.079,
+    "role": "Structural"
+  }
+}

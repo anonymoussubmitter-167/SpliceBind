@@ -1,0 +1,20 @@
+{
+  "ablation": {
+    "full": 0.676,
+    "struct_only": 0.644,
+    "esm_only": 0.452,
+    "random_esm": 0.41
+  },
+  "contributions": {
+    "esm2": 0.03200000000000003,
+    "structure": 0.22400000000000003
+  },
+  "importance_scores": {
+    "One-hot AA": 0.45,
+    "ESM-2 embeddings": 0.25,
+    "Hydrophobicity": 0.12,
+    "Size": 0.08,
+    "Charge": 0.06,
+    "Aromatic": 0.04
+  }
+}

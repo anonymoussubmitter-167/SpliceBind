@@ -1,0 +1,27 @@
+{
+  "Human (train)": {
+    "auroc": 0.703,
+    "n": 198,
+    "note": "Primary training"
+  },
+  "Human (held-out)": {
+    "auroc": 0.695,
+    "n": 31,
+    "note": "Test set"
+  },
+  "Mouse": {
+    "auroc": 0.678,
+    "n": 24,
+    "note": "Cross-species"
+  },
+  "Rat": {
+    "auroc": 0.661,
+    "n": 12,
+    "note": "Cross-species"
+  },
+  "Zebrafish": {
+    "auroc": 0.623,
+    "n": 8,
+    "note": "Distant homolog"
+  }
+}

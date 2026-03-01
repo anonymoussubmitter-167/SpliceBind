@@ -1,0 +1,493 @@
+{
+  "timestamp": "2026-02-21T00:46:24.978923",
+  "conditions": {
+    "full": {
+      "description": "Full model (56 features)",
+      "feature_dim": 56,
+      "n_folds": 15,
+      "n_graphs": 137,
+      "auroc_mean": 0.6762724994303941,
+      "auroc_std": 0.2124447672067117,
+      "auprc_mean": 0.8843138679207077,
+      "auprc_std": 0.09550664665480621,
+      "per_fold": [
+        {
+          "seed": 0,
+          "fold": 0,
+          "auroc": 0.614100185528757,
+          "auprc": 0.8753661837344305,
+          "n_test": 60
+        },
+        {
+          "seed": 0,
+          "fold": 1,
+          "auroc": 0.7982456140350878,
+          "auprc": 0.980621723012586,
+          "n_test": 41
+        },
+        {
+          "seed": 0,
+          "fold": 2,
+          "auroc": 0.6476190476190476,
+          "auprc": 0.834224185400656,
+          "n_test": 22
+        },
+        {
+          "seed": 0,
+          "fold": 3,
+          "auroc": 1.0,
+          "auprc": 1.0,
+          "n_test": 9
+        },
+        {
+          "seed": 0,
+          "fold": 4,
+          "auroc": 0.5,
+          "auprc": 0.8875,
+          "n_test": 5
+        },
+        {
+          "seed": 1,
+          "fold": 0,
+          "auroc": 0.39146567717996283,
+          "auprc": 0.776834185038469,
+          "n_test": 60
+        },
+        {
+          "seed": 1,
+          "fold": 1,
+          "auroc": 0.8508771929824562,
+          "auprc": 0.9869648094917384,
+          "n_test": 41
+        },
+        {
+          "seed": 1,
+          "fold": 2,
+          "auroc": 0.5523809523809524,
+          "auprc": 0.7709564200276274,
+          "n_test": 22
+        },
+        {
+          "seed": 1,
+          "fold": 3,
+          "auroc": 1.0,
+          "auprc": 1.0,
+          "n_test": 9
+        },
+        {
+          "seed": 1,
+          "fold": 4,
+          "auroc": 0.5,
+          "auprc": 0.8875,
+          "n_test": 5
+        },
+        {
+          "seed": 2,
+          "fold": 0,
+          "auroc": 0.3580705009276438,
+          "auprc": 0.7589495838464133,
+          "n_test": 60
+        },
+        {
+          "seed": 2,
+          "fold": 1,
+          "auroc": 0.912280701754386,
+          "auprc": 0.992318704175018,
+          "n_test": 41
+        },
+        {
+          "seed": 2,
+          "fold": 2,
+          "auroc": 0.41904761904761906,
+          "auprc": 0.7093055574170125,
+          "n_test": 22
+        },
+        {
+          "seed": 2,
+          "fold": 3,
+          "auroc": 0.85,
+          "auprc": 0.8541666666666666,
+          "n_test": 9
+        },
+        {
+          "seed": 2,
+          "fold": 4,
+          "auroc": 0.75,
+          "auprc": 0.95,
+          "n_test": 5
+        }
+      ]
+    },
+    "structure_only": {
+      "description": "Structure only (24 features)",
+      "feature_dim": 24,
+      "n_folds": 15,
+      "n_graphs": 137,
+      "auroc_mean": 0.6442927665484056,
+      "auroc_std": 0.19312142253521805,
+      "auprc_mean": 0.8867466731536983,
+      "auprc_std": 0.08285835198052073,
+      "per_fold": [
+        {
+          "seed": 0,
+          "fold": 0,
+          "auroc": 0.4452690166975881,
+          "auprc": 0.8193986162460956,
+          "n_test": 60
+        },
+        {
+          "seed": 0,
+          "fold": 1,
+          "auroc": 0.7543859649122807,
+          "auprc": 0.9786589153847888,
+          "n_test": 41
+        },
+        {
+          "seed": 0,
+          "fold": 2,
+          "auroc": 0.580952380952381,
+          "auprc": 0.8181044445750327,
+          "n_test": 22
+        },
+        {
+          "seed": 0,
+          "fold": 3,
+          "auroc": 0.9500000000000001,
+          "auprc": 0.95,
+          "n_test": 9
+        },
+        {
+          "seed": 0,
+          "fold": 4,
+          "auroc": 0.5,
+          "auprc": 0.8875,
+          "n_test": 5
+        },
+        {
+          "seed": 1,
+          "fold": 0,
+          "auroc": 0.6437847866419296,
+          "auprc": 0.8863246151666706,
+          "n_test": 60
+        },
+        {
+          "seed": 1,
+          "fold": 1,
+          "auroc": 0.8157894736842106,
+          "auprc": 0.9800411852436826,
+          "n_test": 41
+        },
+        {
+          "seed": 1,
+          "fold": 2,
+          "auroc": 0.4,
+          "auprc": 0.6820041559747442,
+          "n_test": 22
+        },
+        {
+          "seed": 1,
+          "fold": 3,
+          "auroc": 1.0,
+          "auprc": 1.0,
+          "n_test": 9
+        },
+        {
+          "seed": 1,
+          "fold": 4,
+          "auroc": 0.5,
+          "auprc": 0.8875,
+          "n_test": 5
+        },
+        {
+          "seed": 2,
+          "fold": 0,
+          "auroc": 0.5695732838589982,
+          "auprc": 0.8276024236417374,
+          "n_test": 60
+        },
+        {
+          "seed": 2,
+          "fold": 1,
+          "auroc": 0.4736842105263158,
+          "auprc": 0.943898388931688,
+          "n_test": 41
+        },
+        {
+          "seed": 2,
+          "fold": 2,
+          "auroc": 0.580952380952381,
+          "auprc": 0.8026673521410362,
+          "n_test": 22
+        },
+        {
+          "seed": 2,
+          "fold": 3,
+          "auroc": 0.9500000000000001,
+          "auprc": 0.95,
+          "n_test": 9
+        },
+        {
+          "seed": 2,
+          "fold": 4,
+          "auroc": 0.5,
+          "auprc": 0.8875,
+          "n_test": 5
+        }
+      ]
+    },
+    "esm_only": {
+      "description": "ESM-2 only (32 features)",
+      "feature_dim": 32,
+      "n_folds": 15,
+      "n_graphs": 137,
+      "auroc_mean": 0.451700788768458,
+      "auroc_std": 0.224474368988567,
+      "auprc_mean": 0.7478907867513549,
+      "auprc_std": 0.18394614948715698,
+      "per_fold": [
+        {
+          "seed": 0,
+          "fold": 0,
+          "auroc": 0.28014842300556586,
+          "auprc": 0.7361738917110262,
+          "n_test": 60
+        },
+        {
+          "seed": 0,
+          "fold": 1,
+          "auroc": 0.2192982456140351,
+          "auprc": 0.8955958797480745,
+          "n_test": 41
+        },
+        {
+          "seed": 0,
+          "fold": 2,
+          "auroc": 0.26666666666666666,
+          "auprc": 0.5691997373111924,
+          "n_test": 22
+        },
+        {
+          "seed": 0,
+          "fold": 3,
+          "auroc": 0.24999999999999997,
+          "auprc": 0.37797619047619047,
+          "n_test": 9
+        },
+        {
+          "seed": 0,
+          "fold": 4,
+          "auroc": 0.75,
+          "auprc": 0.95,
+          "n_test": 5
+        },
+        {
+          "seed": 1,
+          "fold": 0,
+          "auroc": 0.17996289424860853,
+          "auprc": 0.7074724061239458,
+          "n_test": 60
+        },
+        {
+          "seed": 1,
+          "fold": 1,
+          "auroc": 0.5350877192982457,
+          "auprc": 0.9168273826935947,
+          "n_test": 41
+        },
+        {
+          "seed": 1,
+          "fold": 2,
+          "auroc": 0.42857142857142855,
+          "auprc": 0.6560982146508462,
+          "n_test": 22
+        },
+        {
+          "seed": 1,
+          "fold": 3,
+          "auroc": 0.55,
+          "auprc": 0.5011904761904762,
+          "n_test": 9
+        },
+        {
+          "seed": 1,
+          "fold": 4,
+          "auroc": 0.75,
+          "auprc": 0.95,
+          "n_test": 5
+        },
+        {
+          "seed": 2,
+          "fold": 0,
+          "auroc": 0.32003710575139144,
+          "auprc": 0.7477141627308983,
+          "n_test": 60
+        },
+        {
+          "seed": 2,
+          "fold": 1,
+          "auroc": 0.4385964912280702,
+          "auprc": 0.9328164682697505,
+          "n_test": 41
+        },
+        {
+          "seed": 2,
+          "fold": 2,
+          "auroc": 0.45714285714285713,
+          "auprc": 0.7224358802532177,
+          "n_test": 22
+        },
+        {
+          "seed": 2,
+          "fold": 3,
+          "auroc": 0.35,
+          "auprc": 0.5548611111111111,
+          "n_test": 9
+        },
+        {
+          "seed": 2,
+          "fold": 4,
+          "auroc": 1.0,
+          "auprc": 1.0,
+          "n_test": 5
+        }
+      ]
+    },
+    "random_esm": {
+      "description": "Random ESM (56 features)",
+      "feature_dim": 56,
+      "n_folds": 15,
+      "n_graphs": 137,
+      "auroc_mean": 0.4096757044125466,
+      "auroc_std": 0.22021078472953426,
+      "auprc_mean": 0.7685771151890115,
+      "auprc_std": 0.09735413897503789,
+      "per_fold": [
+        {
+          "seed": 0,
+          "fold": 0,
+          "auroc": 0.5102040816326531,
+          "auprc": 0.7965066523371669,
+          "n_test": 60
+        },
+        {
+          "seed": 0,
+          "fold": 1,
+          "auroc": 0.30701754385964913,
+          "auprc": 0.8879809207987821,
+          "n_test": 41
+        },
+        {
+          "seed": 0,
+          "fold": 2,
+          "auroc": 0.5523809523809524,
+          "auprc": 0.737976409841735,
+          "n_test": 22
+        },
+        {
+          "seed": 0,
+          "fold": 3,
+          "auroc": 0.6000000000000001,
+          "auprc": 0.5902777777777777,
+          "n_test": 9
+        },
+        {
+          "seed": 0,
+          "fold": 4,
+          "auroc": 0.25,
+          "auprc": 0.8041666666666667,
+          "n_test": 5
+        },
+        {
+          "seed": 1,
+          "fold": 0,
+          "auroc": 0.41558441558441556,
+          "auprc": 0.7926427372493376,
+          "n_test": 60
+        },
+        {
+          "seed": 1,
+          "fold": 1,
+          "auroc": 0.2982456140350877,
+          "auprc": 0.8938595450984591,
+          "n_test": 41
+        },
+        {
+          "seed": 1,
+          "fold": 2,
+          "auroc": 0.4952380952380953,
+          "auprc": 0.7248847643584485,
+          "n_test": 22
+        },
+        {
+          "seed": 1,
+          "fold": 3,
+          "auroc": 0.75,
+          "auprc": 0.8611111111111112,
+          "n_test": 9
+        },
+        {
+          "seed": 1,
+          "fold": 4,
+          "auroc": 0.0,
+          "auprc": 0.6791666666666667,
+          "n_test": 5
+        },
+        {
+          "seed": 2,
+          "fold": 0,
+          "auroc": 0.42486085343228197,
+          "auprc": 0.7648031184277886,
+          "n_test": 60
+        },
+        {
+          "seed": 2,
+          "fold": 1,
+          "auroc": 0.2368421052631579,
+          "auprc": 0.8828713939157998,
+          "n_test": 41
+        },
+        {
+          "seed": 2,
+          "fold": 2,
+          "auroc": 0.7047619047619048,
+          "auprc": 0.8429645191409897,
+          "n_test": 22
+        },
+        {
+          "seed": 2,
+          "fold": 3,
+          "auroc": 0.6000000000000001,
+          "auprc": 0.5902777777777777,
+          "n_test": 9
+        },
+        {
+          "seed": 2,
+          "fold": 4,
+          "auroc": 0.0,
+          "auprc": 0.6791666666666667,
+          "n_test": 5
+        }
+      ]
+    }
+  },
+  "comparisons": [
+    {
+      "comparison": "Full vs Structure-only",
+      "delta": 0.03197973288198852,
+      "p_value": 0.4990595567713517,
+      "significant": 0.0
+    },
+    {
+      "comparison": "Full vs Random-ESM",
+      "delta": 0.26659679501784755,
+      "p_value": 0.003417414448135681,
+      "significant": 1.0
+    },
+    {
+      "comparison": "ESM-only vs Structure-only",
+      "delta": -0.19259197777994763,
+      "p_value": 0.047873440316710064,
+      "significant": 1.0
+    }
+  ]
+}

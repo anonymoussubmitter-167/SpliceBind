@@ -1,0 +1,153 @@
+# SpliceBind Configuration
+# ========================
+
+project:
+  name: splicebind
+  seed: 42
+  device: auto  # auto, cuda, cpu
+
+# Data paths
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  embeddings_dir: data/embeddings
+  structures_dir: data/structures
+
+# Target kinase families for Option C
+kinase_families:
+  train:
+    - PIM  # PIM1, PIM2, PIM3
+    - AKT  # AKT1, AKT2, AKT3
+    - PIK3  # PIK3CA, PIK3CB, PIK3CG, PIK3CD
+  test:
+    - CLK  # CLK1, CLK2, CLK3, CLK4
+    - JAK  # JAK1, JAK2, JAK3, TYK2
+
+# Kinase UniProt IDs
+kinase_uniprot:
+  PIM1: P49023
+  PIM2: Q9P1W9
+  PIM3: Q86V86
+  AKT1: P31749
+  AKT2: P31751
+  AKT3: Q9Y243
+  PIK3CA: P42336
+  PIK3CB: P42338
+  PIK3CG: P48736
+  PIK3CD: O00329
+  CLK1: P49759
+  CLK2: P49760
+  CLK3: P49761
+  CLK4: Q9HAZ1
+  JAK1: P23458
+  JAK2: O60674
+  JAK3: P52333
+  TYK2: P29597
+
+# Module 1: Structure Generator
+structure:
+  esm_model: esm2_t33_650M_UR50D
+  embedding_dim: 1280
+  use_precomputed_af: true
+  plddt_threshold: 70.0  # flag low-confidence regions
+
+# Module 2: Pocket Analyzer
+pocket:
+  method: fpocket  # fpocket or p2rank
+  min_pocket_score: 0.3
+  contact_distance: 6.0  # Angstroms for residue contact graph
+  pocket_descriptors:
+    - volume
+    - hydrophobicity
+    - polarity
+    - charge
+    - druggability_score
+
+# Module 3: Druggability Predictor (GNN)
+model:
+  gnn:
+    num_layers: 3
+    hidden_dim: 256
+    dropout: 0.2
+    edge_features: true
+    conv_type: EdgeConv  # EdgeConv, GATConv, GCNConv
+    pooling: mean_max  # mean, max, mean_max, attention
+
+  mlp:
+    hidden_dims: [256, 128, 64]
+    dropout: 0.3
+    activation: relu
+
+  mc_dropout:
+    enabled: true
+    num_samples: 20
+
+# Module 4: Selectivity Index
+selectivity:
+  expression_source: gtex  # gtex, tcga, both
+  min_tpm: 1.0  # minimum expression threshold
+  cancer_types:
+    - BRCA
+    - LUAD
+    - COAD
+    - PRAD
+    - LIHC
+    - KIRC
+    - HNSC
+    - BLCA
+    - STAD
+    - THCA
+
+# Training
+training:
+  # Pre-training
+  pretrain:
+    epochs: 200
+    batch_size: 32
+    lr: 5.0e-4
+    weight_decay: 1.0e-4
+    scheduler: cosine
+    warmup_epochs: 10
+    early_stopping_patience: 30
+    pos_weight: 5.0
+    focal_gamma: 2.0
+    use_focal: true
+
+  # Fine-tuning
+  finetune:
+    epochs: 100
+    batch_size: 16
+    lr: 5.0e-5
+    weight_decay: 1.0e-5
+    scheduler: cosine
+    warmup_epochs: 5
+    early_stopping_patience: 20
+    pos_weight: 3.0
+    focal_gamma: 1.5
+    use_focal: true
+
+  # Multi-task weights
+  loss_weights:
+    druggability: 1.0
+    pocket_similarity: 0.5
+    selectivity: 0.3
+    structure_consistency: 0.2
+
+# Validation
+validation:
+  split_strategy: family_holdout  # family_holdout, random, scaffold
+  val_fraction: 0.15
+  test_fraction: 0.15
+  metrics:
+    - auroc
+    - auprc
+    - spearman_rho
+    - precision_at_k
+
+# Logging
+logging:
+  log_dir: logs
+  tensorboard: true
+  log_every_n_steps: 10
+  val_every_n_epochs: 1
+  save_every_n_epochs: 5

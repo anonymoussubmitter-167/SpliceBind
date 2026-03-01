@@ -1,0 +1,18 @@
+{
+  "Single model": {
+    "auroc": 0.703,
+    "std": 0.088
+  },
+  "Ensemble (3 seeds)": {
+    "auroc": 0.718,
+    "std": 0.072
+  },
+  "Ensemble (5 seeds)": {
+    "auroc": 0.726,
+    "std": 0.065
+  },
+  "Ensemble (10 seeds)": {
+    "auroc": 0.731,
+    "std": 0.058
+  }
+}

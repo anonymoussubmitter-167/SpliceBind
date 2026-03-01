@@ -1,0 +1,6 @@
+{
+  "best_epoch": 36,
+  "best_auroc": 0.7325733696708377,
+  "convergence_epoch": 25,
+  "early_stopping_patience": 10
+}

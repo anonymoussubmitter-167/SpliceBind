@@ -1,0 +1,20 @@
+{
+  "confusion_matrix": {
+    "true_positive": 126,
+    "false_positive": 19,
+    "true_negative": 51,
+    "false_negative": 33
+  },
+  "error_types": {
+    "False Positives (19)": {
+      "Shallow pockets": 8,
+      "Allosteric sites": 6,
+      "Crystal contacts": 5
+    },
+    "False Negatives (33)": {
+      "Low pLDDT regions": 14,
+      "Cryptic pockets": 11,
+      "Unusual binding mode": 8
+    }
+  }
+}

@@ -1,0 +1,57 @@
+[INFO] Console - predicting pockets for proteins from dataset [PIK3CD-S_esmfold.pdb]
+[INFO] PredictPocketsRoutine - outdir: /home/bcheng/splicebind/data/processed/p2rank_output/PIK3CD_variant
+[INFO] FeatureSetup - enabledFeatures: [chem, volsite, protrusion, bfactor, atom_table]
+[INFO] Dataset - processing dataset [PIK3CD-S_esmfold.pdb] using 1 thread
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [PIK3CD-S_esmfold.pdb] (1/1)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [PIK3CD-S_esmfold.pdb] (1/1)
+[INFO] Protein - loading protein [/home/bcheng/splicebind/data/structures/PIK3CD-S_esmfold.pdb]
+[INFO] PdbUtils - loading file [/home/bcheng/splicebind/data/structures/PIK3CD-S_esmfold.pdb]
+[INFO] Struct - all groups in chain A: 996
+[INFO] Struct - all groups in chain A: 996
+[INFO] Struct - 996 groups in chain A
+[INFO] Protein - structure atoms: 8030
+[INFO] Protein - protein   atoms: 7875
+[INFO] Protein - ignoring ligands
+[INFO] FeatureSetup - enabledFeatures: [chem, volsite, protrusion, bfactor, atom_table]
+[INFO] Protein - SAS points: 15821
+[INFO] Protein - exposed protein atoms: 5316 of 7875
+[INFO] InstancePredictor - Creating WekaInstancePredictor
+[INFO] SLinkClusterer - clustering [309] elements
+[INFO] SLinkClusterer - clusters: [id:12( 8 ), id:27( 1 ), id:36( 4 ), id:39( 6 ), id:46( 17 ), id:48( 15 ), id:52( 2 ), id:53( 1 ), id:61( 15 ), id:66( 6 ), id:69( 1 ), id:70( 1 ), id:76( 3 ), id:87( 29 ), id:88( 3 ), id:128( 29 ), id:132( 2 ), id:145( 23 ), id:153( 2 ), id:191( 3 ), id:215( 3 ), id:216( 1 ), id:217( 7 ), id:232( 72 ), id:260( 31 ), id:262( 3 ), id:276( 4 ), id:298( 4 ), id:301( 3 ), id:308( 10 )]
+[INFO] SLinkClusterer - clusters together: 309 / 309
+[INFO] PocketPredictor - PREDICTING POCKETS.... ====================================
+[INFO] PocketPredictor - SAS POINTS: 15821
+[INFO] PocketPredictor - LIGANDABLE POINTS: 309
+[INFO] PocketPredictor - CLUSTERS: 30
+[INFO] PocketPredictor - FILTERED CLUSTERS: 22
+[INFO] PocketPredictor - pocket 1 -  surf_atoms:  61   points:  72   score:   27.5
+[INFO] PocketPredictor - pocket 2 -  surf_atoms:  47   points:  29   score:   12.9
+[INFO] PocketPredictor - pocket 3 -  surf_atoms:  33   points:  31   score:   11.3
+[INFO] PocketPredictor - pocket 4 -  surf_atoms:  39   points:  29   score:    8.6
+[INFO] PocketPredictor - pocket 5 -  surf_atoms:  29   points:  23   score:    7.7
+[INFO] PocketPredictor - pocket 6 -  surf_atoms:  35   points:  17   score:    6.8
+[INFO] PocketPredictor - pocket 7 -  surf_atoms:  34   points:  15   score:    5.2
+[INFO] PocketPredictor - pocket 8 -  surf_atoms:  29   points:  15   score:    4.3
+[INFO] PocketPredictor - pocket 9 -  surf_atoms:  26   points:   8   score:    3.0
+[INFO] PocketPredictor - pocket10 -  surf_atoms:  19   points:   6   score:    2.9
+[INFO] PocketPredictor - pocket11 -  surf_atoms:  26   points:  10   score:    2.6
+[INFO] PocketPredictor - pocket12 -  surf_atoms:  20   points:   6   score:    2.3
+[INFO] PocketPredictor - pocket13 -  surf_atoms:  18   points:   3   score:    2.2
+[INFO] PocketPredictor - pocket14 -  surf_atoms:  25   points:   4   score:    1.9
+[INFO] PocketPredictor - pocket15 -  surf_atoms:  20   points:   3   score:    1.9
+[INFO] PocketPredictor - pocket16 -  surf_atoms:  16   points:   3   score:    1.7
+[INFO] PocketPredictor - pocket17 -  surf_atoms:  20   points:   3   score:    1.7
+[INFO] PocketPredictor - pocket18 -  surf_atoms:  21   points:   4   score:    1.6
+[INFO] PocketPredictor - pocket19 -  surf_atoms:  12   points:   7   score:    1.3
+[INFO] PocketPredictor - pocket20 -  surf_atoms:  13   points:   3   score:    1.2
+[INFO] PocketPredictor - pocket21 -  surf_atoms:  14   points:   4   score:    1.2
+[INFO] PocketPredictor - pocket22 -  surf_atoms:  11   points:   3   score:    0.9
+[INFO] OldPymolRenderer - copying [/home/bcheng/splicebind/data/structures/PIK3CD-S_esmfold.pdb] to [/home/bcheng/splicebind/data/processed/p2rank_output/PIK3CD_variant/visualizations/data/PIK3CD-S_esmfold.pdb]
+[INFO] Console - predicting pockets finished in 0 hours 0 minutes 20.082 seconds
+[INFO] Console - results saved to directory [/home/bcheng/splicebind/data/processed/p2rank_output/PIK3CD_variant]
+[INFO] Console - 
+[INFO] Console - Finished successfully in 0 hours 0 minutes 23.499 seconds.

@@ -1,0 +1,53 @@
+{
+  "fold_sizes": {
+    "JAK": {
+      "mean": 40.0,
+      "min": 40,
+      "max": 40
+    },
+    "PIK3": {
+      "mean": 35.0,
+      "min": 35,
+      "max": 35
+    },
+    "ABL": {
+      "mean": 34.0,
+      "min": 34,
+      "max": 34
+    },
+    "RAF": {
+      "mean": 35.0,
+      "min": 35,
+      "max": 35
+    },
+    "EGFR": {
+      "mean": 34.0,
+      "min": 34,
+      "max": 34
+    }
+  },
+  "auroc_stats": {
+    "mean": 0.6668406104204133,
+    "std": 0.1322104722331864,
+    "bootstrap_ci": [
+      0.6006103727161363,
+      0.7343865166679698
+    ],
+    "normal_ci": [
+      0.5999328800190424,
+      0.7337483408217842
+    ]
+  },
+  "model_stats": {
+    "parameters": 899457,
+    "training_samples": 178,
+    "param_sample_ratio": 5053.1
+  },
+  "recommendations": [
+    "Expand dataset to ~550 pockets for statistical significance",
+    "Simplify model to ~50K parameters",
+    "Run full 4-condition ablation study",
+    "Add ECE calibration metric",
+    "Report bootstrap CIs instead of normal assumption"
+  ]
+}

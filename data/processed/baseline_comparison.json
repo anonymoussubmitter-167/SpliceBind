@@ -1,0 +1,37 @@
+{
+  "Random": {
+    "auroc": 0.481,
+    "std": 0.093,
+    "type": "random"
+  },
+  "P2Rank Score": {
+    "auroc": 0.634,
+    "std": 0.11,
+    "type": "pocket_detection"
+  },
+  "Pocket Size": {
+    "auroc": 0.552,
+    "std": 0.095,
+    "type": "geometric"
+  },
+  "Pocket Depth": {
+    "auroc": 0.589,
+    "std": 0.088,
+    "type": "geometric"
+  },
+  "Hydrophobicity": {
+    "auroc": 0.523,
+    "std": 0.101,
+    "type": "physicochemical"
+  },
+  "SpliceBind": {
+    "auroc": 0.703,
+    "std": 0.088,
+    "type": "learned"
+  },
+  "Oracle (Overlap)": {
+    "auroc": 0.988,
+    "std": 0.012,
+    "type": "oracle"
+  }
+}

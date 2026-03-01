@@ -1,0 +1,51 @@
+[INFO] Console - predicting pockets for proteins from dataset [AF-P23458-F1-model_v6.pdb]
+[INFO] PredictPocketsRoutine - outdir: /home/bcheng/splicebind/data/processed/p2rank_output/AF-P23458-F1-model_v6
+[INFO] FeatureSetup - enabledFeatures: [chem, volsite, protrusion, bfactor, atom_table]
+[INFO] Dataset - processing dataset [AF-P23458-F1-model_v6.pdb] using 1 thread
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [AF-P23458-F1-model_v6.pdb] (1/1)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [AF-P23458-F1-model_v6.pdb] (1/1)
+[INFO] Protein - loading protein [/home/bcheng/splicebind/data/structures/AF-P23458-F1-model_v6.pdb]
+[INFO] PdbUtils - loading file [/home/bcheng/splicebind/data/structures/AF-P23458-F1-model_v6.pdb]
+[INFO] Struct - all groups in chain A: 1154
+[INFO] Struct - all groups in chain A: 1154
+[INFO] Struct - 1154 groups in chain A
+[INFO] Protein - structure atoms: 9355
+[INFO] Protein - protein   atoms: 9181
+[INFO] Protein - ignoring ligands
+[INFO] FeatureSetup - enabledFeatures: [chem, volsite, protrusion, bfactor, atom_table]
+[INFO] Protein - SAS points: 19843
+[INFO] Protein - exposed protein atoms: 6187 of 9181
+[INFO] InstancePredictor - Creating WekaInstancePredictor
+[INFO] SLinkClusterer - clustering [346] elements
+[INFO] SLinkClusterer - clusters: [id:41( 1 ), id:53( 1 ), id:60( 15 ), id:69( 4 ), id:71( 2 ), id:73( 2 ), id:74( 2 ), id:75( 2 ), id:82( 26 ), id:88( 1 ), id:89( 1 ), id:91( 1 ), id:92( 1 ), id:93( 2 ), id:104( 1 ), id:107( 66 ), id:158( 2 ), id:161( 9 ), id:162( 1 ), id:163( 3 ), id:166( 1 ), id:190( 28 ), id:195( 1 ), id:196( 1 ), id:197( 1 ), id:217( 27 ), id:234( 48 ), id:260( 2 ), id:263( 3 ), id:268( 2 ), id:270( 1 ), id:277( 21 ), id:288( 23 ), id:289( 1 ), id:304( 1 ), id:320( 1 ), id:325( 24 ), id:330( 2 ), id:337( 1 ), id:339( 1 ), id:341( 3 ), id:343( 7 ), id:345( 3 )]
+[INFO] SLinkClusterer - clusters together: 346 / 346
+[INFO] PocketPredictor - PREDICTING POCKETS.... ====================================
+[INFO] PocketPredictor - SAS POINTS: 19843
+[INFO] PocketPredictor - LIGANDABLE POINTS: 346
+[INFO] PocketPredictor - CLUSTERS: 43
+[INFO] PocketPredictor - FILTERED CLUSTERS: 16
+[INFO] PocketPredictor - pocket 1 -  surf_atoms:  79   points:  66   score:   19.8
+[INFO] PocketPredictor - pocket 2 -  surf_atoms:  70   points:  48   score:   15.3
+[INFO] PocketPredictor - pocket 3 -  surf_atoms:  46   points:  28   score:   10.6
+[INFO] PocketPredictor - pocket 4 -  surf_atoms:  47   points:  27   score:    9.6
+[INFO] PocketPredictor - pocket 5 -  surf_atoms:  37   points:  26   score:    9.4
+[INFO] PocketPredictor - pocket 6 -  surf_atoms:  41   points:  24   score:    8.4
+[INFO] PocketPredictor - pocket 7 -  surf_atoms:  38   points:  21   score:    7.3
+[INFO] PocketPredictor - pocket 8 -  surf_atoms:  40   points:  23   score:    6.9
+[INFO] PocketPredictor - pocket 9 -  surf_atoms:  38   points:  15   score:    5.3
+[INFO] PocketPredictor - pocket10 -  surf_atoms:  20   points:   9   score:    2.8
+[INFO] PocketPredictor - pocket11 -  surf_atoms:  23   points:   7   score:    2.6
+[INFO] PocketPredictor - pocket12 -  surf_atoms:   9   points:   3   score:    1.5
+[INFO] PocketPredictor - pocket13 -  surf_atoms:  20   points:   3   score:    1.4
+[INFO] PocketPredictor - pocket14 -  surf_atoms:  17   points:   3   score:    1.4
+[INFO] PocketPredictor - pocket15 -  surf_atoms:  18   points:   4   score:    1.2
+[INFO] PocketPredictor - pocket16 -  surf_atoms:   4   points:   3   score:    0.6
+[INFO] OldPymolRenderer - copying [/home/bcheng/splicebind/data/structures/AF-P23458-F1-model_v6.pdb] to [/home/bcheng/splicebind/data/processed/p2rank_output/AF-P23458-F1-model_v6/visualizations/data/AF-P23458-F1-model_v6.pdb]
+[INFO] Console - predicting pockets finished in 0 hours 0 minutes 24.643 seconds
+[INFO] Console - results saved to directory [/home/bcheng/splicebind/data/processed/p2rank_output/AF-P23458-F1-model_v6]
+[INFO] Console - 
+[INFO] Console - Finished successfully in 0 hours 0 minutes 28.947 seconds.

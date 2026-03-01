@@ -1,0 +1,22 @@
+{
+  "Small (5-10 residues)": {
+    "auroc": 0.658,
+    "n": 45,
+    "avg_size": 7.5
+  },
+  "Medium (11-20 residues)": {
+    "auroc": 0.721,
+    "n": 98,
+    "avg_size": 15.2
+  },
+  "Large (21-30 residues)": {
+    "auroc": 0.734,
+    "n": 62,
+    "avg_size": 24.8
+  },
+  "Very Large (>30 residues)": {
+    "auroc": 0.689,
+    "n": 24,
+    "avg_size": 38.1
+  }
+}

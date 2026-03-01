@@ -1,0 +1,541 @@
+gene,ensembl_id,tissue,isoform,tpm,source
+PIM1,ENSG00000137193,Whole Blood,canonical,36.65,GTEx_v8_representative
+PIM1,ENSG00000137193,Whole Blood,alternative,5.38,GTEx_v8_representative
+PIM1,ENSG00000137193,Brain - Cortex,canonical,1.73,GTEx_v8_representative
+PIM1,ENSG00000137193,Brain - Cortex,alternative,0.62,GTEx_v8_representative
+PIM1,ENSG00000137193,Heart - Left Ventricle,canonical,3.11,GTEx_v8_representative
+PIM1,ENSG00000137193,Heart - Left Ventricle,alternative,0.48,GTEx_v8_representative
+PIM1,ENSG00000137193,Liver,canonical,11.43,GTEx_v8_representative
+PIM1,ENSG00000137193,Liver,alternative,2.94,GTEx_v8_representative
+PIM1,ENSG00000137193,Lung,canonical,46.47,GTEx_v8_representative
+PIM1,ENSG00000137193,Lung,alternative,6.59,GTEx_v8_representative
+PIM1,ENSG00000137193,Kidney - Cortex,canonical,10.07,GTEx_v8_representative
+PIM1,ENSG00000137193,Kidney - Cortex,alternative,2.11,GTEx_v8_representative
+PIM1,ENSG00000137193,Pancreas,canonical,13.44,GTEx_v8_representative
+PIM1,ENSG00000137193,Pancreas,alternative,3.42,GTEx_v8_representative
+PIM1,ENSG00000137193,Prostate,canonical,17.37,GTEx_v8_representative
+PIM1,ENSG00000137193,Prostate,alternative,1.98,GTEx_v8_representative
+PIM1,ENSG00000137193,Breast - Mammary Tissue,canonical,15.62,GTEx_v8_representative
+PIM1,ENSG00000137193,Breast - Mammary Tissue,alternative,2.02,GTEx_v8_representative
+PIM1,ENSG00000137193,Colon - Transverse,canonical,19.45,GTEx_v8_representative
+PIM1,ENSG00000137193,Colon - Transverse,alternative,4.51,GTEx_v8_representative
+PIM1,ENSG00000137193,Skin - Sun Exposed (Lower leg),canonical,8.83,GTEx_v8_representative
+PIM1,ENSG00000137193,Skin - Sun Exposed (Lower leg),alternative,3.29,GTEx_v8_representative
+PIM1,ENSG00000137193,Muscle - Skeletal,canonical,11.38,GTEx_v8_representative
+PIM1,ENSG00000137193,Muscle - Skeletal,alternative,3.4,GTEx_v8_representative
+PIM1,ENSG00000137193,Thyroid,canonical,15.56,GTEx_v8_representative
+PIM1,ENSG00000137193,Thyroid,alternative,2.42,GTEx_v8_representative
+PIM1,ENSG00000137193,Stomach,canonical,24.68,GTEx_v8_representative
+PIM1,ENSG00000137193,Stomach,alternative,8.21,GTEx_v8_representative
+PIM1,ENSG00000137193,Bladder,canonical,22.06,GTEx_v8_representative
+PIM1,ENSG00000137193,Bladder,alternative,8.31,GTEx_v8_representative
+PIM2,ENSG00000102096,Whole Blood,canonical,18.95,GTEx_v8_representative
+PIM2,ENSG00000102096,Whole Blood,alternative,3.01,GTEx_v8_representative
+PIM2,ENSG00000102096,Brain - Cortex,canonical,0.78,GTEx_v8_representative
+PIM2,ENSG00000102096,Brain - Cortex,alternative,0.14,GTEx_v8_representative
+PIM2,ENSG00000102096,Heart - Left Ventricle,canonical,8.95,GTEx_v8_representative
+PIM2,ENSG00000102096,Heart - Left Ventricle,alternative,1.85,GTEx_v8_representative
+PIM2,ENSG00000102096,Liver,canonical,5.54,GTEx_v8_representative
+PIM2,ENSG00000102096,Liver,alternative,1.89,GTEx_v8_representative
+PIM2,ENSG00000102096,Lung,canonical,4.66,GTEx_v8_representative
+PIM2,ENSG00000102096,Lung,alternative,1.84,GTEx_v8_representative
+PIM2,ENSG00000102096,Kidney - Cortex,canonical,10.77,GTEx_v8_representative
+PIM2,ENSG00000102096,Kidney - Cortex,alternative,3.43,GTEx_v8_representative
+PIM2,ENSG00000102096,Pancreas,canonical,11.07,GTEx_v8_representative
+PIM2,ENSG00000102096,Pancreas,alternative,1.35,GTEx_v8_representative
+PIM2,ENSG00000102096,Prostate,canonical,5.83,GTEx_v8_representative
+PIM2,ENSG00000102096,Prostate,alternative,0.69,GTEx_v8_representative
+PIM2,ENSG00000102096,Breast - Mammary Tissue,canonical,7.2,GTEx_v8_representative
+PIM2,ENSG00000102096,Breast - Mammary Tissue,alternative,1.42,GTEx_v8_representative
+PIM2,ENSG00000102096,Colon - Transverse,canonical,10.66,GTEx_v8_representative
+PIM2,ENSG00000102096,Colon - Transverse,alternative,2.58,GTEx_v8_representative
+PIM2,ENSG00000102096,Skin - Sun Exposed (Lower leg),canonical,5.1,GTEx_v8_representative
+PIM2,ENSG00000102096,Skin - Sun Exposed (Lower leg),alternative,1.6,GTEx_v8_representative
+PIM2,ENSG00000102096,Muscle - Skeletal,canonical,2.32,GTEx_v8_representative
+PIM2,ENSG00000102096,Muscle - Skeletal,alternative,0.58,GTEx_v8_representative
+PIM2,ENSG00000102096,Thyroid,canonical,8.46,GTEx_v8_representative
+PIM2,ENSG00000102096,Thyroid,alternative,1.93,GTEx_v8_representative
+PIM2,ENSG00000102096,Stomach,canonical,3.61,GTEx_v8_representative
+PIM2,ENSG00000102096,Stomach,alternative,0.91,GTEx_v8_representative
+PIM2,ENSG00000102096,Bladder,canonical,12.43,GTEx_v8_representative
+PIM2,ENSG00000102096,Bladder,alternative,2.17,GTEx_v8_representative
+PIM3,ENSG00000198355,Whole Blood,canonical,12.99,GTEx_v8_representative
+PIM3,ENSG00000198355,Whole Blood,alternative,1.6,GTEx_v8_representative
+PIM3,ENSG00000198355,Brain - Cortex,canonical,0.85,GTEx_v8_representative
+PIM3,ENSG00000198355,Brain - Cortex,alternative,0.13,GTEx_v8_representative
+PIM3,ENSG00000198355,Heart - Left Ventricle,canonical,7.51,GTEx_v8_representative
+PIM3,ENSG00000198355,Heart - Left Ventricle,alternative,2.71,GTEx_v8_representative
+PIM3,ENSG00000198355,Liver,canonical,7.27,GTEx_v8_representative
+PIM3,ENSG00000198355,Liver,alternative,1.13,GTEx_v8_representative
+PIM3,ENSG00000198355,Lung,canonical,21.52,GTEx_v8_representative
+PIM3,ENSG00000198355,Lung,alternative,7.94,GTEx_v8_representative
+PIM3,ENSG00000198355,Kidney - Cortex,canonical,4.16,GTEx_v8_representative
+PIM3,ENSG00000198355,Kidney - Cortex,alternative,0.55,GTEx_v8_representative
+PIM3,ENSG00000198355,Pancreas,canonical,4.1,GTEx_v8_representative
+PIM3,ENSG00000198355,Pancreas,alternative,1.47,GTEx_v8_representative
+PIM3,ENSG00000198355,Prostate,canonical,2.46,GTEx_v8_representative
+PIM3,ENSG00000198355,Prostate,alternative,0.62,GTEx_v8_representative
+PIM3,ENSG00000198355,Breast - Mammary Tissue,canonical,4.41,GTEx_v8_representative
+PIM3,ENSG00000198355,Breast - Mammary Tissue,alternative,0.89,GTEx_v8_representative
+PIM3,ENSG00000198355,Colon - Transverse,canonical,7.01,GTEx_v8_representative
+PIM3,ENSG00000198355,Colon - Transverse,alternative,1.38,GTEx_v8_representative
+PIM3,ENSG00000198355,Skin - Sun Exposed (Lower leg),canonical,4.61,GTEx_v8_representative
+PIM3,ENSG00000198355,Skin - Sun Exposed (Lower leg),alternative,1.81,GTEx_v8_representative
+PIM3,ENSG00000198355,Muscle - Skeletal,canonical,8.34,GTEx_v8_representative
+PIM3,ENSG00000198355,Muscle - Skeletal,alternative,1.46,GTEx_v8_representative
+PIM3,ENSG00000198355,Thyroid,canonical,4.45,GTEx_v8_representative
+PIM3,ENSG00000198355,Thyroid,alternative,0.49,GTEx_v8_representative
+PIM3,ENSG00000198355,Stomach,canonical,5.0,GTEx_v8_representative
+PIM3,ENSG00000198355,Stomach,alternative,1.25,GTEx_v8_representative
+PIM3,ENSG00000198355,Bladder,canonical,2.89,GTEx_v8_representative
+PIM3,ENSG00000198355,Bladder,alternative,0.5,GTEx_v8_representative
+AKT1,ENSG00000142208,Whole Blood,canonical,18.85,GTEx_v8_representative
+AKT1,ENSG00000142208,Whole Blood,alternative,4.65,GTEx_v8_representative
+AKT1,ENSG00000142208,Brain - Cortex,canonical,9.6,GTEx_v8_representative
+AKT1,ENSG00000142208,Brain - Cortex,alternative,3.15,GTEx_v8_representative
+AKT1,ENSG00000142208,Heart - Left Ventricle,canonical,19.58,GTEx_v8_representative
+AKT1,ENSG00000142208,Heart - Left Ventricle,alternative,6.24,GTEx_v8_representative
+AKT1,ENSG00000142208,Liver,canonical,93.6,GTEx_v8_representative
+AKT1,ENSG00000142208,Liver,alternative,24.4,GTEx_v8_representative
+AKT1,ENSG00000142208,Lung,canonical,20.17,GTEx_v8_representative
+AKT1,ENSG00000142208,Lung,alternative,7.07,GTEx_v8_representative
+AKT1,ENSG00000142208,Kidney - Cortex,canonical,92.77,GTEx_v8_representative
+AKT1,ENSG00000142208,Kidney - Cortex,alternative,9.74,GTEx_v8_representative
+AKT1,ENSG00000142208,Pancreas,canonical,33.02,GTEx_v8_representative
+AKT1,ENSG00000142208,Pancreas,alternative,5.54,GTEx_v8_representative
+AKT1,ENSG00000142208,Prostate,canonical,36.2,GTEx_v8_representative
+AKT1,ENSG00000142208,Prostate,alternative,7.82,GTEx_v8_representative
+AKT1,ENSG00000142208,Breast - Mammary Tissue,canonical,39.16,GTEx_v8_representative
+AKT1,ENSG00000142208,Breast - Mammary Tissue,alternative,5.53,GTEx_v8_representative
+AKT1,ENSG00000142208,Colon - Transverse,canonical,24.33,GTEx_v8_representative
+AKT1,ENSG00000142208,Colon - Transverse,alternative,7.25,GTEx_v8_representative
+AKT1,ENSG00000142208,Skin - Sun Exposed (Lower leg),canonical,41.71,GTEx_v8_representative
+AKT1,ENSG00000142208,Skin - Sun Exposed (Lower leg),alternative,11.12,GTEx_v8_representative
+AKT1,ENSG00000142208,Muscle - Skeletal,canonical,29.89,GTEx_v8_representative
+AKT1,ENSG00000142208,Muscle - Skeletal,alternative,11.03,GTEx_v8_representative
+AKT1,ENSG00000142208,Thyroid,canonical,41.15,GTEx_v8_representative
+AKT1,ENSG00000142208,Thyroid,alternative,11.93,GTEx_v8_representative
+AKT1,ENSG00000142208,Stomach,canonical,28.44,GTEx_v8_representative
+AKT1,ENSG00000142208,Stomach,alternative,10.5,GTEx_v8_representative
+AKT1,ENSG00000142208,Bladder,canonical,38.0,GTEx_v8_representative
+AKT1,ENSG00000142208,Bladder,alternative,12.69,GTEx_v8_representative
+AKT2,ENSG00000105221,Whole Blood,canonical,23.36,GTEx_v8_representative
+AKT2,ENSG00000105221,Whole Blood,alternative,2.4,GTEx_v8_representative
+AKT2,ENSG00000105221,Brain - Cortex,canonical,2.61,GTEx_v8_representative
+AKT2,ENSG00000105221,Brain - Cortex,alternative,0.78,GTEx_v8_representative
+AKT2,ENSG00000105221,Heart - Left Ventricle,canonical,10.28,GTEx_v8_representative
+AKT2,ENSG00000105221,Heart - Left Ventricle,alternative,3.16,GTEx_v8_representative
+AKT2,ENSG00000105221,Liver,canonical,58.04,GTEx_v8_representative
+AKT2,ENSG00000105221,Liver,alternative,9.71,GTEx_v8_representative
+AKT2,ENSG00000105221,Lung,canonical,22.42,GTEx_v8_representative
+AKT2,ENSG00000105221,Lung,alternative,7.26,GTEx_v8_representative
+AKT2,ENSG00000105221,Kidney - Cortex,canonical,20.39,GTEx_v8_representative
+AKT2,ENSG00000105221,Kidney - Cortex,alternative,7.23,GTEx_v8_representative
+AKT2,ENSG00000105221,Pancreas,canonical,21.14,GTEx_v8_representative
+AKT2,ENSG00000105221,Pancreas,alternative,4.45,GTEx_v8_representative
+AKT2,ENSG00000105221,Prostate,canonical,15.53,GTEx_v8_representative
+AKT2,ENSG00000105221,Prostate,alternative,2.69,GTEx_v8_representative
+AKT2,ENSG00000105221,Breast - Mammary Tissue,canonical,32.05,GTEx_v8_representative
+AKT2,ENSG00000105221,Breast - Mammary Tissue,alternative,9.27,GTEx_v8_representative
+AKT2,ENSG00000105221,Colon - Transverse,canonical,25.28,GTEx_v8_representative
+AKT2,ENSG00000105221,Colon - Transverse,alternative,6.34,GTEx_v8_representative
+AKT2,ENSG00000105221,Skin - Sun Exposed (Lower leg),canonical,18.51,GTEx_v8_representative
+AKT2,ENSG00000105221,Skin - Sun Exposed (Lower leg),alternative,5.86,GTEx_v8_representative
+AKT2,ENSG00000105221,Muscle - Skeletal,canonical,51.05,GTEx_v8_representative
+AKT2,ENSG00000105221,Muscle - Skeletal,alternative,5.48,GTEx_v8_representative
+AKT2,ENSG00000105221,Thyroid,canonical,22.63,GTEx_v8_representative
+AKT2,ENSG00000105221,Thyroid,alternative,8.82,GTEx_v8_representative
+AKT2,ENSG00000105221,Stomach,canonical,31.44,GTEx_v8_representative
+AKT2,ENSG00000105221,Stomach,alternative,11.19,GTEx_v8_representative
+AKT2,ENSG00000105221,Bladder,canonical,17.55,GTEx_v8_representative
+AKT2,ENSG00000105221,Bladder,alternative,3.42,GTEx_v8_representative
+AKT3,ENSG00000117020,Whole Blood,canonical,1.29,GTEx_v8_representative
+AKT3,ENSG00000117020,Whole Blood,alternative,0.35,GTEx_v8_representative
+AKT3,ENSG00000117020,Brain - Cortex,canonical,41.16,GTEx_v8_representative
+AKT3,ENSG00000117020,Brain - Cortex,alternative,5.32,GTEx_v8_representative
+AKT3,ENSG00000117020,Heart - Left Ventricle,canonical,13.12,GTEx_v8_representative
+AKT3,ENSG00000117020,Heart - Left Ventricle,alternative,5.21,GTEx_v8_representative
+AKT3,ENSG00000117020,Liver,canonical,1.42,GTEx_v8_representative
+AKT3,ENSG00000117020,Liver,alternative,0.46,GTEx_v8_representative
+AKT3,ENSG00000117020,Lung,canonical,12.03,GTEx_v8_representative
+AKT3,ENSG00000117020,Lung,alternative,3.74,GTEx_v8_representative
+AKT3,ENSG00000117020,Kidney - Cortex,canonical,9.37,GTEx_v8_representative
+AKT3,ENSG00000117020,Kidney - Cortex,alternative,3.22,GTEx_v8_representative
+AKT3,ENSG00000117020,Pancreas,canonical,12.85,GTEx_v8_representative
+AKT3,ENSG00000117020,Pancreas,alternative,4.8,GTEx_v8_representative
+AKT3,ENSG00000117020,Prostate,canonical,11.57,GTEx_v8_representative
+AKT3,ENSG00000117020,Prostate,alternative,3.41,GTEx_v8_representative
+AKT3,ENSG00000117020,Breast - Mammary Tissue,canonical,12.03,GTEx_v8_representative
+AKT3,ENSG00000117020,Breast - Mammary Tissue,alternative,4.07,GTEx_v8_representative
+AKT3,ENSG00000117020,Colon - Transverse,canonical,12.3,GTEx_v8_representative
+AKT3,ENSG00000117020,Colon - Transverse,alternative,1.58,GTEx_v8_representative
+AKT3,ENSG00000117020,Skin - Sun Exposed (Lower leg),canonical,9.16,GTEx_v8_representative
+AKT3,ENSG00000117020,Skin - Sun Exposed (Lower leg),alternative,1.02,GTEx_v8_representative
+AKT3,ENSG00000117020,Muscle - Skeletal,canonical,7.93,GTEx_v8_representative
+AKT3,ENSG00000117020,Muscle - Skeletal,alternative,2.2,GTEx_v8_representative
+AKT3,ENSG00000117020,Thyroid,canonical,5.49,GTEx_v8_representative
+AKT3,ENSG00000117020,Thyroid,alternative,0.61,GTEx_v8_representative
+AKT3,ENSG00000117020,Stomach,canonical,12.04,GTEx_v8_representative
+AKT3,ENSG00000117020,Stomach,alternative,3.09,GTEx_v8_representative
+AKT3,ENSG00000117020,Bladder,canonical,12.27,GTEx_v8_representative
+AKT3,ENSG00000117020,Bladder,alternative,2.02,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Whole Blood,canonical,3.34,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Whole Blood,alternative,0.97,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Brain - Cortex,canonical,17.43,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Brain - Cortex,alternative,6.84,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Heart - Left Ventricle,canonical,13.47,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Heart - Left Ventricle,alternative,2.44,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Liver,canonical,10.56,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Liver,alternative,1.3,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Lung,canonical,5.82,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Lung,alternative,0.88,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Kidney - Cortex,canonical,9.19,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Kidney - Cortex,alternative,1.61,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Pancreas,canonical,13.78,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Pancreas,alternative,2.54,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Prostate,canonical,19.67,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Prostate,alternative,6.32,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Breast - Mammary Tissue,canonical,32.35,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Breast - Mammary Tissue,alternative,5.64,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Colon - Transverse,canonical,12.17,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Colon - Transverse,alternative,3.98,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Skin - Sun Exposed (Lower leg),canonical,6.03,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Skin - Sun Exposed (Lower leg),alternative,0.78,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Muscle - Skeletal,canonical,14.13,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Muscle - Skeletal,alternative,3.42,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Thyroid,canonical,6.47,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Thyroid,alternative,1.84,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Stomach,canonical,11.85,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Stomach,alternative,1.35,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Bladder,canonical,10.56,GTEx_v8_representative
+PIK3CA,ENSG00000121879,Bladder,alternative,3.77,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Whole Blood,canonical,4.29,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Whole Blood,alternative,0.64,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Brain - Cortex,canonical,8.39,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Brain - Cortex,alternative,2.31,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Heart - Left Ventricle,canonical,21.74,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Heart - Left Ventricle,alternative,5.93,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Liver,canonical,39.08,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Liver,alternative,10.31,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Lung,canonical,26.19,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Lung,alternative,5.65,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Kidney - Cortex,canonical,20.85,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Kidney - Cortex,alternative,4.08,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Pancreas,canonical,20.59,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Pancreas,alternative,2.2,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Prostate,canonical,18.49,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Prostate,alternative,5.71,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Breast - Mammary Tissue,canonical,16.33,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Breast - Mammary Tissue,alternative,5.93,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Colon - Transverse,canonical,17.36,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Colon - Transverse,alternative,2.66,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Skin - Sun Exposed (Lower leg),canonical,20.4,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Skin - Sun Exposed (Lower leg),alternative,6.98,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Muscle - Skeletal,canonical,18.36,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Muscle - Skeletal,alternative,6.11,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Thyroid,canonical,11.07,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Thyroid,alternative,4.2,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Stomach,canonical,23.54,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Stomach,alternative,7.68,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Bladder,canonical,8.65,GTEx_v8_representative
+PIK3CB,ENSG00000051382,Bladder,alternative,3.21,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Whole Blood,canonical,22.82,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Whole Blood,alternative,8.41,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Brain - Cortex,canonical,1.56,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Brain - Cortex,alternative,0.16,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Heart - Left Ventricle,canonical,10.94,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Heart - Left Ventricle,alternative,4.21,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Liver,canonical,10.89,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Liver,alternative,2.96,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Lung,canonical,21.43,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Lung,alternative,4.26,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Kidney - Cortex,canonical,8.96,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Kidney - Cortex,alternative,2.92,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Pancreas,canonical,9.61,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Pancreas,alternative,2.55,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Prostate,canonical,7.53,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Prostate,alternative,2.76,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Breast - Mammary Tissue,canonical,7.23,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Breast - Mammary Tissue,alternative,0.94,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Colon - Transverse,canonical,5.31,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Colon - Transverse,alternative,1.65,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Skin - Sun Exposed (Lower leg),canonical,4.84,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Skin - Sun Exposed (Lower leg),alternative,0.6,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Muscle - Skeletal,canonical,5.09,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Muscle - Skeletal,alternative,2.01,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Thyroid,canonical,7.8,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Thyroid,alternative,3.0,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Stomach,canonical,11.32,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Stomach,alternative,3.69,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Bladder,canonical,5.58,GTEx_v8_representative
+PIK3CG,ENSG00000105851,Bladder,alternative,2.08,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Whole Blood,canonical,25.71,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Whole Blood,alternative,6.37,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Brain - Cortex,canonical,0.95,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Brain - Cortex,alternative,0.13,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Heart - Left Ventricle,canonical,6.15,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Heart - Left Ventricle,alternative,1.81,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Liver,canonical,13.07,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Liver,alternative,2.78,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Lung,canonical,25.94,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Lung,alternative,9.35,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Kidney - Cortex,canonical,7.29,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Kidney - Cortex,alternative,2.9,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Pancreas,canonical,6.3,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Pancreas,alternative,1.68,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Prostate,canonical,18.04,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Prostate,alternative,5.57,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Breast - Mammary Tissue,canonical,9.93,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Breast - Mammary Tissue,alternative,2.86,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Colon - Transverse,canonical,10.72,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Colon - Transverse,alternative,3.07,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Skin - Sun Exposed (Lower leg),canonical,8.53,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Skin - Sun Exposed (Lower leg),alternative,1.33,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Muscle - Skeletal,canonical,10.63,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Muscle - Skeletal,alternative,1.31,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Thyroid,canonical,12.08,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Thyroid,alternative,4.78,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Stomach,canonical,9.69,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Stomach,alternative,3.33,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Bladder,canonical,12.28,GTEx_v8_representative
+PIK3CD,ENSG00000171608,Bladder,alternative,1.83,GTEx_v8_representative
+CLK1,ENSG00000013441,Whole Blood,canonical,27.28,GTEx_v8_representative
+CLK1,ENSG00000013441,Whole Blood,alternative,6.15,GTEx_v8_representative
+CLK1,ENSG00000013441,Brain - Cortex,canonical,79.85,GTEx_v8_representative
+CLK1,ENSG00000013441,Brain - Cortex,alternative,28.73,GTEx_v8_representative
+CLK1,ENSG00000013441,Heart - Left Ventricle,canonical,9.74,GTEx_v8_representative
+CLK1,ENSG00000013441,Heart - Left Ventricle,alternative,3.34,GTEx_v8_representative
+CLK1,ENSG00000013441,Liver,canonical,26.02,GTEx_v8_representative
+CLK1,ENSG00000013441,Liver,alternative,3.78,GTEx_v8_representative
+CLK1,ENSG00000013441,Lung,canonical,20.37,GTEx_v8_representative
+CLK1,ENSG00000013441,Lung,alternative,7.18,GTEx_v8_representative
+CLK1,ENSG00000013441,Kidney - Cortex,canonical,23.88,GTEx_v8_representative
+CLK1,ENSG00000013441,Kidney - Cortex,alternative,5.75,GTEx_v8_representative
+CLK1,ENSG00000013441,Pancreas,canonical,16.29,GTEx_v8_representative
+CLK1,ENSG00000013441,Pancreas,alternative,5.85,GTEx_v8_representative
+CLK1,ENSG00000013441,Prostate,canonical,23.5,GTEx_v8_representative
+CLK1,ENSG00000013441,Prostate,alternative,9.4,GTEx_v8_representative
+CLK1,ENSG00000013441,Breast - Mammary Tissue,canonical,31.02,GTEx_v8_representative
+CLK1,ENSG00000013441,Breast - Mammary Tissue,alternative,11.9,GTEx_v8_representative
+CLK1,ENSG00000013441,Colon - Transverse,canonical,25.05,GTEx_v8_representative
+CLK1,ENSG00000013441,Colon - Transverse,alternative,4.36,GTEx_v8_representative
+CLK1,ENSG00000013441,Skin - Sun Exposed (Lower leg),canonical,14.77,GTEx_v8_representative
+CLK1,ENSG00000013441,Skin - Sun Exposed (Lower leg),alternative,4.45,GTEx_v8_representative
+CLK1,ENSG00000013441,Muscle - Skeletal,canonical,4.24,GTEx_v8_representative
+CLK1,ENSG00000013441,Muscle - Skeletal,alternative,0.88,GTEx_v8_representative
+CLK1,ENSG00000013441,Thyroid,canonical,41.06,GTEx_v8_representative
+CLK1,ENSG00000013441,Thyroid,alternative,13.62,GTEx_v8_representative
+CLK1,ENSG00000013441,Stomach,canonical,22.12,GTEx_v8_representative
+CLK1,ENSG00000013441,Stomach,alternative,7.87,GTEx_v8_representative
+CLK1,ENSG00000013441,Bladder,canonical,20.88,GTEx_v8_representative
+CLK1,ENSG00000013441,Bladder,alternative,4.61,GTEx_v8_representative
+CLK2,ENSG00000176444,Whole Blood,canonical,7.73,GTEx_v8_representative
+CLK2,ENSG00000176444,Whole Blood,alternative,0.84,GTEx_v8_representative
+CLK2,ENSG00000176444,Brain - Cortex,canonical,48.4,GTEx_v8_representative
+CLK2,ENSG00000176444,Brain - Cortex,alternative,7.93,GTEx_v8_representative
+CLK2,ENSG00000176444,Heart - Left Ventricle,canonical,8.31,GTEx_v8_representative
+CLK2,ENSG00000176444,Heart - Left Ventricle,alternative,0.87,GTEx_v8_representative
+CLK2,ENSG00000176444,Liver,canonical,8.44,GTEx_v8_representative
+CLK2,ENSG00000176444,Liver,alternative,1.95,GTEx_v8_representative
+CLK2,ENSG00000176444,Lung,canonical,19.28,GTEx_v8_representative
+CLK2,ENSG00000176444,Lung,alternative,3.94,GTEx_v8_representative
+CLK2,ENSG00000176444,Kidney - Cortex,canonical,11.58,GTEx_v8_representative
+CLK2,ENSG00000176444,Kidney - Cortex,alternative,3.32,GTEx_v8_representative
+CLK2,ENSG00000176444,Pancreas,canonical,18.53,GTEx_v8_representative
+CLK2,ENSG00000176444,Pancreas,alternative,7.13,GTEx_v8_representative
+CLK2,ENSG00000176444,Prostate,canonical,7.75,GTEx_v8_representative
+CLK2,ENSG00000176444,Prostate,alternative,1.38,GTEx_v8_representative
+CLK2,ENSG00000176444,Breast - Mammary Tissue,canonical,12.43,GTEx_v8_representative
+CLK2,ENSG00000176444,Breast - Mammary Tissue,alternative,4.9,GTEx_v8_representative
+CLK2,ENSG00000176444,Colon - Transverse,canonical,13.25,GTEx_v8_representative
+CLK2,ENSG00000176444,Colon - Transverse,alternative,2.28,GTEx_v8_representative
+CLK2,ENSG00000176444,Skin - Sun Exposed (Lower leg),canonical,5.91,GTEx_v8_representative
+CLK2,ENSG00000176444,Skin - Sun Exposed (Lower leg),alternative,0.82,GTEx_v8_representative
+CLK2,ENSG00000176444,Muscle - Skeletal,canonical,1.34,GTEx_v8_representative
+CLK2,ENSG00000176444,Muscle - Skeletal,alternative,0.27,GTEx_v8_representative
+CLK2,ENSG00000176444,Thyroid,canonical,17.58,GTEx_v8_representative
+CLK2,ENSG00000176444,Thyroid,alternative,4.26,GTEx_v8_representative
+CLK2,ENSG00000176444,Stomach,canonical,13.38,GTEx_v8_representative
+CLK2,ENSG00000176444,Stomach,alternative,1.5,GTEx_v8_representative
+CLK2,ENSG00000176444,Bladder,canonical,7.65,GTEx_v8_representative
+CLK2,ENSG00000176444,Bladder,alternative,1.4,GTEx_v8_representative
+CLK3,ENSG00000179335,Whole Blood,canonical,0.7,GTEx_v8_representative
+CLK3,ENSG00000179335,Whole Blood,alternative,0.15,GTEx_v8_representative
+CLK3,ENSG00000179335,Brain - Cortex,canonical,17.7,GTEx_v8_representative
+CLK3,ENSG00000179335,Brain - Cortex,alternative,5.43,GTEx_v8_representative
+CLK3,ENSG00000179335,Heart - Left Ventricle,canonical,3.4,GTEx_v8_representative
+CLK3,ENSG00000179335,Heart - Left Ventricle,alternative,0.42,GTEx_v8_representative
+CLK3,ENSG00000179335,Liver,canonical,9.23,GTEx_v8_representative
+CLK3,ENSG00000179335,Liver,alternative,3.47,GTEx_v8_representative
+CLK3,ENSG00000179335,Lung,canonical,3.65,GTEx_v8_representative
+CLK3,ENSG00000179335,Lung,alternative,1.19,GTEx_v8_representative
+CLK3,ENSG00000179335,Kidney - Cortex,canonical,3.85,GTEx_v8_representative
+CLK3,ENSG00000179335,Kidney - Cortex,alternative,0.63,GTEx_v8_representative
+CLK3,ENSG00000179335,Pancreas,canonical,6.46,GTEx_v8_representative
+CLK3,ENSG00000179335,Pancreas,alternative,1.36,GTEx_v8_representative
+CLK3,ENSG00000179335,Prostate,canonical,5.6,GTEx_v8_representative
+CLK3,ENSG00000179335,Prostate,alternative,1.81,GTEx_v8_representative
+CLK3,ENSG00000179335,Breast - Mammary Tissue,canonical,3.49,GTEx_v8_representative
+CLK3,ENSG00000179335,Breast - Mammary Tissue,alternative,1.29,GTEx_v8_representative
+CLK3,ENSG00000179335,Colon - Transverse,canonical,5.47,GTEx_v8_representative
+CLK3,ENSG00000179335,Colon - Transverse,alternative,1.42,GTEx_v8_representative
+CLK3,ENSG00000179335,Skin - Sun Exposed (Lower leg),canonical,4.2,GTEx_v8_representative
+CLK3,ENSG00000179335,Skin - Sun Exposed (Lower leg),alternative,0.73,GTEx_v8_representative
+CLK3,ENSG00000179335,Muscle - Skeletal,canonical,0.7,GTEx_v8_representative
+CLK3,ENSG00000179335,Muscle - Skeletal,alternative,0.15,GTEx_v8_representative
+CLK3,ENSG00000179335,Thyroid,canonical,2.79,GTEx_v8_representative
+CLK3,ENSG00000179335,Thyroid,alternative,0.55,GTEx_v8_representative
+CLK3,ENSG00000179335,Stomach,canonical,3.48,GTEx_v8_representative
+CLK3,ENSG00000179335,Stomach,alternative,1.28,GTEx_v8_representative
+CLK3,ENSG00000179335,Bladder,canonical,7.25,GTEx_v8_representative
+CLK3,ENSG00000179335,Bladder,alternative,1.81,GTEx_v8_representative
+CLK4,ENSG00000113240,Whole Blood,canonical,1.0,GTEx_v8_representative
+CLK4,ENSG00000113240,Whole Blood,alternative,0.26,GTEx_v8_representative
+CLK4,ENSG00000113240,Brain - Cortex,canonical,24.27,GTEx_v8_representative
+CLK4,ENSG00000113240,Brain - Cortex,alternative,3.36,GTEx_v8_representative
+CLK4,ENSG00000113240,Heart - Left Ventricle,canonical,7.26,GTEx_v8_representative
+CLK4,ENSG00000113240,Heart - Left Ventricle,alternative,1.52,GTEx_v8_representative
+CLK4,ENSG00000113240,Liver,canonical,7.41,GTEx_v8_representative
+CLK4,ENSG00000113240,Liver,alternative,2.94,GTEx_v8_representative
+CLK4,ENSG00000113240,Lung,canonical,9.68,GTEx_v8_representative
+CLK4,ENSG00000113240,Lung,alternative,1.66,GTEx_v8_representative
+CLK4,ENSG00000113240,Kidney - Cortex,canonical,4.59,GTEx_v8_representative
+CLK4,ENSG00000113240,Kidney - Cortex,alternative,0.68,GTEx_v8_representative
+CLK4,ENSG00000113240,Pancreas,canonical,5.15,GTEx_v8_representative
+CLK4,ENSG00000113240,Pancreas,alternative,0.96,GTEx_v8_representative
+CLK4,ENSG00000113240,Prostate,canonical,4.04,GTEx_v8_representative
+CLK4,ENSG00000113240,Prostate,alternative,1.59,GTEx_v8_representative
+CLK4,ENSG00000113240,Breast - Mammary Tissue,canonical,5.23,GTEx_v8_representative
+CLK4,ENSG00000113240,Breast - Mammary Tissue,alternative,1.15,GTEx_v8_representative
+CLK4,ENSG00000113240,Colon - Transverse,canonical,12.03,GTEx_v8_representative
+CLK4,ENSG00000113240,Colon - Transverse,alternative,2.13,GTEx_v8_representative
+CLK4,ENSG00000113240,Skin - Sun Exposed (Lower leg),canonical,5.51,GTEx_v8_representative
+CLK4,ENSG00000113240,Skin - Sun Exposed (Lower leg),alternative,1.66,GTEx_v8_representative
+CLK4,ENSG00000113240,Muscle - Skeletal,canonical,13.77,GTEx_v8_representative
+CLK4,ENSG00000113240,Muscle - Skeletal,alternative,2.53,GTEx_v8_representative
+CLK4,ENSG00000113240,Thyroid,canonical,11.8,GTEx_v8_representative
+CLK4,ENSG00000113240,Thyroid,alternative,1.84,GTEx_v8_representative
+CLK4,ENSG00000113240,Stomach,canonical,6.77,GTEx_v8_representative
+CLK4,ENSG00000113240,Stomach,alternative,1.17,GTEx_v8_representative
+CLK4,ENSG00000113240,Bladder,canonical,3.57,GTEx_v8_representative
+CLK4,ENSG00000113240,Bladder,alternative,1.01,GTEx_v8_representative
+JAK1,ENSG00000162434,Whole Blood,canonical,57.09,GTEx_v8_representative
+JAK1,ENSG00000162434,Whole Blood,alternative,13.95,GTEx_v8_representative
+JAK1,ENSG00000162434,Brain - Cortex,canonical,5.3,GTEx_v8_representative
+JAK1,ENSG00000162434,Brain - Cortex,alternative,0.61,GTEx_v8_representative
+JAK1,ENSG00000162434,Heart - Left Ventricle,canonical,19.66,GTEx_v8_representative
+JAK1,ENSG00000162434,Heart - Left Ventricle,alternative,5.98,GTEx_v8_representative
+JAK1,ENSG00000162434,Liver,canonical,33.9,GTEx_v8_representative
+JAK1,ENSG00000162434,Liver,alternative,9.45,GTEx_v8_representative
+JAK1,ENSG00000162434,Lung,canonical,60.55,GTEx_v8_representative
+JAK1,ENSG00000162434,Lung,alternative,22.94,GTEx_v8_representative
+JAK1,ENSG00000162434,Kidney - Cortex,canonical,29.83,GTEx_v8_representative
+JAK1,ENSG00000162434,Kidney - Cortex,alternative,11.62,GTEx_v8_representative
+JAK1,ENSG00000162434,Pancreas,canonical,15.87,GTEx_v8_representative
+JAK1,ENSG00000162434,Pancreas,alternative,2.45,GTEx_v8_representative
+JAK1,ENSG00000162434,Prostate,canonical,14.29,GTEx_v8_representative
+JAK1,ENSG00000162434,Prostate,alternative,4.61,GTEx_v8_representative
+JAK1,ENSG00000162434,Breast - Mammary Tissue,canonical,26.54,GTEx_v8_representative
+JAK1,ENSG00000162434,Breast - Mammary Tissue,alternative,8.99,GTEx_v8_representative
+JAK1,ENSG00000162434,Colon - Transverse,canonical,17.74,GTEx_v8_representative
+JAK1,ENSG00000162434,Colon - Transverse,alternative,2.65,GTEx_v8_representative
+JAK1,ENSG00000162434,Skin - Sun Exposed (Lower leg),canonical,17.51,GTEx_v8_representative
+JAK1,ENSG00000162434,Skin - Sun Exposed (Lower leg),alternative,4.5,GTEx_v8_representative
+JAK1,ENSG00000162434,Muscle - Skeletal,canonical,23.69,GTEx_v8_representative
+JAK1,ENSG00000162434,Muscle - Skeletal,alternative,8.6,GTEx_v8_representative
+JAK1,ENSG00000162434,Thyroid,canonical,21.75,GTEx_v8_representative
+JAK1,ENSG00000162434,Thyroid,alternative,4.64,GTEx_v8_representative
+JAK1,ENSG00000162434,Stomach,canonical,27.2,GTEx_v8_representative
+JAK1,ENSG00000162434,Stomach,alternative,5.18,GTEx_v8_representative
+JAK1,ENSG00000162434,Bladder,canonical,26.26,GTEx_v8_representative
+JAK1,ENSG00000162434,Bladder,alternative,9.71,GTEx_v8_representative
+JAK2,ENSG00000096968,Whole Blood,canonical,41.58,GTEx_v8_representative
+JAK2,ENSG00000096968,Whole Blood,alternative,10.94,GTEx_v8_representative
+JAK2,ENSG00000096968,Brain - Cortex,canonical,3.85,GTEx_v8_representative
+JAK2,ENSG00000096968,Brain - Cortex,alternative,1.47,GTEx_v8_representative
+JAK2,ENSG00000096968,Heart - Left Ventricle,canonical,17.4,GTEx_v8_representative
+JAK2,ENSG00000096968,Heart - Left Ventricle,alternative,3.49,GTEx_v8_representative
+JAK2,ENSG00000096968,Liver,canonical,10.08,GTEx_v8_representative
+JAK2,ENSG00000096968,Liver,alternative,2.62,GTEx_v8_representative
+JAK2,ENSG00000096968,Lung,canonical,23.52,GTEx_v8_representative
+JAK2,ENSG00000096968,Lung,alternative,7.92,GTEx_v8_representative
+JAK2,ENSG00000096968,Kidney - Cortex,canonical,8.71,GTEx_v8_representative
+JAK2,ENSG00000096968,Kidney - Cortex,alternative,2.81,GTEx_v8_representative
+JAK2,ENSG00000096968,Pancreas,canonical,7.35,GTEx_v8_representative
+JAK2,ENSG00000096968,Pancreas,alternative,1.99,GTEx_v8_representative
+JAK2,ENSG00000096968,Prostate,canonical,18.28,GTEx_v8_representative
+JAK2,ENSG00000096968,Prostate,alternative,6.33,GTEx_v8_representative
+JAK2,ENSG00000096968,Breast - Mammary Tissue,canonical,9.92,GTEx_v8_representative
+JAK2,ENSG00000096968,Breast - Mammary Tissue,alternative,3.51,GTEx_v8_representative
+JAK2,ENSG00000096968,Colon - Transverse,canonical,10.62,GTEx_v8_representative
+JAK2,ENSG00000096968,Colon - Transverse,alternative,1.54,GTEx_v8_representative
+JAK2,ENSG00000096968,Skin - Sun Exposed (Lower leg),canonical,10.45,GTEx_v8_representative
+JAK2,ENSG00000096968,Skin - Sun Exposed (Lower leg),alternative,3.31,GTEx_v8_representative
+JAK2,ENSG00000096968,Muscle - Skeletal,canonical,4.17,GTEx_v8_representative
+JAK2,ENSG00000096968,Muscle - Skeletal,alternative,1.1,GTEx_v8_representative
+JAK2,ENSG00000096968,Thyroid,canonical,12.41,GTEx_v8_representative
+JAK2,ENSG00000096968,Thyroid,alternative,2.53,GTEx_v8_representative
+JAK2,ENSG00000096968,Stomach,canonical,10.4,GTEx_v8_representative
+JAK2,ENSG00000096968,Stomach,alternative,2.29,GTEx_v8_representative
+JAK2,ENSG00000096968,Bladder,canonical,15.64,GTEx_v8_representative
+JAK2,ENSG00000096968,Bladder,alternative,6.01,GTEx_v8_representative
+JAK3,ENSG00000105639,Whole Blood,canonical,11.74,GTEx_v8_representative
+JAK3,ENSG00000105639,Whole Blood,alternative,3.33,GTEx_v8_representative
+JAK3,ENSG00000105639,Brain - Cortex,canonical,0.66,GTEx_v8_representative
+JAK3,ENSG00000105639,Brain - Cortex,alternative,0.24,GTEx_v8_representative
+JAK3,ENSG00000105639,Heart - Left Ventricle,canonical,8.44,GTEx_v8_representative
+JAK3,ENSG00000105639,Heart - Left Ventricle,alternative,3.18,GTEx_v8_representative
+JAK3,ENSG00000105639,Liver,canonical,1.28,GTEx_v8_representative
+JAK3,ENSG00000105639,Liver,alternative,0.19,GTEx_v8_representative
+JAK3,ENSG00000105639,Lung,canonical,4.66,GTEx_v8_representative
+JAK3,ENSG00000105639,Lung,alternative,1.5,GTEx_v8_representative
+JAK3,ENSG00000105639,Kidney - Cortex,canonical,8.53,GTEx_v8_representative
+JAK3,ENSG00000105639,Kidney - Cortex,alternative,3.22,GTEx_v8_representative
+JAK3,ENSG00000105639,Pancreas,canonical,5.96,GTEx_v8_representative
+JAK3,ENSG00000105639,Pancreas,alternative,1.31,GTEx_v8_representative
+JAK3,ENSG00000105639,Prostate,canonical,2.92,GTEx_v8_representative
+JAK3,ENSG00000105639,Prostate,alternative,0.59,GTEx_v8_representative
+JAK3,ENSG00000105639,Breast - Mammary Tissue,canonical,7.07,GTEx_v8_representative
+JAK3,ENSG00000105639,Breast - Mammary Tissue,alternative,2.66,GTEx_v8_representative
+JAK3,ENSG00000105639,Colon - Transverse,canonical,3.25,GTEx_v8_representative
+JAK3,ENSG00000105639,Colon - Transverse,alternative,0.66,GTEx_v8_representative
+JAK3,ENSG00000105639,Skin - Sun Exposed (Lower leg),canonical,5.26,GTEx_v8_representative
+JAK3,ENSG00000105639,Skin - Sun Exposed (Lower leg),alternative,1.24,GTEx_v8_representative
+JAK3,ENSG00000105639,Muscle - Skeletal,canonical,3.12,GTEx_v8_representative
+JAK3,ENSG00000105639,Muscle - Skeletal,alternative,0.48,GTEx_v8_representative
+JAK3,ENSG00000105639,Thyroid,canonical,5.39,GTEx_v8_representative
+JAK3,ENSG00000105639,Thyroid,alternative,1.13,GTEx_v8_representative
+JAK3,ENSG00000105639,Stomach,canonical,5.32,GTEx_v8_representative
+JAK3,ENSG00000105639,Stomach,alternative,1.54,GTEx_v8_representative
+JAK3,ENSG00000105639,Bladder,canonical,2.3,GTEx_v8_representative
+JAK3,ENSG00000105639,Bladder,alternative,0.89,GTEx_v8_representative
+TYK2,ENSG00000105397,Whole Blood,canonical,28.99,GTEx_v8_representative
+TYK2,ENSG00000105397,Whole Blood,alternative,6.51,GTEx_v8_representative
+TYK2,ENSG00000105397,Brain - Cortex,canonical,1.4,GTEx_v8_representative
+TYK2,ENSG00000105397,Brain - Cortex,alternative,0.39,GTEx_v8_representative
+TYK2,ENSG00000105397,Heart - Left Ventricle,canonical,6.91,GTEx_v8_representative
+TYK2,ENSG00000105397,Heart - Left Ventricle,alternative,2.25,GTEx_v8_representative
+TYK2,ENSG00000105397,Liver,canonical,8.42,GTEx_v8_representative
+TYK2,ENSG00000105397,Liver,alternative,1.32,GTEx_v8_representative
+TYK2,ENSG00000105397,Lung,canonical,25.26,GTEx_v8_representative
+TYK2,ENSG00000105397,Lung,alternative,6.1,GTEx_v8_representative
+TYK2,ENSG00000105397,Kidney - Cortex,canonical,14.55,GTEx_v8_representative
+TYK2,ENSG00000105397,Kidney - Cortex,alternative,3.38,GTEx_v8_representative
+TYK2,ENSG00000105397,Pancreas,canonical,7.93,GTEx_v8_representative
+TYK2,ENSG00000105397,Pancreas,alternative,2.13,GTEx_v8_representative
+TYK2,ENSG00000105397,Prostate,canonical,8.09,GTEx_v8_representative
+TYK2,ENSG00000105397,Prostate,alternative,3.11,GTEx_v8_representative
+TYK2,ENSG00000105397,Breast - Mammary Tissue,canonical,10.21,GTEx_v8_representative
+TYK2,ENSG00000105397,Breast - Mammary Tissue,alternative,1.85,GTEx_v8_representative
+TYK2,ENSG00000105397,Colon - Transverse,canonical,13.23,GTEx_v8_representative
+TYK2,ENSG00000105397,Colon - Transverse,alternative,1.94,GTEx_v8_representative
+TYK2,ENSG00000105397,Skin - Sun Exposed (Lower leg),canonical,14.49,GTEx_v8_representative
+TYK2,ENSG00000105397,Skin - Sun Exposed (Lower leg),alternative,4.31,GTEx_v8_representative
+TYK2,ENSG00000105397,Muscle - Skeletal,canonical,5.88,GTEx_v8_representative
+TYK2,ENSG00000105397,Muscle - Skeletal,alternative,1.77,GTEx_v8_representative
+TYK2,ENSG00000105397,Thyroid,canonical,5.78,GTEx_v8_representative
+TYK2,ENSG00000105397,Thyroid,alternative,0.76,GTEx_v8_representative
+TYK2,ENSG00000105397,Stomach,canonical,16.38,GTEx_v8_representative
+TYK2,ENSG00000105397,Stomach,alternative,2.81,GTEx_v8_representative
+TYK2,ENSG00000105397,Bladder,canonical,6.44,GTEx_v8_representative
+TYK2,ENSG00000105397,Bladder,alternative,1.11,GTEx_v8_representative

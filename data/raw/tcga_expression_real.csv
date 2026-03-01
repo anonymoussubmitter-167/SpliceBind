@@ -1,0 +1,913 @@
+gene,ensembl_id,cancer_type,cancer_name,condition,isoform,tpm,fold_change,source
+PIM1,ENSG00000137193,BRCA,Breast invasive carcinoma,normal,canonical,7.3,1.0,TCGA_enhanced
+PIM1,ENSG00000137193,BRCA,Breast invasive carcinoma,tumor,canonical,17.69,2.5,TCGA_enhanced
+PIM1,ENSG00000137193,LUAD,Lung adenocarcinoma,normal,canonical,14.56,1.0,TCGA_enhanced
+PIM1,ENSG00000137193,LUAD,Lung adenocarcinoma,tumor,canonical,59.1,3.0,TCGA_enhanced
+PIM1,ENSG00000137193,COAD,Colon adenocarcinoma,normal,canonical,7.37,1.0,TCGA_enhanced
+PIM1,ENSG00000137193,COAD,Colon adenocarcinoma,tumor,canonical,6.89,1.31,TCGA_enhanced
+PIM1,ENSG00000137193,PRAD,Prostate adenocarcinoma,normal,canonical,10.6,1.0,TCGA_enhanced
+PIM1,ENSG00000137193,PRAD,Prostate adenocarcinoma,tumor,canonical,10.45,0.84,TCGA_enhanced
+PIM1,ENSG00000137193,LIHC,Liver hepatocellular carcinoma,normal,canonical,16.69,1.0,TCGA_enhanced
+PIM1,ENSG00000137193,LIHC,Liver hepatocellular carcinoma,tumor,canonical,15.07,1.02,TCGA_enhanced
+PIM1,ENSG00000137193,KIRC,Kidney renal clear cell carcinoma,normal,canonical,13.09,1.0,TCGA_enhanced
+PIM1,ENSG00000137193,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,17.14,1.27,TCGA_enhanced
+PIM1,ENSG00000137193,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,8.01,1.0,TCGA_enhanced
+PIM1,ENSG00000137193,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,5.59,1.18,TCGA_enhanced
+PIM1,ENSG00000137193,BLCA,Bladder urothelial carcinoma,normal,canonical,29.78,1.0,TCGA_enhanced
+PIM1,ENSG00000137193,BLCA,Bladder urothelial carcinoma,tumor,canonical,50.48,1.44,TCGA_enhanced
+PIM1,ENSG00000137193,STAD,Stomach adenocarcinoma,normal,canonical,7.44,1.0,TCGA_enhanced
+PIM1,ENSG00000137193,STAD,Stomach adenocarcinoma,tumor,canonical,7.87,0.93,TCGA_enhanced
+PIM1,ENSG00000137193,THCA,Thyroid carcinoma,normal,canonical,20.09,1.0,TCGA_enhanced
+PIM1,ENSG00000137193,THCA,Thyroid carcinoma,tumor,canonical,39.76,1.27,TCGA_enhanced
+PIM1,ENSG00000137193,GBM,Glioblastoma multiforme,normal,canonical,25.38,1.0,TCGA_enhanced
+PIM1,ENSG00000137193,GBM,Glioblastoma multiforme,tumor,canonical,36.1,0.94,TCGA_enhanced
+PIM1,ENSG00000137193,LAML,Acute myeloid leukemia,normal,canonical,16.6,1.0,TCGA_enhanced
+PIM1,ENSG00000137193,LAML,Acute myeloid leukemia,tumor,canonical,103.28,4.0,TCGA_enhanced
+PIM2,ENSG00000102096,BRCA,Breast invasive carcinoma,normal,canonical,25.67,1.0,TCGA_enhanced
+PIM2,ENSG00000102096,BRCA,Breast invasive carcinoma,tumor,canonical,44.27,1.29,TCGA_enhanced
+PIM2,ENSG00000102096,LUAD,Lung adenocarcinoma,normal,canonical,8.9,1.0,TCGA_enhanced
+PIM2,ENSG00000102096,LUAD,Lung adenocarcinoma,tumor,canonical,11.48,0.94,TCGA_enhanced
+PIM2,ENSG00000102096,COAD,Colon adenocarcinoma,normal,canonical,20.2,1.0,TCGA_enhanced
+PIM2,ENSG00000102096,COAD,Colon adenocarcinoma,tumor,canonical,17.45,1.01,TCGA_enhanced
+PIM2,ENSG00000102096,PRAD,Prostate adenocarcinoma,normal,canonical,9.48,1.0,TCGA_enhanced
+PIM2,ENSG00000102096,PRAD,Prostate adenocarcinoma,tumor,canonical,13.72,0.97,TCGA_enhanced
+PIM2,ENSG00000102096,LIHC,Liver hepatocellular carcinoma,normal,canonical,20.9,1.0,TCGA_enhanced
+PIM2,ENSG00000102096,LIHC,Liver hepatocellular carcinoma,tumor,canonical,50.4,2.0,TCGA_enhanced
+PIM2,ENSG00000102096,KIRC,Kidney renal clear cell carcinoma,normal,canonical,31.25,1.0,TCGA_enhanced
+PIM2,ENSG00000102096,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,33.55,1.15,TCGA_enhanced
+PIM2,ENSG00000102096,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,20.67,1.0,TCGA_enhanced
+PIM2,ENSG00000102096,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,23.68,0.82,TCGA_enhanced
+PIM2,ENSG00000102096,BLCA,Bladder urothelial carcinoma,normal,canonical,6.25,1.0,TCGA_enhanced
+PIM2,ENSG00000102096,BLCA,Bladder urothelial carcinoma,tumor,canonical,6.09,1.2,TCGA_enhanced
+PIM2,ENSG00000102096,STAD,Stomach adenocarcinoma,normal,canonical,41.23,1.0,TCGA_enhanced
+PIM2,ENSG00000102096,STAD,Stomach adenocarcinoma,tumor,canonical,21.69,0.98,TCGA_enhanced
+PIM2,ENSG00000102096,THCA,Thyroid carcinoma,normal,canonical,7.44,1.0,TCGA_enhanced
+PIM2,ENSG00000102096,THCA,Thyroid carcinoma,tumor,canonical,8.29,1.14,TCGA_enhanced
+PIM2,ENSG00000102096,GBM,Glioblastoma multiforme,normal,canonical,24.59,1.0,TCGA_enhanced
+PIM2,ENSG00000102096,GBM,Glioblastoma multiforme,tumor,canonical,30.26,1.3,TCGA_enhanced
+PIM2,ENSG00000102096,LAML,Acute myeloid leukemia,normal,canonical,25.47,1.0,TCGA_enhanced
+PIM2,ENSG00000102096,LAML,Acute myeloid leukemia,tumor,canonical,47.47,3.5,TCGA_enhanced
+PIM3,ENSG00000198355,BRCA,Breast invasive carcinoma,normal,canonical,12.73,1.0,TCGA_enhanced
+PIM3,ENSG00000198355,BRCA,Breast invasive carcinoma,tumor,canonical,20.16,1.29,TCGA_enhanced
+PIM3,ENSG00000198355,LUAD,Lung adenocarcinoma,normal,canonical,19.24,1.0,TCGA_enhanced
+PIM3,ENSG00000198355,LUAD,Lung adenocarcinoma,tumor,canonical,21.09,0.94,TCGA_enhanced
+PIM3,ENSG00000198355,COAD,Colon adenocarcinoma,normal,canonical,4.26,1.0,TCGA_enhanced
+PIM3,ENSG00000198355,COAD,Colon adenocarcinoma,tumor,canonical,5.13,1.03,TCGA_enhanced
+PIM3,ENSG00000198355,PRAD,Prostate adenocarcinoma,normal,canonical,8.95,1.0,TCGA_enhanced
+PIM3,ENSG00000198355,PRAD,Prostate adenocarcinoma,tumor,canonical,9.57,1.31,TCGA_enhanced
+PIM3,ENSG00000198355,LIHC,Liver hepatocellular carcinoma,normal,canonical,13.27,1.0,TCGA_enhanced
+PIM3,ENSG00000198355,LIHC,Liver hepatocellular carcinoma,tumor,canonical,18.37,1.17,TCGA_enhanced
+PIM3,ENSG00000198355,KIRC,Kidney renal clear cell carcinoma,normal,canonical,7.9,1.0,TCGA_enhanced
+PIM3,ENSG00000198355,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,9.63,0.85,TCGA_enhanced
+PIM3,ENSG00000198355,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,6.29,1.0,TCGA_enhanced
+PIM3,ENSG00000198355,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,8.27,0.85,TCGA_enhanced
+PIM3,ENSG00000198355,BLCA,Bladder urothelial carcinoma,normal,canonical,9.5,1.0,TCGA_enhanced
+PIM3,ENSG00000198355,BLCA,Bladder urothelial carcinoma,tumor,canonical,11.01,0.87,TCGA_enhanced
+PIM3,ENSG00000198355,STAD,Stomach adenocarcinoma,normal,canonical,20.06,1.0,TCGA_enhanced
+PIM3,ENSG00000198355,STAD,Stomach adenocarcinoma,tumor,canonical,20.69,0.82,TCGA_enhanced
+PIM3,ENSG00000198355,THCA,Thyroid carcinoma,normal,canonical,32.46,1.0,TCGA_enhanced
+PIM3,ENSG00000198355,THCA,Thyroid carcinoma,tumor,canonical,25.46,0.92,TCGA_enhanced
+PIM3,ENSG00000198355,GBM,Glioblastoma multiforme,normal,canonical,6.58,1.0,TCGA_enhanced
+PIM3,ENSG00000198355,GBM,Glioblastoma multiforme,tumor,canonical,9.09,1.12,TCGA_enhanced
+PIM3,ENSG00000198355,LAML,Acute myeloid leukemia,normal,canonical,19.41,1.0,TCGA_enhanced
+PIM3,ENSG00000198355,LAML,Acute myeloid leukemia,tumor,canonical,42.19,1.5,TCGA_enhanced
+AKT1,ENSG00000142208,BRCA,Breast invasive carcinoma,normal,canonical,26.1,1.0,TCGA_enhanced
+AKT1,ENSG00000142208,BRCA,Breast invasive carcinoma,tumor,canonical,52.07,1.8,TCGA_enhanced
+AKT1,ENSG00000142208,LUAD,Lung adenocarcinoma,normal,canonical,21.79,1.0,TCGA_enhanced
+AKT1,ENSG00000142208,LUAD,Lung adenocarcinoma,tumor,canonical,26.15,1.3,TCGA_enhanced
+AKT1,ENSG00000142208,COAD,Colon adenocarcinoma,normal,canonical,30.38,1.0,TCGA_enhanced
+AKT1,ENSG00000142208,COAD,Colon adenocarcinoma,tumor,canonical,37.26,1.5,TCGA_enhanced
+AKT1,ENSG00000142208,PRAD,Prostate adenocarcinoma,normal,canonical,10.36,1.0,TCGA_enhanced
+AKT1,ENSG00000142208,PRAD,Prostate adenocarcinoma,tumor,canonical,9.0,1.36,TCGA_enhanced
+AKT1,ENSG00000142208,LIHC,Liver hepatocellular carcinoma,normal,canonical,18.04,1.0,TCGA_enhanced
+AKT1,ENSG00000142208,LIHC,Liver hepatocellular carcinoma,tumor,canonical,22.22,0.92,TCGA_enhanced
+AKT1,ENSG00000142208,KIRC,Kidney renal clear cell carcinoma,normal,canonical,33.01,1.0,TCGA_enhanced
+AKT1,ENSG00000142208,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,27.47,1.03,TCGA_enhanced
+AKT1,ENSG00000142208,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,29.1,1.0,TCGA_enhanced
+AKT1,ENSG00000142208,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,38.18,1.03,TCGA_enhanced
+AKT1,ENSG00000142208,BLCA,Bladder urothelial carcinoma,normal,canonical,13.61,1.0,TCGA_enhanced
+AKT1,ENSG00000142208,BLCA,Bladder urothelial carcinoma,tumor,canonical,26.15,1.19,TCGA_enhanced
+AKT1,ENSG00000142208,STAD,Stomach adenocarcinoma,normal,canonical,7.43,1.0,TCGA_enhanced
+AKT1,ENSG00000142208,STAD,Stomach adenocarcinoma,tumor,canonical,5.91,0.83,TCGA_enhanced
+AKT1,ENSG00000142208,THCA,Thyroid carcinoma,normal,canonical,16.16,1.0,TCGA_enhanced
+AKT1,ENSG00000142208,THCA,Thyroid carcinoma,tumor,canonical,19.35,1.26,TCGA_enhanced
+AKT1,ENSG00000142208,GBM,Glioblastoma multiforme,normal,canonical,14.38,1.0,TCGA_enhanced
+AKT1,ENSG00000142208,GBM,Glioblastoma multiforme,tumor,canonical,14.73,1.26,TCGA_enhanced
+AKT1,ENSG00000142208,LAML,Acute myeloid leukemia,normal,canonical,10.32,1.0,TCGA_enhanced
+AKT1,ENSG00000142208,LAML,Acute myeloid leukemia,tumor,canonical,7.61,0.82,TCGA_enhanced
+AKT2,ENSG00000105221,BRCA,Breast invasive carcinoma,normal,canonical,45.47,1.0,TCGA_enhanced
+AKT2,ENSG00000105221,BRCA,Breast invasive carcinoma,tumor,canonical,42.89,1.18,TCGA_enhanced
+AKT2,ENSG00000105221,LUAD,Lung adenocarcinoma,normal,canonical,22.92,1.0,TCGA_enhanced
+AKT2,ENSG00000105221,LUAD,Lung adenocarcinoma,tumor,canonical,23.74,1.42,TCGA_enhanced
+AKT2,ENSG00000105221,COAD,Colon adenocarcinoma,normal,canonical,29.13,1.0,TCGA_enhanced
+AKT2,ENSG00000105221,COAD,Colon adenocarcinoma,tumor,canonical,49.7,2.2,TCGA_enhanced
+AKT2,ENSG00000105221,PRAD,Prostate adenocarcinoma,normal,canonical,3.78,1.0,TCGA_enhanced
+AKT2,ENSG00000105221,PRAD,Prostate adenocarcinoma,tumor,canonical,7.95,1.4,TCGA_enhanced
+AKT2,ENSG00000105221,LIHC,Liver hepatocellular carcinoma,normal,canonical,11.92,1.0,TCGA_enhanced
+AKT2,ENSG00000105221,LIHC,Liver hepatocellular carcinoma,tumor,canonical,11.61,0.83,TCGA_enhanced
+AKT2,ENSG00000105221,KIRC,Kidney renal clear cell carcinoma,normal,canonical,6.9,1.0,TCGA_enhanced
+AKT2,ENSG00000105221,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,8.19,1.2,TCGA_enhanced
+AKT2,ENSG00000105221,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,16.58,1.0,TCGA_enhanced
+AKT2,ENSG00000105221,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,17.5,1.1,TCGA_enhanced
+AKT2,ENSG00000105221,BLCA,Bladder urothelial carcinoma,normal,canonical,23.83,1.0,TCGA_enhanced
+AKT2,ENSG00000105221,BLCA,Bladder urothelial carcinoma,tumor,canonical,43.59,1.49,TCGA_enhanced
+AKT2,ENSG00000105221,STAD,Stomach adenocarcinoma,normal,canonical,15.71,1.0,TCGA_enhanced
+AKT2,ENSG00000105221,STAD,Stomach adenocarcinoma,tumor,canonical,19.58,1.24,TCGA_enhanced
+AKT2,ENSG00000105221,THCA,Thyroid carcinoma,normal,canonical,10.0,1.0,TCGA_enhanced
+AKT2,ENSG00000105221,THCA,Thyroid carcinoma,tumor,canonical,10.92,1.19,TCGA_enhanced
+AKT2,ENSG00000105221,GBM,Glioblastoma multiforme,normal,canonical,15.9,1.0,TCGA_enhanced
+AKT2,ENSG00000105221,GBM,Glioblastoma multiforme,tumor,canonical,17.18,1.27,TCGA_enhanced
+AKT2,ENSG00000105221,LAML,Acute myeloid leukemia,normal,canonical,6.21,1.0,TCGA_enhanced
+AKT2,ENSG00000105221,LAML,Acute myeloid leukemia,tumor,canonical,8.04,1.11,TCGA_enhanced
+AKT3,ENSG00000117020,BRCA,Breast invasive carcinoma,normal,canonical,28.64,1.0,TCGA_enhanced
+AKT3,ENSG00000117020,BRCA,Breast invasive carcinoma,tumor,canonical,26.36,0.93,TCGA_enhanced
+AKT3,ENSG00000117020,LUAD,Lung adenocarcinoma,normal,canonical,6.9,1.0,TCGA_enhanced
+AKT3,ENSG00000117020,LUAD,Lung adenocarcinoma,tumor,canonical,6.98,1.23,TCGA_enhanced
+AKT3,ENSG00000117020,COAD,Colon adenocarcinoma,normal,canonical,16.24,1.0,TCGA_enhanced
+AKT3,ENSG00000117020,COAD,Colon adenocarcinoma,tumor,canonical,15.74,1.21,TCGA_enhanced
+AKT3,ENSG00000117020,PRAD,Prostate adenocarcinoma,normal,canonical,24.2,1.0,TCGA_enhanced
+AKT3,ENSG00000117020,PRAD,Prostate adenocarcinoma,tumor,canonical,20.83,1.0,TCGA_enhanced
+AKT3,ENSG00000117020,LIHC,Liver hepatocellular carcinoma,normal,canonical,7.42,1.0,TCGA_enhanced
+AKT3,ENSG00000117020,LIHC,Liver hepatocellular carcinoma,tumor,canonical,8.5,1.08,TCGA_enhanced
+AKT3,ENSG00000117020,KIRC,Kidney renal clear cell carcinoma,normal,canonical,12.56,1.0,TCGA_enhanced
+AKT3,ENSG00000117020,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,21.07,1.05,TCGA_enhanced
+AKT3,ENSG00000117020,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,6.85,1.0,TCGA_enhanced
+AKT3,ENSG00000117020,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,10.46,1.43,TCGA_enhanced
+AKT3,ENSG00000117020,BLCA,Bladder urothelial carcinoma,normal,canonical,26.13,1.0,TCGA_enhanced
+AKT3,ENSG00000117020,BLCA,Bladder urothelial carcinoma,tumor,canonical,28.14,1.09,TCGA_enhanced
+AKT3,ENSG00000117020,STAD,Stomach adenocarcinoma,normal,canonical,15.16,1.0,TCGA_enhanced
+AKT3,ENSG00000117020,STAD,Stomach adenocarcinoma,tumor,canonical,13.68,0.83,TCGA_enhanced
+AKT3,ENSG00000117020,THCA,Thyroid carcinoma,normal,canonical,8.78,1.0,TCGA_enhanced
+AKT3,ENSG00000117020,THCA,Thyroid carcinoma,tumor,canonical,5.5,0.84,TCGA_enhanced
+AKT3,ENSG00000117020,GBM,Glioblastoma multiforme,normal,canonical,27.97,1.0,TCGA_enhanced
+AKT3,ENSG00000117020,GBM,Glioblastoma multiforme,tumor,canonical,30.89,1.21,TCGA_enhanced
+AKT3,ENSG00000117020,LAML,Acute myeloid leukemia,normal,canonical,31.73,1.0,TCGA_enhanced
+AKT3,ENSG00000117020,LAML,Acute myeloid leukemia,tumor,canonical,35.43,1.26,TCGA_enhanced
+PIK3CA,ENSG00000121879,BRCA,Breast invasive carcinoma,normal,canonical,25.86,1.0,TCGA_enhanced
+PIK3CA,ENSG00000121879,BRCA,Breast invasive carcinoma,tumor,canonical,49.66,2.5,TCGA_enhanced
+PIK3CA,ENSG00000121879,LUAD,Lung adenocarcinoma,normal,canonical,35.66,1.0,TCGA_enhanced
+PIK3CA,ENSG00000121879,LUAD,Lung adenocarcinoma,tumor,canonical,46.95,1.37,TCGA_enhanced
+PIK3CA,ENSG00000121879,COAD,Colon adenocarcinoma,normal,canonical,7.12,1.0,TCGA_enhanced
+PIK3CA,ENSG00000121879,COAD,Colon adenocarcinoma,tumor,canonical,11.3,1.14,TCGA_enhanced
+PIK3CA,ENSG00000121879,PRAD,Prostate adenocarcinoma,normal,canonical,5.72,1.0,TCGA_enhanced
+PIK3CA,ENSG00000121879,PRAD,Prostate adenocarcinoma,tumor,canonical,5.91,0.98,TCGA_enhanced
+PIK3CA,ENSG00000121879,LIHC,Liver hepatocellular carcinoma,normal,canonical,15.08,1.0,TCGA_enhanced
+PIK3CA,ENSG00000121879,LIHC,Liver hepatocellular carcinoma,tumor,canonical,21.3,0.98,TCGA_enhanced
+PIK3CA,ENSG00000121879,KIRC,Kidney renal clear cell carcinoma,normal,canonical,29.78,1.0,TCGA_enhanced
+PIK3CA,ENSG00000121879,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,27.65,1.31,TCGA_enhanced
+PIK3CA,ENSG00000121879,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,6.63,1.0,TCGA_enhanced
+PIK3CA,ENSG00000121879,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,11.78,2.0,TCGA_enhanced
+PIK3CA,ENSG00000121879,BLCA,Bladder urothelial carcinoma,normal,canonical,31.23,1.0,TCGA_enhanced
+PIK3CA,ENSG00000121879,BLCA,Bladder urothelial carcinoma,tumor,canonical,30.01,0.84,TCGA_enhanced
+PIK3CA,ENSG00000121879,STAD,Stomach adenocarcinoma,normal,canonical,28.36,1.0,TCGA_enhanced
+PIK3CA,ENSG00000121879,STAD,Stomach adenocarcinoma,tumor,canonical,20.91,0.98,TCGA_enhanced
+PIK3CA,ENSG00000121879,THCA,Thyroid carcinoma,normal,canonical,25.21,1.0,TCGA_enhanced
+PIK3CA,ENSG00000121879,THCA,Thyroid carcinoma,tumor,canonical,18.28,0.82,TCGA_enhanced
+PIK3CA,ENSG00000121879,GBM,Glioblastoma multiforme,normal,canonical,20.9,1.0,TCGA_enhanced
+PIK3CA,ENSG00000121879,GBM,Glioblastoma multiforme,tumor,canonical,17.45,1.1,TCGA_enhanced
+PIK3CA,ENSG00000121879,LAML,Acute myeloid leukemia,normal,canonical,13.68,1.0,TCGA_enhanced
+PIK3CA,ENSG00000121879,LAML,Acute myeloid leukemia,tumor,canonical,12.95,1.01,TCGA_enhanced
+PIK3CB,ENSG00000051382,BRCA,Breast invasive carcinoma,normal,canonical,10.33,1.0,TCGA_enhanced
+PIK3CB,ENSG00000051382,BRCA,Breast invasive carcinoma,tumor,canonical,7.81,1.04,TCGA_enhanced
+PIK3CB,ENSG00000051382,LUAD,Lung adenocarcinoma,normal,canonical,18.96,1.0,TCGA_enhanced
+PIK3CB,ENSG00000051382,LUAD,Lung adenocarcinoma,tumor,canonical,31.0,1.33,TCGA_enhanced
+PIK3CB,ENSG00000051382,COAD,Colon adenocarcinoma,normal,canonical,22.87,1.0,TCGA_enhanced
+PIK3CB,ENSG00000051382,COAD,Colon adenocarcinoma,tumor,canonical,34.12,1.43,TCGA_enhanced
+PIK3CB,ENSG00000051382,PRAD,Prostate adenocarcinoma,normal,canonical,15.22,1.0,TCGA_enhanced
+PIK3CB,ENSG00000051382,PRAD,Prostate adenocarcinoma,tumor,canonical,12.54,0.92,TCGA_enhanced
+PIK3CB,ENSG00000051382,LIHC,Liver hepatocellular carcinoma,normal,canonical,23.47,1.0,TCGA_enhanced
+PIK3CB,ENSG00000051382,LIHC,Liver hepatocellular carcinoma,tumor,canonical,30.47,1.19,TCGA_enhanced
+PIK3CB,ENSG00000051382,KIRC,Kidney renal clear cell carcinoma,normal,canonical,11.16,1.0,TCGA_enhanced
+PIK3CB,ENSG00000051382,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,14.44,1.14,TCGA_enhanced
+PIK3CB,ENSG00000051382,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,32.45,1.0,TCGA_enhanced
+PIK3CB,ENSG00000051382,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,22.84,1.0,TCGA_enhanced
+PIK3CB,ENSG00000051382,BLCA,Bladder urothelial carcinoma,normal,canonical,14.32,1.0,TCGA_enhanced
+PIK3CB,ENSG00000051382,BLCA,Bladder urothelial carcinoma,tumor,canonical,17.05,1.37,TCGA_enhanced
+PIK3CB,ENSG00000051382,STAD,Stomach adenocarcinoma,normal,canonical,10.11,1.0,TCGA_enhanced
+PIK3CB,ENSG00000051382,STAD,Stomach adenocarcinoma,tumor,canonical,16.34,0.99,TCGA_enhanced
+PIK3CB,ENSG00000051382,THCA,Thyroid carcinoma,normal,canonical,19.8,1.0,TCGA_enhanced
+PIK3CB,ENSG00000051382,THCA,Thyroid carcinoma,tumor,canonical,31.53,1.3,TCGA_enhanced
+PIK3CB,ENSG00000051382,GBM,Glioblastoma multiforme,normal,canonical,19.12,1.0,TCGA_enhanced
+PIK3CB,ENSG00000051382,GBM,Glioblastoma multiforme,tumor,canonical,51.74,1.49,TCGA_enhanced
+PIK3CB,ENSG00000051382,LAML,Acute myeloid leukemia,normal,canonical,41.98,1.0,TCGA_enhanced
+PIK3CB,ENSG00000051382,LAML,Acute myeloid leukemia,tumor,canonical,45.18,1.36,TCGA_enhanced
+PIK3CG,ENSG00000105851,BRCA,Breast invasive carcinoma,normal,canonical,26.18,1.0,TCGA_enhanced
+PIK3CG,ENSG00000105851,BRCA,Breast invasive carcinoma,tumor,canonical,21.14,1.01,TCGA_enhanced
+PIK3CG,ENSG00000105851,LUAD,Lung adenocarcinoma,normal,canonical,16.26,1.0,TCGA_enhanced
+PIK3CG,ENSG00000105851,LUAD,Lung adenocarcinoma,tumor,canonical,9.04,0.94,TCGA_enhanced
+PIK3CG,ENSG00000105851,COAD,Colon adenocarcinoma,normal,canonical,22.4,1.0,TCGA_enhanced
+PIK3CG,ENSG00000105851,COAD,Colon adenocarcinoma,tumor,canonical,20.66,1.19,TCGA_enhanced
+PIK3CG,ENSG00000105851,PRAD,Prostate adenocarcinoma,normal,canonical,8.16,1.0,TCGA_enhanced
+PIK3CG,ENSG00000105851,PRAD,Prostate adenocarcinoma,tumor,canonical,14.5,1.47,TCGA_enhanced
+PIK3CG,ENSG00000105851,LIHC,Liver hepatocellular carcinoma,normal,canonical,12.96,1.0,TCGA_enhanced
+PIK3CG,ENSG00000105851,LIHC,Liver hepatocellular carcinoma,tumor,canonical,12.36,0.88,TCGA_enhanced
+PIK3CG,ENSG00000105851,KIRC,Kidney renal clear cell carcinoma,normal,canonical,7.59,1.0,TCGA_enhanced
+PIK3CG,ENSG00000105851,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,14.55,1.42,TCGA_enhanced
+PIK3CG,ENSG00000105851,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,22.32,1.0,TCGA_enhanced
+PIK3CG,ENSG00000105851,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,16.67,0.88,TCGA_enhanced
+PIK3CG,ENSG00000105851,BLCA,Bladder urothelial carcinoma,normal,canonical,12.13,1.0,TCGA_enhanced
+PIK3CG,ENSG00000105851,BLCA,Bladder urothelial carcinoma,tumor,canonical,11.79,1.19,TCGA_enhanced
+PIK3CG,ENSG00000105851,STAD,Stomach adenocarcinoma,normal,canonical,8.43,1.0,TCGA_enhanced
+PIK3CG,ENSG00000105851,STAD,Stomach adenocarcinoma,tumor,canonical,23.97,1.48,TCGA_enhanced
+PIK3CG,ENSG00000105851,THCA,Thyroid carcinoma,normal,canonical,21.3,1.0,TCGA_enhanced
+PIK3CG,ENSG00000105851,THCA,Thyroid carcinoma,tumor,canonical,20.19,0.81,TCGA_enhanced
+PIK3CG,ENSG00000105851,GBM,Glioblastoma multiforme,normal,canonical,23.87,1.0,TCGA_enhanced
+PIK3CG,ENSG00000105851,GBM,Glioblastoma multiforme,tumor,canonical,54.41,1.46,TCGA_enhanced
+PIK3CG,ENSG00000105851,LAML,Acute myeloid leukemia,normal,canonical,7.04,1.0,TCGA_enhanced
+PIK3CG,ENSG00000105851,LAML,Acute myeloid leukemia,tumor,canonical,6.88,1.13,TCGA_enhanced
+PIK3CD,ENSG00000171608,BRCA,Breast invasive carcinoma,normal,canonical,16.83,1.0,TCGA_enhanced
+PIK3CD,ENSG00000171608,BRCA,Breast invasive carcinoma,tumor,canonical,28.28,1.14,TCGA_enhanced
+PIK3CD,ENSG00000171608,LUAD,Lung adenocarcinoma,normal,canonical,4.85,1.0,TCGA_enhanced
+PIK3CD,ENSG00000171608,LUAD,Lung adenocarcinoma,tumor,canonical,6.91,1.13,TCGA_enhanced
+PIK3CD,ENSG00000171608,COAD,Colon adenocarcinoma,normal,canonical,11.92,1.0,TCGA_enhanced
+PIK3CD,ENSG00000171608,COAD,Colon adenocarcinoma,tumor,canonical,17.31,1.14,TCGA_enhanced
+PIK3CD,ENSG00000171608,PRAD,Prostate adenocarcinoma,normal,canonical,35.66,1.0,TCGA_enhanced
+PIK3CD,ENSG00000171608,PRAD,Prostate adenocarcinoma,tumor,canonical,28.57,0.86,TCGA_enhanced
+PIK3CD,ENSG00000171608,LIHC,Liver hepatocellular carcinoma,normal,canonical,18.8,1.0,TCGA_enhanced
+PIK3CD,ENSG00000171608,LIHC,Liver hepatocellular carcinoma,tumor,canonical,17.42,1.05,TCGA_enhanced
+PIK3CD,ENSG00000171608,KIRC,Kidney renal clear cell carcinoma,normal,canonical,27.14,1.0,TCGA_enhanced
+PIK3CD,ENSG00000171608,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,31.38,1.5,TCGA_enhanced
+PIK3CD,ENSG00000171608,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,26.7,1.0,TCGA_enhanced
+PIK3CD,ENSG00000171608,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,20.29,0.89,TCGA_enhanced
+PIK3CD,ENSG00000171608,BLCA,Bladder urothelial carcinoma,normal,canonical,8.48,1.0,TCGA_enhanced
+PIK3CD,ENSG00000171608,BLCA,Bladder urothelial carcinoma,tumor,canonical,14.43,1.27,TCGA_enhanced
+PIK3CD,ENSG00000171608,STAD,Stomach adenocarcinoma,normal,canonical,10.7,1.0,TCGA_enhanced
+PIK3CD,ENSG00000171608,STAD,Stomach adenocarcinoma,tumor,canonical,12.43,1.33,TCGA_enhanced
+PIK3CD,ENSG00000171608,THCA,Thyroid carcinoma,normal,canonical,23.84,1.0,TCGA_enhanced
+PIK3CD,ENSG00000171608,THCA,Thyroid carcinoma,tumor,canonical,21.48,1.03,TCGA_enhanced
+PIK3CD,ENSG00000171608,GBM,Glioblastoma multiforme,normal,canonical,15.79,1.0,TCGA_enhanced
+PIK3CD,ENSG00000171608,GBM,Glioblastoma multiforme,tumor,canonical,21.31,0.95,TCGA_enhanced
+PIK3CD,ENSG00000171608,LAML,Acute myeloid leukemia,normal,canonical,12.82,1.0,TCGA_enhanced
+PIK3CD,ENSG00000171608,LAML,Acute myeloid leukemia,tumor,canonical,23.63,2.0,TCGA_enhanced
+CLK1,ENSG00000013441,BRCA,Breast invasive carcinoma,normal,canonical,27.27,1.0,TCGA_enhanced
+CLK1,ENSG00000013441,BRCA,Breast invasive carcinoma,tumor,canonical,60.74,2.0,TCGA_enhanced
+CLK1,ENSG00000013441,LUAD,Lung adenocarcinoma,normal,canonical,34.5,1.0,TCGA_enhanced
+CLK1,ENSG00000013441,LUAD,Lung adenocarcinoma,tumor,canonical,35.36,1.49,TCGA_enhanced
+CLK1,ENSG00000013441,COAD,Colon adenocarcinoma,normal,canonical,21.12,1.0,TCGA_enhanced
+CLK1,ENSG00000013441,COAD,Colon adenocarcinoma,tumor,canonical,62.75,1.5,TCGA_enhanced
+CLK1,ENSG00000013441,PRAD,Prostate adenocarcinoma,normal,canonical,19.42,1.0,TCGA_enhanced
+CLK1,ENSG00000013441,PRAD,Prostate adenocarcinoma,tumor,canonical,22.12,1.2,TCGA_enhanced
+CLK1,ENSG00000013441,LIHC,Liver hepatocellular carcinoma,normal,canonical,19.34,1.0,TCGA_enhanced
+CLK1,ENSG00000013441,LIHC,Liver hepatocellular carcinoma,tumor,canonical,23.62,0.93,TCGA_enhanced
+CLK1,ENSG00000013441,KIRC,Kidney renal clear cell carcinoma,normal,canonical,17.48,1.0,TCGA_enhanced
+CLK1,ENSG00000013441,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,12.06,1.0,TCGA_enhanced
+CLK1,ENSG00000013441,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,23.5,1.0,TCGA_enhanced
+CLK1,ENSG00000013441,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,28.75,1.3,TCGA_enhanced
+CLK1,ENSG00000013441,BLCA,Bladder urothelial carcinoma,normal,canonical,23.29,1.0,TCGA_enhanced
+CLK1,ENSG00000013441,BLCA,Bladder urothelial carcinoma,tumor,canonical,29.26,1.19,TCGA_enhanced
+CLK1,ENSG00000013441,STAD,Stomach adenocarcinoma,normal,canonical,25.49,1.0,TCGA_enhanced
+CLK1,ENSG00000013441,STAD,Stomach adenocarcinoma,tumor,canonical,30.14,0.99,TCGA_enhanced
+CLK1,ENSG00000013441,THCA,Thyroid carcinoma,normal,canonical,26.93,1.0,TCGA_enhanced
+CLK1,ENSG00000013441,THCA,Thyroid carcinoma,tumor,canonical,30.39,1.24,TCGA_enhanced
+CLK1,ENSG00000013441,GBM,Glioblastoma multiforme,normal,canonical,16.79,1.0,TCGA_enhanced
+CLK1,ENSG00000013441,GBM,Glioblastoma multiforme,tumor,canonical,21.72,1.8,TCGA_enhanced
+CLK1,ENSG00000013441,LAML,Acute myeloid leukemia,normal,canonical,34.11,1.0,TCGA_enhanced
+CLK1,ENSG00000013441,LAML,Acute myeloid leukemia,tumor,canonical,34.22,1.28,TCGA_enhanced
+CLK2,ENSG00000176444,BRCA,Breast invasive carcinoma,normal,canonical,14.93,1.0,TCGA_enhanced
+CLK2,ENSG00000176444,BRCA,Breast invasive carcinoma,tumor,canonical,24.36,1.22,TCGA_enhanced
+CLK2,ENSG00000176444,LUAD,Lung adenocarcinoma,normal,canonical,25.74,1.0,TCGA_enhanced
+CLK2,ENSG00000176444,LUAD,Lung adenocarcinoma,tumor,canonical,24.8,1.15,TCGA_enhanced
+CLK2,ENSG00000176444,COAD,Colon adenocarcinoma,normal,canonical,5.52,1.0,TCGA_enhanced
+CLK2,ENSG00000176444,COAD,Colon adenocarcinoma,tumor,canonical,8.71,1.32,TCGA_enhanced
+CLK2,ENSG00000176444,PRAD,Prostate adenocarcinoma,normal,canonical,8.83,1.0,TCGA_enhanced
+CLK2,ENSG00000176444,PRAD,Prostate adenocarcinoma,tumor,canonical,10.83,1.41,TCGA_enhanced
+CLK2,ENSG00000176444,LIHC,Liver hepatocellular carcinoma,normal,canonical,28.86,1.0,TCGA_enhanced
+CLK2,ENSG00000176444,LIHC,Liver hepatocellular carcinoma,tumor,canonical,25.21,1.48,TCGA_enhanced
+CLK2,ENSG00000176444,KIRC,Kidney renal clear cell carcinoma,normal,canonical,11.21,1.0,TCGA_enhanced
+CLK2,ENSG00000176444,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,14.38,1.01,TCGA_enhanced
+CLK2,ENSG00000176444,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,6.69,1.0,TCGA_enhanced
+CLK2,ENSG00000176444,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,9.86,1.19,TCGA_enhanced
+CLK2,ENSG00000176444,BLCA,Bladder urothelial carcinoma,normal,canonical,11.52,1.0,TCGA_enhanced
+CLK2,ENSG00000176444,BLCA,Bladder urothelial carcinoma,tumor,canonical,6.11,0.85,TCGA_enhanced
+CLK2,ENSG00000176444,STAD,Stomach adenocarcinoma,normal,canonical,22.27,1.0,TCGA_enhanced
+CLK2,ENSG00000176444,STAD,Stomach adenocarcinoma,tumor,canonical,12.8,0.95,TCGA_enhanced
+CLK2,ENSG00000176444,THCA,Thyroid carcinoma,normal,canonical,19.65,1.0,TCGA_enhanced
+CLK2,ENSG00000176444,THCA,Thyroid carcinoma,tumor,canonical,47.62,1.33,TCGA_enhanced
+CLK2,ENSG00000176444,GBM,Glioblastoma multiforme,normal,canonical,29.72,1.0,TCGA_enhanced
+CLK2,ENSG00000176444,GBM,Glioblastoma multiforme,tumor,canonical,28.42,0.89,TCGA_enhanced
+CLK2,ENSG00000176444,LAML,Acute myeloid leukemia,normal,canonical,36.56,1.0,TCGA_enhanced
+CLK2,ENSG00000176444,LAML,Acute myeloid leukemia,tumor,canonical,26.2,1.1,TCGA_enhanced
+CLK3,ENSG00000179335,BRCA,Breast invasive carcinoma,normal,canonical,14.73,1.0,TCGA_enhanced
+CLK3,ENSG00000179335,BRCA,Breast invasive carcinoma,tumor,canonical,15.31,1.27,TCGA_enhanced
+CLK3,ENSG00000179335,LUAD,Lung adenocarcinoma,normal,canonical,7.06,1.0,TCGA_enhanced
+CLK3,ENSG00000179335,LUAD,Lung adenocarcinoma,tumor,canonical,9.43,1.1,TCGA_enhanced
+CLK3,ENSG00000179335,COAD,Colon adenocarcinoma,normal,canonical,13.7,1.0,TCGA_enhanced
+CLK3,ENSG00000179335,COAD,Colon adenocarcinoma,tumor,canonical,17.65,1.05,TCGA_enhanced
+CLK3,ENSG00000179335,PRAD,Prostate adenocarcinoma,normal,canonical,16.27,1.0,TCGA_enhanced
+CLK3,ENSG00000179335,PRAD,Prostate adenocarcinoma,tumor,canonical,19.52,1.3,TCGA_enhanced
+CLK3,ENSG00000179335,LIHC,Liver hepatocellular carcinoma,normal,canonical,18.62,1.0,TCGA_enhanced
+CLK3,ENSG00000179335,LIHC,Liver hepatocellular carcinoma,tumor,canonical,59.92,2.5,TCGA_enhanced
+CLK3,ENSG00000179335,KIRC,Kidney renal clear cell carcinoma,normal,canonical,35.12,1.0,TCGA_enhanced
+CLK3,ENSG00000179335,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,34.74,1.06,TCGA_enhanced
+CLK3,ENSG00000179335,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,26.56,1.0,TCGA_enhanced
+CLK3,ENSG00000179335,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,20.03,0.9,TCGA_enhanced
+CLK3,ENSG00000179335,BLCA,Bladder urothelial carcinoma,normal,canonical,16.74,1.0,TCGA_enhanced
+CLK3,ENSG00000179335,BLCA,Bladder urothelial carcinoma,tumor,canonical,18.07,1.5,TCGA_enhanced
+CLK3,ENSG00000179335,STAD,Stomach adenocarcinoma,normal,canonical,9.88,1.0,TCGA_enhanced
+CLK3,ENSG00000179335,STAD,Stomach adenocarcinoma,tumor,canonical,10.34,0.96,TCGA_enhanced
+CLK3,ENSG00000179335,THCA,Thyroid carcinoma,normal,canonical,22.89,1.0,TCGA_enhanced
+CLK3,ENSG00000179335,THCA,Thyroid carcinoma,tumor,canonical,44.02,1.5,TCGA_enhanced
+CLK3,ENSG00000179335,GBM,Glioblastoma multiforme,normal,canonical,18.37,1.0,TCGA_enhanced
+CLK3,ENSG00000179335,GBM,Glioblastoma multiforme,tumor,canonical,26.69,1.26,TCGA_enhanced
+CLK3,ENSG00000179335,LAML,Acute myeloid leukemia,normal,canonical,11.5,1.0,TCGA_enhanced
+CLK3,ENSG00000179335,LAML,Acute myeloid leukemia,tumor,canonical,11.76,1.06,TCGA_enhanced
+CLK4,ENSG00000113240,BRCA,Breast invasive carcinoma,normal,canonical,26.01,1.0,TCGA_enhanced
+CLK4,ENSG00000113240,BRCA,Breast invasive carcinoma,tumor,canonical,21.75,0.93,TCGA_enhanced
+CLK4,ENSG00000113240,LUAD,Lung adenocarcinoma,normal,canonical,14.6,1.0,TCGA_enhanced
+CLK4,ENSG00000113240,LUAD,Lung adenocarcinoma,tumor,canonical,11.35,1.44,TCGA_enhanced
+CLK4,ENSG00000113240,COAD,Colon adenocarcinoma,normal,canonical,5.31,1.0,TCGA_enhanced
+CLK4,ENSG00000113240,COAD,Colon adenocarcinoma,tumor,canonical,5.32,0.9,TCGA_enhanced
+CLK4,ENSG00000113240,PRAD,Prostate adenocarcinoma,normal,canonical,4.71,1.0,TCGA_enhanced
+CLK4,ENSG00000113240,PRAD,Prostate adenocarcinoma,tumor,canonical,5.29,0.94,TCGA_enhanced
+CLK4,ENSG00000113240,LIHC,Liver hepatocellular carcinoma,normal,canonical,14.23,1.0,TCGA_enhanced
+CLK4,ENSG00000113240,LIHC,Liver hepatocellular carcinoma,tumor,canonical,11.8,0.83,TCGA_enhanced
+CLK4,ENSG00000113240,KIRC,Kidney renal clear cell carcinoma,normal,canonical,10.16,1.0,TCGA_enhanced
+CLK4,ENSG00000113240,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,12.57,1.0,TCGA_enhanced
+CLK4,ENSG00000113240,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,14.0,1.0,TCGA_enhanced
+CLK4,ENSG00000113240,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,31.31,1.26,TCGA_enhanced
+CLK4,ENSG00000113240,BLCA,Bladder urothelial carcinoma,normal,canonical,12.48,1.0,TCGA_enhanced
+CLK4,ENSG00000113240,BLCA,Bladder urothelial carcinoma,tumor,canonical,31.39,1.46,TCGA_enhanced
+CLK4,ENSG00000113240,STAD,Stomach adenocarcinoma,normal,canonical,20.12,1.0,TCGA_enhanced
+CLK4,ENSG00000113240,STAD,Stomach adenocarcinoma,tumor,canonical,13.73,0.9,TCGA_enhanced
+CLK4,ENSG00000113240,THCA,Thyroid carcinoma,normal,canonical,28.94,1.0,TCGA_enhanced
+CLK4,ENSG00000113240,THCA,Thyroid carcinoma,tumor,canonical,36.04,1.44,TCGA_enhanced
+CLK4,ENSG00000113240,GBM,Glioblastoma multiforme,normal,canonical,33.32,1.0,TCGA_enhanced
+CLK4,ENSG00000113240,GBM,Glioblastoma multiforme,tumor,canonical,22.75,0.89,TCGA_enhanced
+CLK4,ENSG00000113240,LAML,Acute myeloid leukemia,normal,canonical,34.23,1.0,TCGA_enhanced
+CLK4,ENSG00000113240,LAML,Acute myeloid leukemia,tumor,canonical,24.09,1.04,TCGA_enhanced
+JAK1,ENSG00000162434,BRCA,Breast invasive carcinoma,normal,canonical,6.28,1.0,TCGA_enhanced
+JAK1,ENSG00000162434,BRCA,Breast invasive carcinoma,tumor,canonical,5.18,0.85,TCGA_enhanced
+JAK1,ENSG00000162434,LUAD,Lung adenocarcinoma,normal,canonical,35.33,1.0,TCGA_enhanced
+JAK1,ENSG00000162434,LUAD,Lung adenocarcinoma,tumor,canonical,48.44,1.5,TCGA_enhanced
+JAK1,ENSG00000162434,COAD,Colon adenocarcinoma,normal,canonical,28.99,1.0,TCGA_enhanced
+JAK1,ENSG00000162434,COAD,Colon adenocarcinoma,tumor,canonical,44.8,1.34,TCGA_enhanced
+JAK1,ENSG00000162434,PRAD,Prostate adenocarcinoma,normal,canonical,16.5,1.0,TCGA_enhanced
+JAK1,ENSG00000162434,PRAD,Prostate adenocarcinoma,tumor,canonical,10.46,1.07,TCGA_enhanced
+JAK1,ENSG00000162434,LIHC,Liver hepatocellular carcinoma,normal,canonical,16.81,1.0,TCGA_enhanced
+JAK1,ENSG00000162434,LIHC,Liver hepatocellular carcinoma,tumor,canonical,14.78,1.09,TCGA_enhanced
+JAK1,ENSG00000162434,KIRC,Kidney renal clear cell carcinoma,normal,canonical,15.93,1.0,TCGA_enhanced
+JAK1,ENSG00000162434,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,23.02,1.41,TCGA_enhanced
+JAK1,ENSG00000162434,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,26.43,1.0,TCGA_enhanced
+JAK1,ENSG00000162434,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,34.58,1.12,TCGA_enhanced
+JAK1,ENSG00000162434,BLCA,Bladder urothelial carcinoma,normal,canonical,10.88,1.0,TCGA_enhanced
+JAK1,ENSG00000162434,BLCA,Bladder urothelial carcinoma,tumor,canonical,13.64,1.15,TCGA_enhanced
+JAK1,ENSG00000162434,STAD,Stomach adenocarcinoma,normal,canonical,40.14,1.0,TCGA_enhanced
+JAK1,ENSG00000162434,STAD,Stomach adenocarcinoma,tumor,canonical,21.57,0.99,TCGA_enhanced
+JAK1,ENSG00000162434,THCA,Thyroid carcinoma,normal,canonical,33.9,1.0,TCGA_enhanced
+JAK1,ENSG00000162434,THCA,Thyroid carcinoma,tumor,canonical,34.43,1.3,TCGA_enhanced
+JAK1,ENSG00000162434,GBM,Glioblastoma multiforme,normal,canonical,28.1,1.0,TCGA_enhanced
+JAK1,ENSG00000162434,GBM,Glioblastoma multiforme,tumor,canonical,39.29,1.42,TCGA_enhanced
+JAK1,ENSG00000162434,LAML,Acute myeloid leukemia,normal,canonical,15.72,1.0,TCGA_enhanced
+JAK1,ENSG00000162434,LAML,Acute myeloid leukemia,tumor,canonical,25.76,0.96,TCGA_enhanced
+JAK2,ENSG00000096968,BRCA,Breast invasive carcinoma,normal,canonical,15.15,1.0,TCGA_enhanced
+JAK2,ENSG00000096968,BRCA,Breast invasive carcinoma,tumor,canonical,12.32,1.18,TCGA_enhanced
+JAK2,ENSG00000096968,LUAD,Lung adenocarcinoma,normal,canonical,12.45,1.0,TCGA_enhanced
+JAK2,ENSG00000096968,LUAD,Lung adenocarcinoma,tumor,canonical,23.19,1.8,TCGA_enhanced
+JAK2,ENSG00000096968,COAD,Colon adenocarcinoma,normal,canonical,10.07,1.0,TCGA_enhanced
+JAK2,ENSG00000096968,COAD,Colon adenocarcinoma,tumor,canonical,9.68,1.0,TCGA_enhanced
+JAK2,ENSG00000096968,PRAD,Prostate adenocarcinoma,normal,canonical,28.89,1.0,TCGA_enhanced
+JAK2,ENSG00000096968,PRAD,Prostate adenocarcinoma,tumor,canonical,26.2,1.07,TCGA_enhanced
+JAK2,ENSG00000096968,LIHC,Liver hepatocellular carcinoma,normal,canonical,20.93,1.0,TCGA_enhanced
+JAK2,ENSG00000096968,LIHC,Liver hepatocellular carcinoma,tumor,canonical,17.55,1.02,TCGA_enhanced
+JAK2,ENSG00000096968,KIRC,Kidney renal clear cell carcinoma,normal,canonical,16.83,1.0,TCGA_enhanced
+JAK2,ENSG00000096968,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,48.05,1.47,TCGA_enhanced
+JAK2,ENSG00000096968,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,6.88,1.0,TCGA_enhanced
+JAK2,ENSG00000096968,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,6.02,1.21,TCGA_enhanced
+JAK2,ENSG00000096968,BLCA,Bladder urothelial carcinoma,normal,canonical,22.82,1.0,TCGA_enhanced
+JAK2,ENSG00000096968,BLCA,Bladder urothelial carcinoma,tumor,canonical,19.35,1.42,TCGA_enhanced
+JAK2,ENSG00000096968,STAD,Stomach adenocarcinoma,normal,canonical,9.63,1.0,TCGA_enhanced
+JAK2,ENSG00000096968,STAD,Stomach adenocarcinoma,tumor,canonical,12.01,1.37,TCGA_enhanced
+JAK2,ENSG00000096968,THCA,Thyroid carcinoma,normal,canonical,27.2,1.0,TCGA_enhanced
+JAK2,ENSG00000096968,THCA,Thyroid carcinoma,tumor,canonical,32.9,1.34,TCGA_enhanced
+JAK2,ENSG00000096968,GBM,Glioblastoma multiforme,normal,canonical,10.25,1.0,TCGA_enhanced
+JAK2,ENSG00000096968,GBM,Glioblastoma multiforme,tumor,canonical,16.89,1.08,TCGA_enhanced
+JAK2,ENSG00000096968,LAML,Acute myeloid leukemia,normal,canonical,25.22,1.0,TCGA_enhanced
+JAK2,ENSG00000096968,LAML,Acute myeloid leukemia,tumor,canonical,80.57,3.0,TCGA_enhanced
+JAK3,ENSG00000105639,BRCA,Breast invasive carcinoma,normal,canonical,6.6,1.0,TCGA_enhanced
+JAK3,ENSG00000105639,BRCA,Breast invasive carcinoma,tumor,canonical,11.14,1.14,TCGA_enhanced
+JAK3,ENSG00000105639,LUAD,Lung adenocarcinoma,normal,canonical,7.77,1.0,TCGA_enhanced
+JAK3,ENSG00000105639,LUAD,Lung adenocarcinoma,tumor,canonical,12.71,1.46,TCGA_enhanced
+JAK3,ENSG00000105639,COAD,Colon adenocarcinoma,normal,canonical,14.24,1.0,TCGA_enhanced
+JAK3,ENSG00000105639,COAD,Colon adenocarcinoma,tumor,canonical,14.79,1.4,TCGA_enhanced
+JAK3,ENSG00000105639,PRAD,Prostate adenocarcinoma,normal,canonical,27.79,1.0,TCGA_enhanced
+JAK3,ENSG00000105639,PRAD,Prostate adenocarcinoma,tumor,canonical,23.88,0.9,TCGA_enhanced
+JAK3,ENSG00000105639,LIHC,Liver hepatocellular carcinoma,normal,canonical,9.57,1.0,TCGA_enhanced
+JAK3,ENSG00000105639,LIHC,Liver hepatocellular carcinoma,tumor,canonical,13.15,1.4,TCGA_enhanced
+JAK3,ENSG00000105639,KIRC,Kidney renal clear cell carcinoma,normal,canonical,17.89,1.0,TCGA_enhanced
+JAK3,ENSG00000105639,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,21.03,1.48,TCGA_enhanced
+JAK3,ENSG00000105639,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,25.92,1.0,TCGA_enhanced
+JAK3,ENSG00000105639,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,22.3,1.0,TCGA_enhanced
+JAK3,ENSG00000105639,BLCA,Bladder urothelial carcinoma,normal,canonical,23.87,1.0,TCGA_enhanced
+JAK3,ENSG00000105639,BLCA,Bladder urothelial carcinoma,tumor,canonical,28.96,1.15,TCGA_enhanced
+JAK3,ENSG00000105639,STAD,Stomach adenocarcinoma,normal,canonical,25.97,1.0,TCGA_enhanced
+JAK3,ENSG00000105639,STAD,Stomach adenocarcinoma,tumor,canonical,28.41,1.27,TCGA_enhanced
+JAK3,ENSG00000105639,THCA,Thyroid carcinoma,normal,canonical,18.08,1.0,TCGA_enhanced
+JAK3,ENSG00000105639,THCA,Thyroid carcinoma,tumor,canonical,13.81,1.36,TCGA_enhanced
+JAK3,ENSG00000105639,GBM,Glioblastoma multiforme,normal,canonical,6.93,1.0,TCGA_enhanced
+JAK3,ENSG00000105639,GBM,Glioblastoma multiforme,tumor,canonical,4.4,0.89,TCGA_enhanced
+JAK3,ENSG00000105639,LAML,Acute myeloid leukemia,normal,canonical,13.64,1.0,TCGA_enhanced
+JAK3,ENSG00000105639,LAML,Acute myeloid leukemia,tumor,canonical,12.93,1.18,TCGA_enhanced
+TYK2,ENSG00000105397,BRCA,Breast invasive carcinoma,normal,canonical,29.67,1.0,TCGA_enhanced
+TYK2,ENSG00000105397,BRCA,Breast invasive carcinoma,tumor,canonical,16.48,0.93,TCGA_enhanced
+TYK2,ENSG00000105397,LUAD,Lung adenocarcinoma,normal,canonical,24.86,1.0,TCGA_enhanced
+TYK2,ENSG00000105397,LUAD,Lung adenocarcinoma,tumor,canonical,29.48,1.09,TCGA_enhanced
+TYK2,ENSG00000105397,COAD,Colon adenocarcinoma,normal,canonical,14.63,1.0,TCGA_enhanced
+TYK2,ENSG00000105397,COAD,Colon adenocarcinoma,tumor,canonical,18.59,1.04,TCGA_enhanced
+TYK2,ENSG00000105397,PRAD,Prostate adenocarcinoma,normal,canonical,10.74,1.0,TCGA_enhanced
+TYK2,ENSG00000105397,PRAD,Prostate adenocarcinoma,tumor,canonical,10.9,1.14,TCGA_enhanced
+TYK2,ENSG00000105397,LIHC,Liver hepatocellular carcinoma,normal,canonical,23.16,1.0,TCGA_enhanced
+TYK2,ENSG00000105397,LIHC,Liver hepatocellular carcinoma,tumor,canonical,25.89,1.31,TCGA_enhanced
+TYK2,ENSG00000105397,KIRC,Kidney renal clear cell carcinoma,normal,canonical,30.68,1.0,TCGA_enhanced
+TYK2,ENSG00000105397,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,26.06,1.32,TCGA_enhanced
+TYK2,ENSG00000105397,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,11.27,1.0,TCGA_enhanced
+TYK2,ENSG00000105397,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,11.21,0.91,TCGA_enhanced
+TYK2,ENSG00000105397,BLCA,Bladder urothelial carcinoma,normal,canonical,13.54,1.0,TCGA_enhanced
+TYK2,ENSG00000105397,BLCA,Bladder urothelial carcinoma,tumor,canonical,16.08,1.06,TCGA_enhanced
+TYK2,ENSG00000105397,STAD,Stomach adenocarcinoma,normal,canonical,26.7,1.0,TCGA_enhanced
+TYK2,ENSG00000105397,STAD,Stomach adenocarcinoma,tumor,canonical,26.1,1.09,TCGA_enhanced
+TYK2,ENSG00000105397,THCA,Thyroid carcinoma,normal,canonical,37.7,1.0,TCGA_enhanced
+TYK2,ENSG00000105397,THCA,Thyroid carcinoma,tumor,canonical,28.0,1.36,TCGA_enhanced
+TYK2,ENSG00000105397,GBM,Glioblastoma multiforme,normal,canonical,8.13,1.0,TCGA_enhanced
+TYK2,ENSG00000105397,GBM,Glioblastoma multiforme,tumor,canonical,11.13,1.22,TCGA_enhanced
+TYK2,ENSG00000105397,LAML,Acute myeloid leukemia,normal,canonical,32.21,1.0,TCGA_enhanced
+TYK2,ENSG00000105397,LAML,Acute myeloid leukemia,tumor,canonical,23.88,1.34,TCGA_enhanced
+ABL1,ENSG00000097007,BRCA,Breast invasive carcinoma,normal,canonical,9.61,1.0,TCGA_enhanced
+ABL1,ENSG00000097007,BRCA,Breast invasive carcinoma,tumor,canonical,10.22,1.01,TCGA_enhanced
+ABL1,ENSG00000097007,LUAD,Lung adenocarcinoma,normal,canonical,21.91,1.0,TCGA_enhanced
+ABL1,ENSG00000097007,LUAD,Lung adenocarcinoma,tumor,canonical,20.49,0.94,TCGA_enhanced
+ABL1,ENSG00000097007,COAD,Colon adenocarcinoma,normal,canonical,28.87,1.0,TCGA_enhanced
+ABL1,ENSG00000097007,COAD,Colon adenocarcinoma,tumor,canonical,29.61,0.94,TCGA_enhanced
+ABL1,ENSG00000097007,PRAD,Prostate adenocarcinoma,normal,canonical,28.03,1.0,TCGA_enhanced
+ABL1,ENSG00000097007,PRAD,Prostate adenocarcinoma,tumor,canonical,46.56,1.48,TCGA_enhanced
+ABL1,ENSG00000097007,LIHC,Liver hepatocellular carcinoma,normal,canonical,14.52,1.0,TCGA_enhanced
+ABL1,ENSG00000097007,LIHC,Liver hepatocellular carcinoma,tumor,canonical,16.95,1.3,TCGA_enhanced
+ABL1,ENSG00000097007,KIRC,Kidney renal clear cell carcinoma,normal,canonical,25.72,1.0,TCGA_enhanced
+ABL1,ENSG00000097007,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,14.47,0.88,TCGA_enhanced
+ABL1,ENSG00000097007,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,14.24,1.0,TCGA_enhanced
+ABL1,ENSG00000097007,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,19.47,1.3,TCGA_enhanced
+ABL1,ENSG00000097007,BLCA,Bladder urothelial carcinoma,normal,canonical,17.15,1.0,TCGA_enhanced
+ABL1,ENSG00000097007,BLCA,Bladder urothelial carcinoma,tumor,canonical,15.03,0.81,TCGA_enhanced
+ABL1,ENSG00000097007,STAD,Stomach adenocarcinoma,normal,canonical,19.72,1.0,TCGA_enhanced
+ABL1,ENSG00000097007,STAD,Stomach adenocarcinoma,tumor,canonical,17.08,1.26,TCGA_enhanced
+ABL1,ENSG00000097007,THCA,Thyroid carcinoma,normal,canonical,31.23,1.0,TCGA_enhanced
+ABL1,ENSG00000097007,THCA,Thyroid carcinoma,tumor,canonical,35.94,1.4,TCGA_enhanced
+ABL1,ENSG00000097007,GBM,Glioblastoma multiforme,normal,canonical,17.96,1.0,TCGA_enhanced
+ABL1,ENSG00000097007,GBM,Glioblastoma multiforme,tumor,canonical,12.13,0.92,TCGA_enhanced
+ABL1,ENSG00000097007,LAML,Acute myeloid leukemia,normal,canonical,14.41,1.0,TCGA_enhanced
+ABL1,ENSG00000097007,LAML,Acute myeloid leukemia,tumor,canonical,8.48,1.04,TCGA_enhanced
+EGFR,ENSG00000146648,BRCA,Breast invasive carcinoma,normal,canonical,19.27,1.0,TCGA_enhanced
+EGFR,ENSG00000146648,BRCA,Breast invasive carcinoma,tumor,canonical,18.37,0.85,TCGA_enhanced
+EGFR,ENSG00000146648,LUAD,Lung adenocarcinoma,normal,canonical,28.48,1.0,TCGA_enhanced
+EGFR,ENSG00000146648,LUAD,Lung adenocarcinoma,tumor,canonical,77.75,3.0,TCGA_enhanced
+EGFR,ENSG00000146648,COAD,Colon adenocarcinoma,normal,canonical,17.07,1.0,TCGA_enhanced
+EGFR,ENSG00000146648,COAD,Colon adenocarcinoma,tumor,canonical,22.02,1.45,TCGA_enhanced
+EGFR,ENSG00000146648,PRAD,Prostate adenocarcinoma,normal,canonical,10.47,1.0,TCGA_enhanced
+EGFR,ENSG00000146648,PRAD,Prostate adenocarcinoma,tumor,canonical,11.04,0.97,TCGA_enhanced
+EGFR,ENSG00000146648,LIHC,Liver hepatocellular carcinoma,normal,canonical,25.63,1.0,TCGA_enhanced
+EGFR,ENSG00000146648,LIHC,Liver hepatocellular carcinoma,tumor,canonical,30.16,1.33,TCGA_enhanced
+EGFR,ENSG00000146648,KIRC,Kidney renal clear cell carcinoma,normal,canonical,11.42,1.0,TCGA_enhanced
+EGFR,ENSG00000146648,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,13.21,1.43,TCGA_enhanced
+EGFR,ENSG00000146648,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,15.63,1.0,TCGA_enhanced
+EGFR,ENSG00000146648,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,41.73,2.5,TCGA_enhanced
+EGFR,ENSG00000146648,BLCA,Bladder urothelial carcinoma,normal,canonical,17.12,1.0,TCGA_enhanced
+EGFR,ENSG00000146648,BLCA,Bladder urothelial carcinoma,tumor,canonical,23.81,0.99,TCGA_enhanced
+EGFR,ENSG00000146648,STAD,Stomach adenocarcinoma,normal,canonical,18.1,1.0,TCGA_enhanced
+EGFR,ENSG00000146648,STAD,Stomach adenocarcinoma,tumor,canonical,22.7,1.06,TCGA_enhanced
+EGFR,ENSG00000146648,THCA,Thyroid carcinoma,normal,canonical,16.55,1.0,TCGA_enhanced
+EGFR,ENSG00000146648,THCA,Thyroid carcinoma,tumor,canonical,21.32,0.9,TCGA_enhanced
+EGFR,ENSG00000146648,GBM,Glioblastoma multiforme,normal,canonical,13.29,1.0,TCGA_enhanced
+EGFR,ENSG00000146648,GBM,Glioblastoma multiforme,tumor,canonical,55.82,4.0,TCGA_enhanced
+EGFR,ENSG00000146648,LAML,Acute myeloid leukemia,normal,canonical,38.45,1.0,TCGA_enhanced
+EGFR,ENSG00000146648,LAML,Acute myeloid leukemia,tumor,canonical,36.19,1.05,TCGA_enhanced
+ERBB2,ENSG00000141736,BRCA,Breast invasive carcinoma,normal,canonical,12.99,1.0,TCGA_enhanced
+ERBB2,ENSG00000141736,BRCA,Breast invasive carcinoma,tumor,canonical,34.72,3.0,TCGA_enhanced
+ERBB2,ENSG00000141736,LUAD,Lung adenocarcinoma,normal,canonical,11.54,1.0,TCGA_enhanced
+ERBB2,ENSG00000141736,LUAD,Lung adenocarcinoma,tumor,canonical,24.3,1.37,TCGA_enhanced
+ERBB2,ENSG00000141736,COAD,Colon adenocarcinoma,normal,canonical,11.71,1.0,TCGA_enhanced
+ERBB2,ENSG00000141736,COAD,Colon adenocarcinoma,tumor,canonical,11.38,1.33,TCGA_enhanced
+ERBB2,ENSG00000141736,PRAD,Prostate adenocarcinoma,normal,canonical,12.1,1.0,TCGA_enhanced
+ERBB2,ENSG00000141736,PRAD,Prostate adenocarcinoma,tumor,canonical,18.9,1.07,TCGA_enhanced
+ERBB2,ENSG00000141736,LIHC,Liver hepatocellular carcinoma,normal,canonical,15.43,1.0,TCGA_enhanced
+ERBB2,ENSG00000141736,LIHC,Liver hepatocellular carcinoma,tumor,canonical,26.41,1.33,TCGA_enhanced
+ERBB2,ENSG00000141736,KIRC,Kidney renal clear cell carcinoma,normal,canonical,13.46,1.0,TCGA_enhanced
+ERBB2,ENSG00000141736,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,20.13,1.22,TCGA_enhanced
+ERBB2,ENSG00000141736,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,14.59,1.0,TCGA_enhanced
+ERBB2,ENSG00000141736,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,25.2,1.4,TCGA_enhanced
+ERBB2,ENSG00000141736,BLCA,Bladder urothelial carcinoma,normal,canonical,24.73,1.0,TCGA_enhanced
+ERBB2,ENSG00000141736,BLCA,Bladder urothelial carcinoma,tumor,canonical,17.21,1.08,TCGA_enhanced
+ERBB2,ENSG00000141736,STAD,Stomach adenocarcinoma,normal,canonical,10.63,1.0,TCGA_enhanced
+ERBB2,ENSG00000141736,STAD,Stomach adenocarcinoma,tumor,canonical,30.39,2.5,TCGA_enhanced
+ERBB2,ENSG00000141736,THCA,Thyroid carcinoma,normal,canonical,22.79,1.0,TCGA_enhanced
+ERBB2,ENSG00000141736,THCA,Thyroid carcinoma,tumor,canonical,45.46,1.46,TCGA_enhanced
+ERBB2,ENSG00000141736,GBM,Glioblastoma multiforme,normal,canonical,31.47,1.0,TCGA_enhanced
+ERBB2,ENSG00000141736,GBM,Glioblastoma multiforme,tumor,canonical,28.74,1.26,TCGA_enhanced
+ERBB2,ENSG00000141736,LAML,Acute myeloid leukemia,normal,canonical,21.17,1.0,TCGA_enhanced
+ERBB2,ENSG00000141736,LAML,Acute myeloid leukemia,tumor,canonical,25.41,1.19,TCGA_enhanced
+BRAF,ENSG00000157764,BRCA,Breast invasive carcinoma,normal,canonical,11.82,1.0,TCGA_enhanced
+BRAF,ENSG00000157764,BRCA,Breast invasive carcinoma,tumor,canonical,11.02,1.05,TCGA_enhanced
+BRAF,ENSG00000157764,LUAD,Lung adenocarcinoma,normal,canonical,5.31,1.0,TCGA_enhanced
+BRAF,ENSG00000157764,LUAD,Lung adenocarcinoma,tumor,canonical,3.77,0.95,TCGA_enhanced
+BRAF,ENSG00000157764,COAD,Colon adenocarcinoma,normal,canonical,32.72,1.0,TCGA_enhanced
+BRAF,ENSG00000157764,COAD,Colon adenocarcinoma,tumor,canonical,47.17,1.5,TCGA_enhanced
+BRAF,ENSG00000157764,PRAD,Prostate adenocarcinoma,normal,canonical,7.96,1.0,TCGA_enhanced
+BRAF,ENSG00000157764,PRAD,Prostate adenocarcinoma,tumor,canonical,12.74,1.2,TCGA_enhanced
+BRAF,ENSG00000157764,LIHC,Liver hepatocellular carcinoma,normal,canonical,18.38,1.0,TCGA_enhanced
+BRAF,ENSG00000157764,LIHC,Liver hepatocellular carcinoma,tumor,canonical,23.15,1.22,TCGA_enhanced
+BRAF,ENSG00000157764,KIRC,Kidney renal clear cell carcinoma,normal,canonical,11.87,1.0,TCGA_enhanced
+BRAF,ENSG00000157764,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,13.97,1.06,TCGA_enhanced
+BRAF,ENSG00000157764,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,18.12,1.0,TCGA_enhanced
+BRAF,ENSG00000157764,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,22.24,1.08,TCGA_enhanced
+BRAF,ENSG00000157764,BLCA,Bladder urothelial carcinoma,normal,canonical,9.86,1.0,TCGA_enhanced
+BRAF,ENSG00000157764,BLCA,Bladder urothelial carcinoma,tumor,canonical,16.46,1.03,TCGA_enhanced
+BRAF,ENSG00000157764,STAD,Stomach adenocarcinoma,normal,canonical,9.65,1.0,TCGA_enhanced
+BRAF,ENSG00000157764,STAD,Stomach adenocarcinoma,tumor,canonical,7.11,0.83,TCGA_enhanced
+BRAF,ENSG00000157764,THCA,Thyroid carcinoma,normal,canonical,5.36,1.0,TCGA_enhanced
+BRAF,ENSG00000157764,THCA,Thyroid carcinoma,tumor,canonical,12.94,1.8,TCGA_enhanced
+BRAF,ENSG00000157764,GBM,Glioblastoma multiforme,normal,canonical,9.64,1.0,TCGA_enhanced
+BRAF,ENSG00000157764,GBM,Glioblastoma multiforme,tumor,canonical,10.08,1.38,TCGA_enhanced
+BRAF,ENSG00000157764,LAML,Acute myeloid leukemia,normal,canonical,5.47,1.0,TCGA_enhanced
+BRAF,ENSG00000157764,LAML,Acute myeloid leukemia,tumor,canonical,6.89,0.89,TCGA_enhanced
+SRC,ENSG00000197122,BRCA,Breast invasive carcinoma,normal,canonical,15.16,1.0,TCGA_enhanced
+SRC,ENSG00000197122,BRCA,Breast invasive carcinoma,tumor,canonical,20.34,1.24,TCGA_enhanced
+SRC,ENSG00000197122,LUAD,Lung adenocarcinoma,normal,canonical,21.7,1.0,TCGA_enhanced
+SRC,ENSG00000197122,LUAD,Lung adenocarcinoma,tumor,canonical,32.23,1.11,TCGA_enhanced
+SRC,ENSG00000197122,COAD,Colon adenocarcinoma,normal,canonical,14.29,1.0,TCGA_enhanced
+SRC,ENSG00000197122,COAD,Colon adenocarcinoma,tumor,canonical,25.54,1.48,TCGA_enhanced
+SRC,ENSG00000197122,PRAD,Prostate adenocarcinoma,normal,canonical,6.67,1.0,TCGA_enhanced
+SRC,ENSG00000197122,PRAD,Prostate adenocarcinoma,tumor,canonical,12.39,1.47,TCGA_enhanced
+SRC,ENSG00000197122,LIHC,Liver hepatocellular carcinoma,normal,canonical,8.9,1.0,TCGA_enhanced
+SRC,ENSG00000197122,LIHC,Liver hepatocellular carcinoma,tumor,canonical,11.7,1.43,TCGA_enhanced
+SRC,ENSG00000197122,KIRC,Kidney renal clear cell carcinoma,normal,canonical,34.13,1.0,TCGA_enhanced
+SRC,ENSG00000197122,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,46.99,1.48,TCGA_enhanced
+SRC,ENSG00000197122,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,12.0,1.0,TCGA_enhanced
+SRC,ENSG00000197122,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,24.78,1.31,TCGA_enhanced
+SRC,ENSG00000197122,BLCA,Bladder urothelial carcinoma,normal,canonical,26.27,1.0,TCGA_enhanced
+SRC,ENSG00000197122,BLCA,Bladder urothelial carcinoma,tumor,canonical,20.98,1.33,TCGA_enhanced
+SRC,ENSG00000197122,STAD,Stomach adenocarcinoma,normal,canonical,12.17,1.0,TCGA_enhanced
+SRC,ENSG00000197122,STAD,Stomach adenocarcinoma,tumor,canonical,18.08,1.22,TCGA_enhanced
+SRC,ENSG00000197122,THCA,Thyroid carcinoma,normal,canonical,6.62,1.0,TCGA_enhanced
+SRC,ENSG00000197122,THCA,Thyroid carcinoma,tumor,canonical,8.35,1.28,TCGA_enhanced
+SRC,ENSG00000197122,GBM,Glioblastoma multiforme,normal,canonical,25.55,1.0,TCGA_enhanced
+SRC,ENSG00000197122,GBM,Glioblastoma multiforme,tumor,canonical,37.44,1.38,TCGA_enhanced
+SRC,ENSG00000197122,LAML,Acute myeloid leukemia,normal,canonical,28.93,1.0,TCGA_enhanced
+SRC,ENSG00000197122,LAML,Acute myeloid leukemia,tumor,canonical,35.28,1.37,TCGA_enhanced
+CDK2,ENSG00000123374,BRCA,Breast invasive carcinoma,normal,canonical,23.83,1.0,TCGA_enhanced
+CDK2,ENSG00000123374,BRCA,Breast invasive carcinoma,tumor,canonical,24.13,1.12,TCGA_enhanced
+CDK2,ENSG00000123374,LUAD,Lung adenocarcinoma,normal,canonical,30.71,1.0,TCGA_enhanced
+CDK2,ENSG00000123374,LUAD,Lung adenocarcinoma,tumor,canonical,34.55,1.38,TCGA_enhanced
+CDK2,ENSG00000123374,COAD,Colon adenocarcinoma,normal,canonical,6.28,1.0,TCGA_enhanced
+CDK2,ENSG00000123374,COAD,Colon adenocarcinoma,tumor,canonical,11.15,1.38,TCGA_enhanced
+CDK2,ENSG00000123374,PRAD,Prostate adenocarcinoma,normal,canonical,24.73,1.0,TCGA_enhanced
+CDK2,ENSG00000123374,PRAD,Prostate adenocarcinoma,tumor,canonical,32.99,1.43,TCGA_enhanced
+CDK2,ENSG00000123374,LIHC,Liver hepatocellular carcinoma,normal,canonical,28.58,1.0,TCGA_enhanced
+CDK2,ENSG00000123374,LIHC,Liver hepatocellular carcinoma,tumor,canonical,21.79,1.14,TCGA_enhanced
+CDK2,ENSG00000123374,KIRC,Kidney renal clear cell carcinoma,normal,canonical,36.42,1.0,TCGA_enhanced
+CDK2,ENSG00000123374,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,40.09,1.14,TCGA_enhanced
+CDK2,ENSG00000123374,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,28.45,1.0,TCGA_enhanced
+CDK2,ENSG00000123374,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,19.35,0.94,TCGA_enhanced
+CDK2,ENSG00000123374,BLCA,Bladder urothelial carcinoma,normal,canonical,19.73,1.0,TCGA_enhanced
+CDK2,ENSG00000123374,BLCA,Bladder urothelial carcinoma,tumor,canonical,21.47,1.32,TCGA_enhanced
+CDK2,ENSG00000123374,STAD,Stomach adenocarcinoma,normal,canonical,8.39,1.0,TCGA_enhanced
+CDK2,ENSG00000123374,STAD,Stomach adenocarcinoma,tumor,canonical,7.07,0.99,TCGA_enhanced
+CDK2,ENSG00000123374,THCA,Thyroid carcinoma,normal,canonical,17.35,1.0,TCGA_enhanced
+CDK2,ENSG00000123374,THCA,Thyroid carcinoma,tumor,canonical,20.86,1.35,TCGA_enhanced
+CDK2,ENSG00000123374,GBM,Glioblastoma multiforme,normal,canonical,22.06,1.0,TCGA_enhanced
+CDK2,ENSG00000123374,GBM,Glioblastoma multiforme,tumor,canonical,27.49,1.38,TCGA_enhanced
+CDK2,ENSG00000123374,LAML,Acute myeloid leukemia,normal,canonical,12.1,1.0,TCGA_enhanced
+CDK2,ENSG00000123374,LAML,Acute myeloid leukemia,tumor,canonical,25.49,1.36,TCGA_enhanced
+CDK4,ENSG00000135446,BRCA,Breast invasive carcinoma,normal,canonical,10.19,1.0,TCGA_enhanced
+CDK4,ENSG00000135446,BRCA,Breast invasive carcinoma,tumor,canonical,15.52,1.43,TCGA_enhanced
+CDK4,ENSG00000135446,LUAD,Lung adenocarcinoma,normal,canonical,26.07,1.0,TCGA_enhanced
+CDK4,ENSG00000135446,LUAD,Lung adenocarcinoma,tumor,canonical,38.04,1.18,TCGA_enhanced
+CDK4,ENSG00000135446,COAD,Colon adenocarcinoma,normal,canonical,13.71,1.0,TCGA_enhanced
+CDK4,ENSG00000135446,COAD,Colon adenocarcinoma,tumor,canonical,21.49,1.0,TCGA_enhanced
+CDK4,ENSG00000135446,PRAD,Prostate adenocarcinoma,normal,canonical,11.3,1.0,TCGA_enhanced
+CDK4,ENSG00000135446,PRAD,Prostate adenocarcinoma,tumor,canonical,4.52,0.83,TCGA_enhanced
+CDK4,ENSG00000135446,LIHC,Liver hepatocellular carcinoma,normal,canonical,31.54,1.0,TCGA_enhanced
+CDK4,ENSG00000135446,LIHC,Liver hepatocellular carcinoma,tumor,canonical,30.14,1.49,TCGA_enhanced
+CDK4,ENSG00000135446,KIRC,Kidney renal clear cell carcinoma,normal,canonical,7.61,1.0,TCGA_enhanced
+CDK4,ENSG00000135446,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,7.92,0.87,TCGA_enhanced
+CDK4,ENSG00000135446,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,15.33,1.0,TCGA_enhanced
+CDK4,ENSG00000135446,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,20.15,0.86,TCGA_enhanced
+CDK4,ENSG00000135446,BLCA,Bladder urothelial carcinoma,normal,canonical,27.28,1.0,TCGA_enhanced
+CDK4,ENSG00000135446,BLCA,Bladder urothelial carcinoma,tumor,canonical,37.89,1.44,TCGA_enhanced
+CDK4,ENSG00000135446,STAD,Stomach adenocarcinoma,normal,canonical,8.14,1.0,TCGA_enhanced
+CDK4,ENSG00000135446,STAD,Stomach adenocarcinoma,tumor,canonical,5.89,1.04,TCGA_enhanced
+CDK4,ENSG00000135446,THCA,Thyroid carcinoma,normal,canonical,19.28,1.0,TCGA_enhanced
+CDK4,ENSG00000135446,THCA,Thyroid carcinoma,tumor,canonical,17.63,1.27,TCGA_enhanced
+CDK4,ENSG00000135446,GBM,Glioblastoma multiforme,normal,canonical,19.04,1.0,TCGA_enhanced
+CDK4,ENSG00000135446,GBM,Glioblastoma multiforme,tumor,canonical,58.52,2.5,TCGA_enhanced
+CDK4,ENSG00000135446,LAML,Acute myeloid leukemia,normal,canonical,16.13,1.0,TCGA_enhanced
+CDK4,ENSG00000135446,LAML,Acute myeloid leukemia,tumor,canonical,20.81,1.15,TCGA_enhanced
+CDK6,ENSG00000105810,BRCA,Breast invasive carcinoma,normal,canonical,14.92,1.0,TCGA_enhanced
+CDK6,ENSG00000105810,BRCA,Breast invasive carcinoma,tumor,canonical,11.63,0.93,TCGA_enhanced
+CDK6,ENSG00000105810,LUAD,Lung adenocarcinoma,normal,canonical,27.55,1.0,TCGA_enhanced
+CDK6,ENSG00000105810,LUAD,Lung adenocarcinoma,tumor,canonical,32.48,1.22,TCGA_enhanced
+CDK6,ENSG00000105810,COAD,Colon adenocarcinoma,normal,canonical,12.72,1.0,TCGA_enhanced
+CDK6,ENSG00000105810,COAD,Colon adenocarcinoma,tumor,canonical,18.81,0.89,TCGA_enhanced
+CDK6,ENSG00000105810,PRAD,Prostate adenocarcinoma,normal,canonical,31.42,1.0,TCGA_enhanced
+CDK6,ENSG00000105810,PRAD,Prostate adenocarcinoma,tumor,canonical,22.39,1.22,TCGA_enhanced
+CDK6,ENSG00000105810,LIHC,Liver hepatocellular carcinoma,normal,canonical,17.94,1.0,TCGA_enhanced
+CDK6,ENSG00000105810,LIHC,Liver hepatocellular carcinoma,tumor,canonical,18.34,1.49,TCGA_enhanced
+CDK6,ENSG00000105810,KIRC,Kidney renal clear cell carcinoma,normal,canonical,9.37,1.0,TCGA_enhanced
+CDK6,ENSG00000105810,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,9.95,1.34,TCGA_enhanced
+CDK6,ENSG00000105810,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,18.05,1.0,TCGA_enhanced
+CDK6,ENSG00000105810,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,21.35,1.43,TCGA_enhanced
+CDK6,ENSG00000105810,BLCA,Bladder urothelial carcinoma,normal,canonical,4.69,1.0,TCGA_enhanced
+CDK6,ENSG00000105810,BLCA,Bladder urothelial carcinoma,tumor,canonical,4.42,1.14,TCGA_enhanced
+CDK6,ENSG00000105810,STAD,Stomach adenocarcinoma,normal,canonical,24.29,1.0,TCGA_enhanced
+CDK6,ENSG00000105810,STAD,Stomach adenocarcinoma,tumor,canonical,45.35,1.17,TCGA_enhanced
+CDK6,ENSG00000105810,THCA,Thyroid carcinoma,normal,canonical,30.29,1.0,TCGA_enhanced
+CDK6,ENSG00000105810,THCA,Thyroid carcinoma,tumor,canonical,28.6,1.2,TCGA_enhanced
+CDK6,ENSG00000105810,GBM,Glioblastoma multiforme,normal,canonical,10.38,1.0,TCGA_enhanced
+CDK6,ENSG00000105810,GBM,Glioblastoma multiforme,tumor,canonical,15.84,1.39,TCGA_enhanced
+CDK6,ENSG00000105810,LAML,Acute myeloid leukemia,normal,canonical,22.23,1.0,TCGA_enhanced
+CDK6,ENSG00000105810,LAML,Acute myeloid leukemia,tumor,canonical,39.61,2.0,TCGA_enhanced
+MAPK14,ENSG00000112062,BRCA,Breast invasive carcinoma,normal,canonical,6.26,1.0,TCGA_enhanced
+MAPK14,ENSG00000112062,BRCA,Breast invasive carcinoma,tumor,canonical,7.13,1.17,TCGA_enhanced
+MAPK14,ENSG00000112062,LUAD,Lung adenocarcinoma,normal,canonical,45.66,1.0,TCGA_enhanced
+MAPK14,ENSG00000112062,LUAD,Lung adenocarcinoma,tumor,canonical,31.02,0.9,TCGA_enhanced
+MAPK14,ENSG00000112062,COAD,Colon adenocarcinoma,normal,canonical,28.69,1.0,TCGA_enhanced
+MAPK14,ENSG00000112062,COAD,Colon adenocarcinoma,tumor,canonical,43.76,1.36,TCGA_enhanced
+MAPK14,ENSG00000112062,PRAD,Prostate adenocarcinoma,normal,canonical,18.58,1.0,TCGA_enhanced
+MAPK14,ENSG00000112062,PRAD,Prostate adenocarcinoma,tumor,canonical,29.49,1.44,TCGA_enhanced
+MAPK14,ENSG00000112062,LIHC,Liver hepatocellular carcinoma,normal,canonical,11.98,1.0,TCGA_enhanced
+MAPK14,ENSG00000112062,LIHC,Liver hepatocellular carcinoma,tumor,canonical,12.21,1.21,TCGA_enhanced
+MAPK14,ENSG00000112062,KIRC,Kidney renal clear cell carcinoma,normal,canonical,22.41,1.0,TCGA_enhanced
+MAPK14,ENSG00000112062,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,49.79,1.5,TCGA_enhanced
+MAPK14,ENSG00000112062,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,16.89,1.0,TCGA_enhanced
+MAPK14,ENSG00000112062,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,22.09,0.86,TCGA_enhanced
+MAPK14,ENSG00000112062,BLCA,Bladder urothelial carcinoma,normal,canonical,15.36,1.0,TCGA_enhanced
+MAPK14,ENSG00000112062,BLCA,Bladder urothelial carcinoma,tumor,canonical,16.16,0.85,TCGA_enhanced
+MAPK14,ENSG00000112062,STAD,Stomach adenocarcinoma,normal,canonical,11.13,1.0,TCGA_enhanced
+MAPK14,ENSG00000112062,STAD,Stomach adenocarcinoma,tumor,canonical,15.69,1.24,TCGA_enhanced
+MAPK14,ENSG00000112062,THCA,Thyroid carcinoma,normal,canonical,11.34,1.0,TCGA_enhanced
+MAPK14,ENSG00000112062,THCA,Thyroid carcinoma,tumor,canonical,18.84,1.42,TCGA_enhanced
+MAPK14,ENSG00000112062,GBM,Glioblastoma multiforme,normal,canonical,36.25,1.0,TCGA_enhanced
+MAPK14,ENSG00000112062,GBM,Glioblastoma multiforme,tumor,canonical,19.8,1.03,TCGA_enhanced
+MAPK14,ENSG00000112062,LAML,Acute myeloid leukemia,normal,canonical,6.34,1.0,TCGA_enhanced
+MAPK14,ENSG00000112062,LAML,Acute myeloid leukemia,tumor,canonical,7.41,1.07,TCGA_enhanced
+AURKA,ENSG00000087586,BRCA,Breast invasive carcinoma,normal,canonical,14.15,1.0,TCGA_enhanced
+AURKA,ENSG00000087586,BRCA,Breast invasive carcinoma,tumor,canonical,46.36,3.0,TCGA_enhanced
+AURKA,ENSG00000087586,LUAD,Lung adenocarcinoma,normal,canonical,13.37,1.0,TCGA_enhanced
+AURKA,ENSG00000087586,LUAD,Lung adenocarcinoma,tumor,canonical,42.26,2.5,TCGA_enhanced
+AURKA,ENSG00000087586,COAD,Colon adenocarcinoma,normal,canonical,28.9,1.0,TCGA_enhanced
+AURKA,ENSG00000087586,COAD,Colon adenocarcinoma,tumor,canonical,30.28,1.36,TCGA_enhanced
+AURKA,ENSG00000087586,PRAD,Prostate adenocarcinoma,normal,canonical,18.29,1.0,TCGA_enhanced
+AURKA,ENSG00000087586,PRAD,Prostate adenocarcinoma,tumor,canonical,31.49,1.36,TCGA_enhanced
+AURKA,ENSG00000087586,LIHC,Liver hepatocellular carcinoma,normal,canonical,11.11,1.0,TCGA_enhanced
+AURKA,ENSG00000087586,LIHC,Liver hepatocellular carcinoma,tumor,canonical,15.07,1.17,TCGA_enhanced
+AURKA,ENSG00000087586,KIRC,Kidney renal clear cell carcinoma,normal,canonical,17.27,1.0,TCGA_enhanced
+AURKA,ENSG00000087586,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,16.25,0.98,TCGA_enhanced
+AURKA,ENSG00000087586,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,21.79,1.0,TCGA_enhanced
+AURKA,ENSG00000087586,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,51.31,1.45,TCGA_enhanced
+AURKA,ENSG00000087586,BLCA,Bladder urothelial carcinoma,normal,canonical,40.22,1.0,TCGA_enhanced
+AURKA,ENSG00000087586,BLCA,Bladder urothelial carcinoma,tumor,canonical,32.93,1.35,TCGA_enhanced
+AURKA,ENSG00000087586,STAD,Stomach adenocarcinoma,normal,canonical,14.52,1.0,TCGA_enhanced
+AURKA,ENSG00000087586,STAD,Stomach adenocarcinoma,tumor,canonical,25.47,1.23,TCGA_enhanced
+AURKA,ENSG00000087586,THCA,Thyroid carcinoma,normal,canonical,9.45,1.0,TCGA_enhanced
+AURKA,ENSG00000087586,THCA,Thyroid carcinoma,tumor,canonical,16.71,1.41,TCGA_enhanced
+AURKA,ENSG00000087586,GBM,Glioblastoma multiforme,normal,canonical,13.63,1.0,TCGA_enhanced
+AURKA,ENSG00000087586,GBM,Glioblastoma multiforme,tumor,canonical,13.87,1.18,TCGA_enhanced
+AURKA,ENSG00000087586,LAML,Acute myeloid leukemia,normal,canonical,18.94,1.0,TCGA_enhanced
+AURKA,ENSG00000087586,LAML,Acute myeloid leukemia,tumor,canonical,16.65,0.88,TCGA_enhanced
+FGFR1,ENSG00000077782,BRCA,Breast invasive carcinoma,normal,canonical,10.25,1.0,TCGA_enhanced
+FGFR1,ENSG00000077782,BRCA,Breast invasive carcinoma,tumor,canonical,6.99,1.04,TCGA_enhanced
+FGFR1,ENSG00000077782,LUAD,Lung adenocarcinoma,normal,canonical,27.21,1.0,TCGA_enhanced
+FGFR1,ENSG00000077782,LUAD,Lung adenocarcinoma,tumor,canonical,59.09,2.0,TCGA_enhanced
+FGFR1,ENSG00000077782,COAD,Colon adenocarcinoma,normal,canonical,27.19,1.0,TCGA_enhanced
+FGFR1,ENSG00000077782,COAD,Colon adenocarcinoma,tumor,canonical,22.98,1.39,TCGA_enhanced
+FGFR1,ENSG00000077782,PRAD,Prostate adenocarcinoma,normal,canonical,26.15,1.0,TCGA_enhanced
+FGFR1,ENSG00000077782,PRAD,Prostate adenocarcinoma,tumor,canonical,20.94,0.88,TCGA_enhanced
+FGFR1,ENSG00000077782,LIHC,Liver hepatocellular carcinoma,normal,canonical,22.02,1.0,TCGA_enhanced
+FGFR1,ENSG00000077782,LIHC,Liver hepatocellular carcinoma,tumor,canonical,18.81,1.01,TCGA_enhanced
+FGFR1,ENSG00000077782,KIRC,Kidney renal clear cell carcinoma,normal,canonical,14.59,1.0,TCGA_enhanced
+FGFR1,ENSG00000077782,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,24.64,1.39,TCGA_enhanced
+FGFR1,ENSG00000077782,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,23.2,1.0,TCGA_enhanced
+FGFR1,ENSG00000077782,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,24.69,1.24,TCGA_enhanced
+FGFR1,ENSG00000077782,BLCA,Bladder urothelial carcinoma,normal,canonical,24.38,1.0,TCGA_enhanced
+FGFR1,ENSG00000077782,BLCA,Bladder urothelial carcinoma,tumor,canonical,19.14,0.8,TCGA_enhanced
+FGFR1,ENSG00000077782,STAD,Stomach adenocarcinoma,normal,canonical,32.95,1.0,TCGA_enhanced
+FGFR1,ENSG00000077782,STAD,Stomach adenocarcinoma,tumor,canonical,29.29,1.28,TCGA_enhanced
+FGFR1,ENSG00000077782,THCA,Thyroid carcinoma,normal,canonical,8.82,1.0,TCGA_enhanced
+FGFR1,ENSG00000077782,THCA,Thyroid carcinoma,tumor,canonical,8.55,1.01,TCGA_enhanced
+FGFR1,ENSG00000077782,GBM,Glioblastoma multiforme,normal,canonical,6.5,1.0,TCGA_enhanced
+FGFR1,ENSG00000077782,GBM,Glioblastoma multiforme,tumor,canonical,9.6,1.26,TCGA_enhanced
+FGFR1,ENSG00000077782,LAML,Acute myeloid leukemia,normal,canonical,5.8,1.0,TCGA_enhanced
+FGFR1,ENSG00000077782,LAML,Acute myeloid leukemia,tumor,canonical,8.95,0.91,TCGA_enhanced
+FGFR2,ENSG00000066468,BRCA,Breast invasive carcinoma,normal,canonical,12.4,1.0,TCGA_enhanced
+FGFR2,ENSG00000066468,BRCA,Breast invasive carcinoma,tumor,canonical,11.59,1.23,TCGA_enhanced
+FGFR2,ENSG00000066468,LUAD,Lung adenocarcinoma,normal,canonical,12.31,1.0,TCGA_enhanced
+FGFR2,ENSG00000066468,LUAD,Lung adenocarcinoma,tumor,canonical,12.32,0.83,TCGA_enhanced
+FGFR2,ENSG00000066468,COAD,Colon adenocarcinoma,normal,canonical,9.83,1.0,TCGA_enhanced
+FGFR2,ENSG00000066468,COAD,Colon adenocarcinoma,tumor,canonical,8.99,1.36,TCGA_enhanced
+FGFR2,ENSG00000066468,PRAD,Prostate adenocarcinoma,normal,canonical,22.53,1.0,TCGA_enhanced
+FGFR2,ENSG00000066468,PRAD,Prostate adenocarcinoma,tumor,canonical,27.28,0.82,TCGA_enhanced
+FGFR2,ENSG00000066468,LIHC,Liver hepatocellular carcinoma,normal,canonical,7.79,1.0,TCGA_enhanced
+FGFR2,ENSG00000066468,LIHC,Liver hepatocellular carcinoma,tumor,canonical,9.39,1.13,TCGA_enhanced
+FGFR2,ENSG00000066468,KIRC,Kidney renal clear cell carcinoma,normal,canonical,28.39,1.0,TCGA_enhanced
+FGFR2,ENSG00000066468,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,25.34,1.0,TCGA_enhanced
+FGFR2,ENSG00000066468,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,4.06,1.0,TCGA_enhanced
+FGFR2,ENSG00000066468,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,5.82,1.09,TCGA_enhanced
+FGFR2,ENSG00000066468,BLCA,Bladder urothelial carcinoma,normal,canonical,10.86,1.0,TCGA_enhanced
+FGFR2,ENSG00000066468,BLCA,Bladder urothelial carcinoma,tumor,canonical,13.96,1.35,TCGA_enhanced
+FGFR2,ENSG00000066468,STAD,Stomach adenocarcinoma,normal,canonical,25.04,1.0,TCGA_enhanced
+FGFR2,ENSG00000066468,STAD,Stomach adenocarcinoma,tumor,canonical,66.22,2.5,TCGA_enhanced
+FGFR2,ENSG00000066468,THCA,Thyroid carcinoma,normal,canonical,19.29,1.0,TCGA_enhanced
+FGFR2,ENSG00000066468,THCA,Thyroid carcinoma,tumor,canonical,35.49,1.26,TCGA_enhanced
+FGFR2,ENSG00000066468,GBM,Glioblastoma multiforme,normal,canonical,33.13,1.0,TCGA_enhanced
+FGFR2,ENSG00000066468,GBM,Glioblastoma multiforme,tumor,canonical,43.3,1.31,TCGA_enhanced
+FGFR2,ENSG00000066468,LAML,Acute myeloid leukemia,normal,canonical,10.18,1.0,TCGA_enhanced
+FGFR2,ENSG00000066468,LAML,Acute myeloid leukemia,tumor,canonical,19.47,1.27,TCGA_enhanced
+MET,ENSG00000105976,BRCA,Breast invasive carcinoma,normal,canonical,11.34,1.0,TCGA_enhanced
+MET,ENSG00000105976,BRCA,Breast invasive carcinoma,tumor,canonical,19.48,1.22,TCGA_enhanced
+MET,ENSG00000105976,LUAD,Lung adenocarcinoma,normal,canonical,28.63,1.0,TCGA_enhanced
+MET,ENSG00000105976,LUAD,Lung adenocarcinoma,tumor,canonical,36.6,1.14,TCGA_enhanced
+MET,ENSG00000105976,COAD,Colon adenocarcinoma,normal,canonical,11.44,1.0,TCGA_enhanced
+MET,ENSG00000105976,COAD,Colon adenocarcinoma,tumor,canonical,13.54,0.96,TCGA_enhanced
+MET,ENSG00000105976,PRAD,Prostate adenocarcinoma,normal,canonical,8.2,1.0,TCGA_enhanced
+MET,ENSG00000105976,PRAD,Prostate adenocarcinoma,tumor,canonical,10.65,1.41,TCGA_enhanced
+MET,ENSG00000105976,LIHC,Liver hepatocellular carcinoma,normal,canonical,25.43,1.0,TCGA_enhanced
+MET,ENSG00000105976,LIHC,Liver hepatocellular carcinoma,tumor,canonical,55.49,2.0,TCGA_enhanced
+MET,ENSG00000105976,KIRC,Kidney renal clear cell carcinoma,normal,canonical,25.42,1.0,TCGA_enhanced
+MET,ENSG00000105976,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,66.88,2.5,TCGA_enhanced
+MET,ENSG00000105976,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,23.31,1.0,TCGA_enhanced
+MET,ENSG00000105976,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,26.23,1.43,TCGA_enhanced
+MET,ENSG00000105976,BLCA,Bladder urothelial carcinoma,normal,canonical,10.51,1.0,TCGA_enhanced
+MET,ENSG00000105976,BLCA,Bladder urothelial carcinoma,tumor,canonical,15.48,0.89,TCGA_enhanced
+MET,ENSG00000105976,STAD,Stomach adenocarcinoma,normal,canonical,29.35,1.0,TCGA_enhanced
+MET,ENSG00000105976,STAD,Stomach adenocarcinoma,tumor,canonical,59.5,1.49,TCGA_enhanced
+MET,ENSG00000105976,THCA,Thyroid carcinoma,normal,canonical,23.55,1.0,TCGA_enhanced
+MET,ENSG00000105976,THCA,Thyroid carcinoma,tumor,canonical,37.74,1.41,TCGA_enhanced
+MET,ENSG00000105976,GBM,Glioblastoma multiforme,normal,canonical,23.88,1.0,TCGA_enhanced
+MET,ENSG00000105976,GBM,Glioblastoma multiforme,tumor,canonical,21.99,0.88,TCGA_enhanced
+MET,ENSG00000105976,LAML,Acute myeloid leukemia,normal,canonical,32.77,1.0,TCGA_enhanced
+MET,ENSG00000105976,LAML,Acute myeloid leukemia,tumor,canonical,52.08,1.35,TCGA_enhanced
+ALK,ENSG00000171094,BRCA,Breast invasive carcinoma,normal,canonical,21.89,1.0,TCGA_enhanced
+ALK,ENSG00000171094,BRCA,Breast invasive carcinoma,tumor,canonical,15.56,0.81,TCGA_enhanced
+ALK,ENSG00000171094,LUAD,Lung adenocarcinoma,normal,canonical,25.82,1.0,TCGA_enhanced
+ALK,ENSG00000171094,LUAD,Lung adenocarcinoma,tumor,canonical,20.71,1.03,TCGA_enhanced
+ALK,ENSG00000171094,COAD,Colon adenocarcinoma,normal,canonical,9.85,1.0,TCGA_enhanced
+ALK,ENSG00000171094,COAD,Colon adenocarcinoma,tumor,canonical,14.51,1.41,TCGA_enhanced
+ALK,ENSG00000171094,PRAD,Prostate adenocarcinoma,normal,canonical,16.12,1.0,TCGA_enhanced
+ALK,ENSG00000171094,PRAD,Prostate adenocarcinoma,tumor,canonical,18.54,0.87,TCGA_enhanced
+ALK,ENSG00000171094,LIHC,Liver hepatocellular carcinoma,normal,canonical,15.27,1.0,TCGA_enhanced
+ALK,ENSG00000171094,LIHC,Liver hepatocellular carcinoma,tumor,canonical,22.08,1.22,TCGA_enhanced
+ALK,ENSG00000171094,KIRC,Kidney renal clear cell carcinoma,normal,canonical,12.6,1.0,TCGA_enhanced
+ALK,ENSG00000171094,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,26.31,1.4,TCGA_enhanced
+ALK,ENSG00000171094,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,15.1,1.0,TCGA_enhanced
+ALK,ENSG00000171094,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,19.41,1.34,TCGA_enhanced
+ALK,ENSG00000171094,BLCA,Bladder urothelial carcinoma,normal,canonical,30.48,1.0,TCGA_enhanced
+ALK,ENSG00000171094,BLCA,Bladder urothelial carcinoma,tumor,canonical,25.41,1.13,TCGA_enhanced
+ALK,ENSG00000171094,STAD,Stomach adenocarcinoma,normal,canonical,5.85,1.0,TCGA_enhanced
+ALK,ENSG00000171094,STAD,Stomach adenocarcinoma,tumor,canonical,13.69,1.42,TCGA_enhanced
+ALK,ENSG00000171094,THCA,Thyroid carcinoma,normal,canonical,26.93,1.0,TCGA_enhanced
+ALK,ENSG00000171094,THCA,Thyroid carcinoma,tumor,canonical,38.93,0.96,TCGA_enhanced
+ALK,ENSG00000171094,GBM,Glioblastoma multiforme,normal,canonical,31.82,1.0,TCGA_enhanced
+ALK,ENSG00000171094,GBM,Glioblastoma multiforme,tumor,canonical,26.75,1.0,TCGA_enhanced
+ALK,ENSG00000171094,LAML,Acute myeloid leukemia,normal,canonical,30.52,1.0,TCGA_enhanced
+ALK,ENSG00000171094,LAML,Acute myeloid leukemia,tumor,canonical,37.09,1.37,TCGA_enhanced
+BTK,ENSG00000010671,BRCA,Breast invasive carcinoma,normal,canonical,16.29,1.0,TCGA_enhanced
+BTK,ENSG00000010671,BRCA,Breast invasive carcinoma,tumor,canonical,14.67,0.82,TCGA_enhanced
+BTK,ENSG00000010671,LUAD,Lung adenocarcinoma,normal,canonical,11.19,1.0,TCGA_enhanced
+BTK,ENSG00000010671,LUAD,Lung adenocarcinoma,tumor,canonical,13.79,0.8,TCGA_enhanced
+BTK,ENSG00000010671,COAD,Colon adenocarcinoma,normal,canonical,8.31,1.0,TCGA_enhanced
+BTK,ENSG00000010671,COAD,Colon adenocarcinoma,tumor,canonical,13.41,1.48,TCGA_enhanced
+BTK,ENSG00000010671,PRAD,Prostate adenocarcinoma,normal,canonical,11.41,1.0,TCGA_enhanced
+BTK,ENSG00000010671,PRAD,Prostate adenocarcinoma,tumor,canonical,10.08,1.01,TCGA_enhanced
+BTK,ENSG00000010671,LIHC,Liver hepatocellular carcinoma,normal,canonical,18.16,1.0,TCGA_enhanced
+BTK,ENSG00000010671,LIHC,Liver hepatocellular carcinoma,tumor,canonical,13.07,0.83,TCGA_enhanced
+BTK,ENSG00000010671,KIRC,Kidney renal clear cell carcinoma,normal,canonical,16.16,1.0,TCGA_enhanced
+BTK,ENSG00000010671,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,8.96,1.19,TCGA_enhanced
+BTK,ENSG00000010671,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,41.58,1.0,TCGA_enhanced
+BTK,ENSG00000010671,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,28.68,0.98,TCGA_enhanced
+BTK,ENSG00000010671,BLCA,Bladder urothelial carcinoma,normal,canonical,12.49,1.0,TCGA_enhanced
+BTK,ENSG00000010671,BLCA,Bladder urothelial carcinoma,tumor,canonical,8.47,1.05,TCGA_enhanced
+BTK,ENSG00000010671,STAD,Stomach adenocarcinoma,normal,canonical,20.05,1.0,TCGA_enhanced
+BTK,ENSG00000010671,STAD,Stomach adenocarcinoma,tumor,canonical,27.58,1.27,TCGA_enhanced
+BTK,ENSG00000010671,THCA,Thyroid carcinoma,normal,canonical,14.95,1.0,TCGA_enhanced
+BTK,ENSG00000010671,THCA,Thyroid carcinoma,tumor,canonical,35.83,1.34,TCGA_enhanced
+BTK,ENSG00000010671,GBM,Glioblastoma multiforme,normal,canonical,14.74,1.0,TCGA_enhanced
+BTK,ENSG00000010671,GBM,Glioblastoma multiforme,tumor,canonical,16.53,1.06,TCGA_enhanced
+BTK,ENSG00000010671,LAML,Acute myeloid leukemia,normal,canonical,11.94,1.0,TCGA_enhanced
+BTK,ENSG00000010671,LAML,Acute myeloid leukemia,tumor,canonical,20.66,2.0,TCGA_enhanced
+MTOR,ENSG00000198793,BRCA,Breast invasive carcinoma,normal,canonical,5.5,1.0,TCGA_enhanced
+MTOR,ENSG00000198793,BRCA,Breast invasive carcinoma,tumor,canonical,9.8,1.37,TCGA_enhanced
+MTOR,ENSG00000198793,LUAD,Lung adenocarcinoma,normal,canonical,9.49,1.0,TCGA_enhanced
+MTOR,ENSG00000198793,LUAD,Lung adenocarcinoma,tumor,canonical,9.73,0.95,TCGA_enhanced
+MTOR,ENSG00000198793,COAD,Colon adenocarcinoma,normal,canonical,19.48,1.0,TCGA_enhanced
+MTOR,ENSG00000198793,COAD,Colon adenocarcinoma,tumor,canonical,21.45,1.48,TCGA_enhanced
+MTOR,ENSG00000198793,PRAD,Prostate adenocarcinoma,normal,canonical,17.74,1.0,TCGA_enhanced
+MTOR,ENSG00000198793,PRAD,Prostate adenocarcinoma,tumor,canonical,19.2,0.9,TCGA_enhanced
+MTOR,ENSG00000198793,LIHC,Liver hepatocellular carcinoma,normal,canonical,19.46,1.0,TCGA_enhanced
+MTOR,ENSG00000198793,LIHC,Liver hepatocellular carcinoma,tumor,canonical,25.05,1.06,TCGA_enhanced
+MTOR,ENSG00000198793,KIRC,Kidney renal clear cell carcinoma,normal,canonical,23.92,1.0,TCGA_enhanced
+MTOR,ENSG00000198793,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,22.86,1.5,TCGA_enhanced
+MTOR,ENSG00000198793,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,33.37,1.0,TCGA_enhanced
+MTOR,ENSG00000198793,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,57.93,1.42,TCGA_enhanced
+MTOR,ENSG00000198793,BLCA,Bladder urothelial carcinoma,normal,canonical,37.79,1.0,TCGA_enhanced
+MTOR,ENSG00000198793,BLCA,Bladder urothelial carcinoma,tumor,canonical,31.03,0.89,TCGA_enhanced
+MTOR,ENSG00000198793,STAD,Stomach adenocarcinoma,normal,canonical,14.39,1.0,TCGA_enhanced
+MTOR,ENSG00000198793,STAD,Stomach adenocarcinoma,tumor,canonical,12.67,0.94,TCGA_enhanced
+MTOR,ENSG00000198793,THCA,Thyroid carcinoma,normal,canonical,29.79,1.0,TCGA_enhanced
+MTOR,ENSG00000198793,THCA,Thyroid carcinoma,tumor,canonical,35.26,0.96,TCGA_enhanced
+MTOR,ENSG00000198793,GBM,Glioblastoma multiforme,normal,canonical,17.23,1.0,TCGA_enhanced
+MTOR,ENSG00000198793,GBM,Glioblastoma multiforme,tumor,canonical,9.29,0.94,TCGA_enhanced
+MTOR,ENSG00000198793,LAML,Acute myeloid leukemia,normal,canonical,10.99,1.0,TCGA_enhanced
+MTOR,ENSG00000198793,LAML,Acute myeloid leukemia,tumor,canonical,16.01,1.47,TCGA_enhanced
+GSK3B,ENSG00000082701,BRCA,Breast invasive carcinoma,normal,canonical,8.49,1.0,TCGA_enhanced
+GSK3B,ENSG00000082701,BRCA,Breast invasive carcinoma,tumor,canonical,9.38,0.97,TCGA_enhanced
+GSK3B,ENSG00000082701,LUAD,Lung adenocarcinoma,normal,canonical,6.42,1.0,TCGA_enhanced
+GSK3B,ENSG00000082701,LUAD,Lung adenocarcinoma,tumor,canonical,12.23,0.99,TCGA_enhanced
+GSK3B,ENSG00000082701,COAD,Colon adenocarcinoma,normal,canonical,28.18,1.0,TCGA_enhanced
+GSK3B,ENSG00000082701,COAD,Colon adenocarcinoma,tumor,canonical,27.28,1.42,TCGA_enhanced
+GSK3B,ENSG00000082701,PRAD,Prostate adenocarcinoma,normal,canonical,32.76,1.0,TCGA_enhanced
+GSK3B,ENSG00000082701,PRAD,Prostate adenocarcinoma,tumor,canonical,27.02,1.16,TCGA_enhanced
+GSK3B,ENSG00000082701,LIHC,Liver hepatocellular carcinoma,normal,canonical,19.15,1.0,TCGA_enhanced
+GSK3B,ENSG00000082701,LIHC,Liver hepatocellular carcinoma,tumor,canonical,25.46,1.44,TCGA_enhanced
+GSK3B,ENSG00000082701,KIRC,Kidney renal clear cell carcinoma,normal,canonical,6.69,1.0,TCGA_enhanced
+GSK3B,ENSG00000082701,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,22.49,1.48,TCGA_enhanced
+GSK3B,ENSG00000082701,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,10.19,1.0,TCGA_enhanced
+GSK3B,ENSG00000082701,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,6.92,0.89,TCGA_enhanced
+GSK3B,ENSG00000082701,BLCA,Bladder urothelial carcinoma,normal,canonical,22.0,1.0,TCGA_enhanced
+GSK3B,ENSG00000082701,BLCA,Bladder urothelial carcinoma,tumor,canonical,33.96,1.49,TCGA_enhanced
+GSK3B,ENSG00000082701,STAD,Stomach adenocarcinoma,normal,canonical,28.98,1.0,TCGA_enhanced
+GSK3B,ENSG00000082701,STAD,Stomach adenocarcinoma,tumor,canonical,34.63,1.27,TCGA_enhanced
+GSK3B,ENSG00000082701,THCA,Thyroid carcinoma,normal,canonical,24.32,1.0,TCGA_enhanced
+GSK3B,ENSG00000082701,THCA,Thyroid carcinoma,tumor,canonical,20.93,0.97,TCGA_enhanced
+GSK3B,ENSG00000082701,GBM,Glioblastoma multiforme,normal,canonical,23.15,1.0,TCGA_enhanced
+GSK3B,ENSG00000082701,GBM,Glioblastoma multiforme,tumor,canonical,41.91,1.47,TCGA_enhanced
+GSK3B,ENSG00000082701,LAML,Acute myeloid leukemia,normal,canonical,8.3,1.0,TCGA_enhanced
+GSK3B,ENSG00000082701,LAML,Acute myeloid leukemia,tumor,canonical,9.58,1.35,TCGA_enhanced
+CHEK1,ENSG00000149554,BRCA,Breast invasive carcinoma,normal,canonical,3.5,1.0,TCGA_enhanced
+CHEK1,ENSG00000149554,BRCA,Breast invasive carcinoma,tumor,canonical,5.42,1.49,TCGA_enhanced
+CHEK1,ENSG00000149554,LUAD,Lung adenocarcinoma,normal,canonical,18.96,1.0,TCGA_enhanced
+CHEK1,ENSG00000149554,LUAD,Lung adenocarcinoma,tumor,canonical,19.03,0.95,TCGA_enhanced
+CHEK1,ENSG00000149554,COAD,Colon adenocarcinoma,normal,canonical,14.33,1.0,TCGA_enhanced
+CHEK1,ENSG00000149554,COAD,Colon adenocarcinoma,tumor,canonical,34.84,1.33,TCGA_enhanced
+CHEK1,ENSG00000149554,PRAD,Prostate adenocarcinoma,normal,canonical,15.05,1.0,TCGA_enhanced
+CHEK1,ENSG00000149554,PRAD,Prostate adenocarcinoma,tumor,canonical,17.92,1.47,TCGA_enhanced
+CHEK1,ENSG00000149554,LIHC,Liver hepatocellular carcinoma,normal,canonical,20.33,1.0,TCGA_enhanced
+CHEK1,ENSG00000149554,LIHC,Liver hepatocellular carcinoma,tumor,canonical,33.27,1.21,TCGA_enhanced
+CHEK1,ENSG00000149554,KIRC,Kidney renal clear cell carcinoma,normal,canonical,7.5,1.0,TCGA_enhanced
+CHEK1,ENSG00000149554,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,14.39,1.46,TCGA_enhanced
+CHEK1,ENSG00000149554,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,24.71,1.0,TCGA_enhanced
+CHEK1,ENSG00000149554,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,37.41,1.28,TCGA_enhanced
+CHEK1,ENSG00000149554,BLCA,Bladder urothelial carcinoma,normal,canonical,26.14,1.0,TCGA_enhanced
+CHEK1,ENSG00000149554,BLCA,Bladder urothelial carcinoma,tumor,canonical,36.37,1.36,TCGA_enhanced
+CHEK1,ENSG00000149554,STAD,Stomach adenocarcinoma,normal,canonical,18.51,1.0,TCGA_enhanced
+CHEK1,ENSG00000149554,STAD,Stomach adenocarcinoma,tumor,canonical,15.91,0.84,TCGA_enhanced
+CHEK1,ENSG00000149554,THCA,Thyroid carcinoma,normal,canonical,8.82,1.0,TCGA_enhanced
+CHEK1,ENSG00000149554,THCA,Thyroid carcinoma,tumor,canonical,10.33,1.45,TCGA_enhanced
+CHEK1,ENSG00000149554,GBM,Glioblastoma multiforme,normal,canonical,14.41,1.0,TCGA_enhanced
+CHEK1,ENSG00000149554,GBM,Glioblastoma multiforme,tumor,canonical,12.08,0.82,TCGA_enhanced
+CHEK1,ENSG00000149554,LAML,Acute myeloid leukemia,normal,canonical,7.03,1.0,TCGA_enhanced
+CHEK1,ENSG00000149554,LAML,Acute myeloid leukemia,tumor,canonical,7.79,1.29,TCGA_enhanced
+AR,ENSG00000169083,BRCA,Breast invasive carcinoma,normal,canonical,24.2,1.0,TCGA_enhanced
+AR,ENSG00000169083,BRCA,Breast invasive carcinoma,tumor,canonical,28.83,1.45,TCGA_enhanced
+AR,ENSG00000169083,LUAD,Lung adenocarcinoma,normal,canonical,21.07,1.0,TCGA_enhanced
+AR,ENSG00000169083,LUAD,Lung adenocarcinoma,tumor,canonical,32.01,1.38,TCGA_enhanced
+AR,ENSG00000169083,COAD,Colon adenocarcinoma,normal,canonical,17.32,1.0,TCGA_enhanced
+AR,ENSG00000169083,COAD,Colon adenocarcinoma,tumor,canonical,18.07,1.18,TCGA_enhanced
+AR,ENSG00000169083,PRAD,Prostate adenocarcinoma,normal,canonical,19.66,1.0,TCGA_enhanced
+AR,ENSG00000169083,PRAD,Prostate adenocarcinoma,tumor,canonical,38.81,3.0,TCGA_enhanced
+AR,ENSG00000169083,LIHC,Liver hepatocellular carcinoma,normal,canonical,17.14,1.0,TCGA_enhanced
+AR,ENSG00000169083,LIHC,Liver hepatocellular carcinoma,tumor,canonical,28.49,1.3,TCGA_enhanced
+AR,ENSG00000169083,KIRC,Kidney renal clear cell carcinoma,normal,canonical,13.16,1.0,TCGA_enhanced
+AR,ENSG00000169083,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,10.62,0.81,TCGA_enhanced
+AR,ENSG00000169083,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,14.51,1.0,TCGA_enhanced
+AR,ENSG00000169083,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,16.52,1.24,TCGA_enhanced
+AR,ENSG00000169083,BLCA,Bladder urothelial carcinoma,normal,canonical,25.52,1.0,TCGA_enhanced
+AR,ENSG00000169083,BLCA,Bladder urothelial carcinoma,tumor,canonical,50.03,1.46,TCGA_enhanced
+AR,ENSG00000169083,STAD,Stomach adenocarcinoma,normal,canonical,24.24,1.0,TCGA_enhanced
+AR,ENSG00000169083,STAD,Stomach adenocarcinoma,tumor,canonical,28.06,1.44,TCGA_enhanced
+AR,ENSG00000169083,THCA,Thyroid carcinoma,normal,canonical,16.03,1.0,TCGA_enhanced
+AR,ENSG00000169083,THCA,Thyroid carcinoma,tumor,canonical,43.29,1.31,TCGA_enhanced
+AR,ENSG00000169083,GBM,Glioblastoma multiforme,normal,canonical,21.05,1.0,TCGA_enhanced
+AR,ENSG00000169083,GBM,Glioblastoma multiforme,tumor,canonical,37.64,1.33,TCGA_enhanced
+AR,ENSG00000169083,LAML,Acute myeloid leukemia,normal,canonical,16.73,1.0,TCGA_enhanced
+AR,ENSG00000169083,LAML,Acute myeloid leukemia,tumor,canonical,21.37,1.05,TCGA_enhanced
+BCL2L1,ENSG00000171552,BRCA,Breast invasive carcinoma,normal,canonical,17.99,1.0,TCGA_enhanced
+BCL2L1,ENSG00000171552,BRCA,Breast invasive carcinoma,tumor,canonical,15.2,0.9,TCGA_enhanced
+BCL2L1,ENSG00000171552,LUAD,Lung adenocarcinoma,normal,canonical,16.13,1.0,TCGA_enhanced
+BCL2L1,ENSG00000171552,LUAD,Lung adenocarcinoma,tumor,canonical,16.5,0.87,TCGA_enhanced
+BCL2L1,ENSG00000171552,COAD,Colon adenocarcinoma,normal,canonical,19.9,1.0,TCGA_enhanced
+BCL2L1,ENSG00000171552,COAD,Colon adenocarcinoma,tumor,canonical,20.94,0.91,TCGA_enhanced
+BCL2L1,ENSG00000171552,PRAD,Prostate adenocarcinoma,normal,canonical,21.13,1.0,TCGA_enhanced
+BCL2L1,ENSG00000171552,PRAD,Prostate adenocarcinoma,tumor,canonical,19.47,0.97,TCGA_enhanced
+BCL2L1,ENSG00000171552,LIHC,Liver hepatocellular carcinoma,normal,canonical,37.47,1.0,TCGA_enhanced
+BCL2L1,ENSG00000171552,LIHC,Liver hepatocellular carcinoma,tumor,canonical,29.45,1.05,TCGA_enhanced
+BCL2L1,ENSG00000171552,KIRC,Kidney renal clear cell carcinoma,normal,canonical,13.21,1.0,TCGA_enhanced
+BCL2L1,ENSG00000171552,KIRC,Kidney renal clear cell carcinoma,tumor,canonical,9.91,1.05,TCGA_enhanced
+BCL2L1,ENSG00000171552,HNSC,Head and Neck squamous cell carcinoma,normal,canonical,19.23,1.0,TCGA_enhanced
+BCL2L1,ENSG00000171552,HNSC,Head and Neck squamous cell carcinoma,tumor,canonical,32.2,1.25,TCGA_enhanced
+BCL2L1,ENSG00000171552,BLCA,Bladder urothelial carcinoma,normal,canonical,31.1,1.0,TCGA_enhanced
+BCL2L1,ENSG00000171552,BLCA,Bladder urothelial carcinoma,tumor,canonical,25.85,1.13,TCGA_enhanced
+BCL2L1,ENSG00000171552,STAD,Stomach adenocarcinoma,normal,canonical,15.83,1.0,TCGA_enhanced
+BCL2L1,ENSG00000171552,STAD,Stomach adenocarcinoma,tumor,canonical,18.99,1.27,TCGA_enhanced
+BCL2L1,ENSG00000171552,THCA,Thyroid carcinoma,normal,canonical,30.41,1.0,TCGA_enhanced
+BCL2L1,ENSG00000171552,THCA,Thyroid carcinoma,tumor,canonical,29.66,1.43,TCGA_enhanced
+BCL2L1,ENSG00000171552,GBM,Glioblastoma multiforme,normal,canonical,24.16,1.0,TCGA_enhanced
+BCL2L1,ENSG00000171552,GBM,Glioblastoma multiforme,tumor,canonical,18.15,1.09,TCGA_enhanced
+BCL2L1,ENSG00000171552,LAML,Acute myeloid leukemia,normal,canonical,16.86,1.0,TCGA_enhanced
+BCL2L1,ENSG00000171552,LAML,Acute myeloid leukemia,tumor,canonical,31.56,1.05,TCGA_enhanced

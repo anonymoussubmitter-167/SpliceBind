@@ -1,0 +1,246 @@
+{
+  "variant_analysis": [
+    {
+      "variant": "AR-V7",
+      "gene": "AR",
+      "drug": "Enzalutamide",
+      "clinical": "Resistant",
+      "mechanism": "LBD deletion - drug binding domain absent",
+      "canonical_p2rank": 18.39,
+      "n_pockets": 7
+    },
+    {
+      "variant": "PIK3CD-S",
+      "gene": "PIK3CD",
+      "drug": "Idelalisib",
+      "clinical": "Resistant",
+      "mechanism": "Alternative splicing affects kinase domain",
+      "canonical_p2rank": 12.98,
+      "n_pockets": 7
+    },
+    {
+      "variant": "MET-ex14skip",
+      "gene": "MET",
+      "drug": "Capmatinib",
+      "clinical": "Sensitive",
+      "mechanism": "Exon 14 skip (juxtamembrane) - kinase preserved",
+      "canonical_p2rank": 10.62,
+      "n_pockets": 6
+    },
+    {
+      "variant": "BRAF-p61",
+      "gene": "BRAF",
+      "drug": "Vemurafenib",
+      "clinical": "Resistant",
+      "mechanism": "Truncation causes dimerization - kinase identical",
+      "canonical_p2rank": 6.46,
+      "n_pockets": 2
+    },
+    {
+      "variant": "ALK-L1196M",
+      "gene": "ALK",
+      "drug": "Crizotinib",
+      "clinical": "Resistant",
+      "mechanism": "Gatekeeper mutation in ATP pocket",
+      "canonical_p2rank": 10.99,
+      "n_pockets": 6
+    }
+  ],
+  "perfold_comparison": {
+    "splicebind_aurocs": [
+      0.598095238095238,
+      0.6571428571428571,
+      0.82,
+      0.7198275862068966,
+      0.5294117647058824,
+      0.6247619047619047,
+      0.65,
+      0.795,
+      0.6767241379310345,
+      0.7156862745098039,
+      0.7295238095238095,
+      0.6309523809523809,
+      0.8700000000000001,
+      0.7564655172413793,
+      0.7671568627450981
+    ],
+    "p2rank_auroc": 0.6340309572104704,
+    "mean_delta": 0.06868559837728194,
+    "family_results": {
+      "JAK": [
+        {
+          "auroc": 0.598095238095238,
+          "seed": 0,
+          "fold": 0
+        },
+        {
+          "auroc": 0.6247619047619047,
+          "seed": 1,
+          "fold": 0
+        },
+        {
+          "auroc": 0.7295238095238095,
+          "seed": 2,
+          "fold": 0
+        }
+      ],
+      "RAF": [
+        {
+          "auroc": 0.6571428571428571,
+          "seed": 0,
+          "fold": 1
+        },
+        {
+          "auroc": 0.65,
+          "seed": 1,
+          "fold": 1
+        },
+        {
+          "auroc": 0.6309523809523809,
+          "seed": 2,
+          "fold": 1
+        }
+      ],
+      "AURK": [
+        {
+          "auroc": 0.82,
+          "seed": 0,
+          "fold": 2
+        },
+        {
+          "auroc": 0.795,
+          "seed": 1,
+          "fold": 2
+        },
+        {
+          "auroc": 0.8700000000000001,
+          "seed": 2,
+          "fold": 2
+        }
+      ],
+      "EGFR": [
+        {
+          "auroc": 0.7198275862068966,
+          "seed": 0,
+          "fold": 3
+        },
+        {
+          "auroc": 0.6767241379310345,
+          "seed": 1,
+          "fold": 3
+        },
+        {
+          "auroc": 0.7564655172413793,
+          "seed": 2,
+          "fold": 3
+        }
+      ],
+      "PIK3": [
+        {
+          "auroc": 0.5294117647058824,
+          "seed": 0,
+          "fold": 4
+        },
+        {
+          "auroc": 0.7156862745098039,
+          "seed": 1,
+          "fold": 4
+        },
+        {
+          "auroc": 0.7671568627450981,
+          "seed": 2,
+          "fold": 4
+        }
+      ]
+    }
+  },
+  "calibration": {
+    "ece": 0.2982966786974382,
+    "brier_score": 0.1563571565845962,
+    "calibration_bins": [
+      {
+        "bin": "(0.0, 0.1]",
+        "n_samples": 1,
+        "avg_confidence": 0.0664469450712204,
+        "avg_accuracy": 0.0,
+        "gap": 0.0664469450712204
+      },
+      {
+        "bin": "(0.1, 0.2]",
+        "n_samples": 4,
+        "avg_confidence": 0.12253970466554165,
+        "avg_accuracy": 0.0,
+        "gap": 0.12253970466554165
+      },
+      {
+        "bin": "(0.2, 0.3]",
+        "n_samples": 12,
+        "avg_confidence": 0.25869861617684364,
+        "avg_accuracy": 0.0,
+        "gap": 0.25869861617684364
+      },
+      {
+        "bin": "(0.3, 0.4]",
+        "n_samples": 35,
+        "avg_confidence": 0.3680683093411582,
+        "avg_accuracy": 0.0,
+        "gap": 0.3680683093411582
+      },
+      {
+        "bin": "(0.4, 0.5]",
+        "n_samples": 160,
+        "avg_confidence": 0.46527419369667766,
+        "avg_accuracy": 0.13125,
+        "gap": 0.3340241936966777
+      },
+      {
+        "bin": "(0.5, 0.6]",
+        "n_samples": 209,
+        "avg_confidence": 0.5437798759583651,
+        "avg_accuracy": 0.8660287081339713,
+        "gap": -0.3222488321756062
+      },
+      {
+        "bin": "(0.6, 0.7]",
+        "n_samples": 107,
+        "avg_confidence": 0.6516372461185277,
+        "avg_accuracy": 1.0,
+        "gap": -0.3483627538814723
+      },
+      {
+        "bin": "(0.7, 0.8]",
+        "n_samples": 82,
+        "avg_confidence": 0.741914177813181,
+        "avg_accuracy": 1.0,
+        "gap": -0.25808582218681897
+      },
+      {
+        "bin": "(0.8, 0.9]",
+        "n_samples": 45,
+        "avg_confidence": 0.8366736438539293,
+        "avg_accuracy": 1.0,
+        "gap": -0.16332635614607072
+      },
+      {
+        "bin": "(0.9, 1.0]",
+        "n_samples": 32,
+        "avg_confidence": 0.9435930233448744,
+        "avg_accuracy": 1.0,
+        "gap": -0.05640697665512562
+      }
+    ]
+  },
+  "predictions": {
+    "n_predictions": 687,
+    "mean": 0.5866734842611192,
+    "std": 0.1556528381960522,
+    "histogram": {
+      "[0.0, 0.2)": 5,
+      "[0.2, 0.4)": 47,
+      "[0.4, 0.5)": 160,
+      "[0.5, 0.6)": 209,
+      "[0.6, 0.8)": 189,
+      "[0.8, 1.0)": 77
+    }
+  }
+}

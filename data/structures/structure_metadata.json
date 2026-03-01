@@ -1,0 +1,290 @@
+{
+  "PIM1": {
+    "gene": "PIM1",
+    "family": "PIM",
+    "uniprot": "P49023",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-P49023-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 65.01370558375635,
+      "median_plddt": 64.5,
+      "min_plddt": 28.88,
+      "max_plddt": 96.75,
+      "num_residues": 591,
+      "high_confidence_fraction": 0.4856175972927242
+    },
+    "plddt_available": true,
+    "num_residues": 591
+  },
+  "PIM2": {
+    "gene": "PIM2",
+    "family": "PIM",
+    "uniprot": "Q9P1W9",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-Q9P1W9-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 89.62244372990354,
+      "median_plddt": 97.44,
+      "min_plddt": 30.2,
+      "max_plddt": 98.94,
+      "num_residues": 311,
+      "high_confidence_fraction": 0.8810289389067524
+    },
+    "plddt_available": true,
+    "num_residues": 311
+  },
+  "PIM3": {
+    "gene": "PIM3",
+    "family": "PIM",
+    "uniprot": "Q86V86",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-Q86V86-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 84.46812883435582,
+      "median_plddt": 97.19,
+      "min_plddt": 25.75,
+      "max_plddt": 98.94,
+      "num_residues": 326,
+      "high_confidence_fraction": 0.8098159509202454
+    },
+    "plddt_available": true,
+    "num_residues": 326
+  },
+  "AKT1": {
+    "gene": "AKT1",
+    "family": "AKT",
+    "uniprot": "P31749",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-P31749-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 83.04720833333334,
+      "median_plddt": 91.09,
+      "min_plddt": 25.02,
+      "max_plddt": 98.69,
+      "num_residues": 480,
+      "high_confidence_fraction": 0.8333333333333334
+    },
+    "plddt_available": true,
+    "num_residues": 480
+  },
+  "AKT2": {
+    "gene": "AKT2",
+    "family": "AKT",
+    "uniprot": "P31751",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-P31751-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 82.27068607068607,
+      "median_plddt": 90.12,
+      "min_plddt": 25.59,
+      "max_plddt": 98.69,
+      "num_residues": 481,
+      "high_confidence_fraction": 0.8212058212058212
+    },
+    "plddt_available": true,
+    "num_residues": 481
+  },
+  "AKT3": {
+    "gene": "AKT3",
+    "family": "AKT",
+    "uniprot": "Q9Y243",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-Q9Y243-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 82.07167014613779,
+      "median_plddt": 90.38,
+      "min_plddt": 25.5,
+      "max_plddt": 98.69,
+      "num_residues": 479,
+      "high_confidence_fraction": 0.81419624217119
+    },
+    "plddt_available": true,
+    "num_residues": 479
+  },
+  "PIK3CA": {
+    "gene": "PIK3CA",
+    "family": "PIK3",
+    "uniprot": "P42336",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-P42336-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 92.36351123595506,
+      "median_plddt": 96.12,
+      "min_plddt": 29.27,
+      "max_plddt": 98.94,
+      "num_residues": 1068,
+      "high_confidence_fraction": 0.9391385767790262
+    },
+    "plddt_available": true,
+    "num_residues": 1068
+  },
+  "PIK3CB": {
+    "gene": "PIK3CB",
+    "family": "PIK3",
+    "uniprot": "P42338",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-P42338-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 86.34905607476635,
+      "median_plddt": 92.0,
+      "min_plddt": 24.34,
+      "max_plddt": 98.62,
+      "num_residues": 1070,
+      "high_confidence_fraction": 0.8775700934579439
+    },
+    "plddt_available": true,
+    "num_residues": 1070
+  },
+  "PIK3CG": {
+    "gene": "PIK3CG",
+    "family": "PIK3",
+    "uniprot": "P48736",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-P48736-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 87.79231397459165,
+      "median_plddt": 94.44,
+      "min_plddt": 23.31,
+      "max_plddt": 98.88,
+      "num_residues": 1102,
+      "high_confidence_fraction": 0.8883847549909256
+    },
+    "plddt_available": true,
+    "num_residues": 1102
+  },
+  "PIK3CD": {
+    "gene": "PIK3CD",
+    "family": "PIK3",
+    "uniprot": "O00329",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-O00329-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 87.94943486590037,
+      "median_plddt": 93.25,
+      "min_plddt": 28.64,
+      "max_plddt": 98.69,
+      "num_residues": 1044,
+      "high_confidence_fraction": 0.8802681992337165
+    },
+    "plddt_available": true,
+    "num_residues": 1044
+  },
+  "CLK1": {
+    "gene": "CLK1",
+    "family": "CLK",
+    "uniprot": "P49759",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-P49759-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 79.05851239669421,
+      "median_plddt": 95.19,
+      "min_plddt": 25.86,
+      "max_plddt": 98.94,
+      "num_residues": 484,
+      "high_confidence_fraction": 0.7066115702479339
+    },
+    "plddt_available": true,
+    "num_residues": 484
+  },
+  "CLK2": {
+    "gene": "CLK2",
+    "family": "CLK",
+    "uniprot": "P49760",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-P49760-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 77.48082164328659,
+      "median_plddt": 95.25,
+      "min_plddt": 25.8,
+      "max_plddt": 98.88,
+      "num_residues": 499,
+      "high_confidence_fraction": 0.687374749498998
+    },
+    "plddt_available": true,
+    "num_residues": 499
+  },
+  "CLK3": {
+    "gene": "CLK3",
+    "family": "CLK",
+    "uniprot": "P49761",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-P49761-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 79.02832653061225,
+      "median_plddt": 96.12,
+      "min_plddt": 25.92,
+      "max_plddt": 98.94,
+      "num_residues": 490,
+      "high_confidence_fraction": 0.7081632653061225
+    },
+    "plddt_available": true,
+    "num_residues": 490
+  },
+  "CLK4": {
+    "gene": "CLK4",
+    "family": "CLK",
+    "uniprot": "Q9HAZ1",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-Q9HAZ1-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 79.08116424116425,
+      "median_plddt": 95.06,
+      "min_plddt": 26.33,
+      "max_plddt": 98.94,
+      "num_residues": 481,
+      "high_confidence_fraction": 0.7089397089397089
+    },
+    "plddt_available": true,
+    "num_residues": 481
+  },
+  "JAK1": {
+    "gene": "JAK1",
+    "family": "JAK",
+    "uniprot": "P23458",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-P23458-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 85.5702512998267,
+      "median_plddt": 91.97,
+      "min_plddt": 26.84,
+      "max_plddt": 98.81,
+      "num_residues": 1154,
+      "high_confidence_fraction": 0.8648180242634316
+    },
+    "plddt_available": true,
+    "num_residues": 1154
+  },
+  "JAK2": {
+    "gene": "JAK2",
+    "family": "JAK",
+    "uniprot": "O60674",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-O60674-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 86.88294169611306,
+      "median_plddt": 92.75,
+      "min_plddt": 21.81,
+      "max_plddt": 98.56,
+      "num_residues": 1132,
+      "high_confidence_fraction": 0.8939929328621908
+    },
+    "plddt_available": true,
+    "num_residues": 1132
+  },
+  "JAK3": {
+    "gene": "JAK3",
+    "family": "JAK",
+    "uniprot": "P52333",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-P52333-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 85.690115658363,
+      "median_plddt": 92.22,
+      "min_plddt": 21.41,
+      "max_plddt": 98.75,
+      "num_residues": 1124,
+      "high_confidence_fraction": 0.8790035587188612
+    },
+    "plddt_available": true,
+    "num_residues": 1124
+  },
+  "TYK2": {
+    "gene": "TYK2",
+    "family": "JAK",
+    "uniprot": "P29597",
+    "pdb_path": "/home/bcheng/splicebind/data/structures/AF-P29597-F1-model_v6.pdb",
+    "plddt": {
+      "mean_plddt": 81.76899747262004,
+      "median_plddt": 90.12,
+      "min_plddt": 22.42,
+      "max_plddt": 98.62,
+      "num_residues": 1187,
+      "high_confidence_fraction": 0.827295703454086
+    },
+    "plddt_available": true,
+    "num_residues": 1187
+  }
+}
