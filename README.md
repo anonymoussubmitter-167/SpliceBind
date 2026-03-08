@@ -20,7 +20,7 @@ SpliceBind uses a GNN architecture to predict whether kinase binding pockets are
 
 ```bash
 # Clone repository
-git clone https://github.com/bryanc5864/SpliceBind.git
+git clone https://github.com/anonymoussubmitter-167/SpliceBind.git
 cd SpliceBind
 
 # Install dependencies
